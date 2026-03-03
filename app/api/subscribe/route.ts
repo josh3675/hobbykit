@@ -1,11 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
-// Replace with your actual Resend Audience ID once created in the Resend dashboard
-const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID ?? "";
-
 export async function POST(req: NextRequest) {
   let email: string;
 
@@ -22,17 +17,24 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Please enter a valid email address." }, { status: 422 });
   }
 
+  const apiKey = process.env.RESEND_API_KEY;
+  const audienceId = process.env.RESEND_AUDIENCE_ID ?? "";
+
+  if (!apiKey) {
+    console.warn("[subscribe] RESEND_API_KEY not set — skipping.");
+    return NextResponse.json({ success: true }, { status: 200 });
+  }
+
   try {
-    if (AUDIENCE_ID) {
-      // Add to Resend audience
+    const resend = new Resend(apiKey);
+
+    if (audienceId) {
       await resend.contacts.create({
         email,
-        audienceId: AUDIENCE_ID,
+        audienceId,
         unsubscribed: false,
       });
     } else {
-      // No audience configured — just validate the API key works
-      // In production, set RESEND_AUDIENCE_ID in your environment variables
       console.log(`[subscribe] Would add ${email} to audience (RESEND_AUDIENCE_ID not set)`);
     }
 
