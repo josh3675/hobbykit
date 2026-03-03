@@ -1,0 +1,123 @@
+{
+  "slug": "woodworking",
+  "name": "Woodworking",
+  "tagline": "Build something with your own hands",
+  "seo": {
+    "title": "Best Beginner Woodworking Kit UK 2025 | KitUp",
+    "description": "Start woodworking with the right tools. Honest beginner recommendations for hand tools and power tools with Amazon UK links.",
+    "keywords": ["beginner woodworking kit UK", "starter woodworking tools", "what tools do I need to start woodworking UK", "woodworking beginner set UK"]
+  },
+  "intro": "Woodworking is incredibly satisfying but the sheer number of tools available is daunting. Here's the focused starter set that covers 90% of beginner projects.",
+  "difficulty_levels": ["complete-beginner", "some-experience"],
+  "budget_tiers": ["budget", "mid-range", "premium"],
+  "kits": [
+    {
+      "tier": "starter",
+      "label": "Starter Kit",
+      "description": "The essential hand tools to build your first projects safely.",
+      "budget_tier": "budget",
+      "products": [
+        {
+          "id": "woodworking-001",
+          "name": "Stanley FatMax Hand Tool Set (8 Piece)",
+          "description": "Includes hammer, chisels, mallet, marking gauge, and square. Everything needed for basic joinery and finishing.",
+          "why_we_picked": "Stanley FatMax tools have excellent build quality for the price and are widely trusted in the UK. A proper hand tool set teaches you the fundamentals before adding power tools.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://www.amazon.co.uk/dp/B07BKFR45T?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£40–£65",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BKFR45T&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "woodworking-002",
+          "name": "Bosch PSR 1440 LI Cordless Drill",
+          "description": "A reliable cordless drill/driver with enough torque for wood drilling and screw driving. Two-speed gearbox for control.",
+          "why_we_picked": "A cordless drill is the most-used tool in any woodworker's shop. The Bosch PSR 1440 hits the right balance of power, weight, and price for beginners.",
+          "badge": "Most Versatile",
+          "amazon_url": "https://www.amazon.co.uk/dp/B003PTNF8A?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£50–£80",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003PTNF8A&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "woodworking-003",
+          "name": "Silverline Workbench (79cm)",
+          "description": "A sturdy folding workbench with a built-in vice. Folds flat for storage — essential if you're working in a garage or small space.",
+          "why_we_picked": "Working on the floor or kitchen table is a recipe for frustration and injury. A workbench with a vice changes everything — it's the foundation of your workshop.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B000HEYWJW?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£50–£80",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000HEYWJW&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "woodworking-004",
+          "name": "Safety Glasses + Dust Mask Combo",
+          "description": "Basic PPE for any woodworking project. Eye protection and dust filtering are non-negotiable when cutting, sanding, or drilling.",
+          "why_we_picked": "Safety first isn't a cliché — wood dust and flying chips are genuine hazards. This combo kit covers your eyes and lungs for the cost of a coffee.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B07PJHBPMD?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£10–£18",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PJHBPMD&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        }
+      ]
+    },
+    {
+      "tier": "upgrade",
+      "label": "Level Up Kit",
+      "description": "Add these tools when you're ready to tackle bigger, more precise projects.",
+      "budget_tier": "mid-range",
+      "products": [
+        {
+          "id": "woodworking-005",
+          "name": "Bosch PST 700 E Jigsaw",
+          "description": "A jigsaw lets you cut curves, shapes, and patterns that a handsaw can't manage. Opens up furniture and decorative projects.",
+          "why_we_picked": "The jigsaw is the most versatile power tool for beginner woodworkers after a drill. The Bosch PST 700 is light, accurate, and simple to use.",
+          "badge": "Staff Pick",
+          "amazon_url": "https://www.amazon.co.uk/dp/B009NRJV7W?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£45–£70",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009NRJV7W&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "woodworking-006",
+          "name": "Bosch Random Orbit Sander",
+          "description": "A random orbit sander produces a smooth finish without sanding marks. Far faster than hand sanding for any project larger than a small box.",
+          "why_we_picked": "The finish is what separates amateur and professional woodwork. An orbital sander makes achieving a smooth, paint-ready surface genuinely easy.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B009O29E4Q?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£35–£55",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009O29E4Q&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Tape measure (5m minimum)",
+    "Combination square",
+    "Hand saw or circular saw",
+    "Cordless drill/driver with bit set",
+    "Chisels (set of 4)",
+    "Mallet",
+    "Marking gauge",
+    "Sandpaper (80, 120, 180, 240 grit)",
+    "Safety glasses",
+    "Dust mask (FFP2 minimum)",
+    "Workbench or workmate with vice",
+    "Wood glue (Titebond or PVA)"
+  ],
+  "faqs": [
+    {
+      "question": "Hand tools or power tools for a complete beginner?",
+      "answer": "Start with hand tools — they teach you to understand wood grain, joinery, and technique. A cordless drill is the only power tool you truly need at first. Add power tools as your projects demand them."
+    },
+    {
+      "question": "What's the best first woodworking project?",
+      "answer": "A simple box or shelf is the classic first project. It involves measuring, cutting, drilling, and joining — all the fundamentals — without complex joinery. There are hundreds of free plans online."
+    },
+    {
+      "question": "Do I need a workshop to start woodworking?",
+      "answer": "No — a garage, garden, or even a kitchen is fine for hand tool work. A folding workbench with a vice is essential. Power tools that generate fine dust are best used outdoors or in a well-ventilated space."
+    },
+    {
+      "question": "What wood should a beginner use?",
+      "answer": "Pine is cheap, widely available, and easy to cut and join — ideal for learning. Avoid hardwoods like oak until you're comfortable with your tools. Timber merchants and B&Q both sell pine in standard sizes."
+    }
+  ]
+}

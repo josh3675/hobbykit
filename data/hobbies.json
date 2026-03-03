@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "guitar",
+    "name": "Guitar",
+    "tagline": "Start strumming from day one",
+    "description": "Everything a complete beginner needs to pick up the guitar and start playing.",
+    "image": "/images/hobbies/guitar.jpg",
+    "emoji": "🎸",
+    "difficulty": "beginner-friendly",
+    "featured": true
+  },
+  {
+    "slug": "watercolour-painting",
+    "name": "Watercolour Painting",
+    "tagline": "Express yourself with colour and water",
+    "description": "Discover the calming art of watercolour painting with the right brushes, paints, and paper.",
+    "image": "/images/hobbies/watercolour-painting.jpg",
+    "emoji": "🎨",
+    "difficulty": "beginner-friendly",
+    "featured": true
+  },
+  {
+    "slug": "photography",
+    "name": "Photography",
+    "tagline": "Capture the world through your lens",
+    "description": "From your first camera to your first great shot — the essential kit for beginner photographers.",
+    "image": "/images/hobbies/photography.jpg",
+    "emoji": "📷",
+    "difficulty": "beginner-friendly",
+    "featured": true
+  },
+  {
+    "slug": "woodworking",
+    "name": "Woodworking",
+    "tagline": "Build something with your own hands",
+    "description": "The starter tools you need to begin woodworking safely and confidently at home.",
+    "image": "/images/hobbies/woodworking.jpg",
+    "emoji": "🪵",
+    "difficulty": "some-experience",
+    "featured": false
+  },
+  {
+    "slug": "3d-printing",
+    "name": "3D Printing",
+    "tagline": "Turn digital designs into real objects",
+    "description": "Everything you need to start 3D printing at home, from your first printer to finishing supplies.",
+    "image": "/images/hobbies/3d-printing.jpg",
+    "emoji": "🖨️",
+    "difficulty": "some-experience",
+    "featured": false
+  },
+  {
+    "slug": "fishing",
+    "name": "Fishing",
+    "tagline": "Cast a line and enjoy the peace",
+    "description": "The essential fishing kit for UK beginners — rods, reels, tackle, and everything in between.",
+    "image": "/images/hobbies/fishing.jpg",
+    "emoji": "🎣",
+    "difficulty": "beginner-friendly",
+    "featured": false
+  }
+]

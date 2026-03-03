@@ -1,0 +1,122 @@
+{
+  "slug": "fishing",
+  "name": "Fishing",
+  "tagline": "Cast a line and enjoy the peace",
+  "seo": {
+    "title": "Best Beginner Fishing Kit UK 2025 | KitUp",
+    "description": "Start fishing in the UK with the right rod, reel, and tackle. Honest beginner recommendations with Amazon UK links.",
+    "keywords": ["beginner fishing kit UK", "starter fishing rod and reel UK", "what do I need to start fishing UK", "coarse fishing starter kit UK"]
+  },
+  "intro": "Fishing is one of the most peaceful hobbies you can take up — but the tackle shop can be overwhelming. Here's the no-nonsense kit list for getting a line in UK waters.",
+  "difficulty_levels": ["complete-beginner", "some-experience"],
+  "budget_tiers": ["budget", "mid-range", "premium"],
+  "kits": [
+    {
+      "tier": "starter",
+      "label": "Starter Kit",
+      "description": "Everything you need for a day's coarse fishing on a UK river or lake.",
+      "budget_tier": "budget",
+      "products": [
+        {
+          "id": "fishing-001",
+          "name": "Daiwa Ninja 3000 Spinning Combo (Rod + Reel)",
+          "description": "A matched rod and reel combo from one of fishing's most trusted brands. The 3m rod handles float fishing and lure fishing across most UK venues.",
+          "why_we_picked": "Daiwa Ninja combos are the go-to recommendation from tackle shops across the UK. Reliable, well-balanced, and suitable for rivers, canals, and still waters.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://www.amazon.co.uk/dp/B00VTL2XEK?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£35–£55",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VTL2XEK&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "fishing-002",
+          "name": "Shakespeare Complete Tackle Box Kit",
+          "description": "A comprehensive starter tackle set including hooks, floats, weights, swivels, and a tackle box. Everything you need to rig up and start fishing.",
+          "why_we_picked": "Buying tackle individually is time-consuming and expensive. This kit from Shakespeare covers all the essentials in one box at a fraction of the cost.",
+          "badge": "Best Value",
+          "amazon_url": "https://www.amazon.co.uk/dp/B00009RCLP?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£20–£35",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00009RCLP&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "fishing-003",
+          "name": "Daiwa Monofilament Line 8lb (300m)",
+          "description": "Clear monofilament line — the most versatile choice for general coarse fishing. 8lb breaking strain is suitable for most UK species.",
+          "why_we_picked": "The line on combo spools is often poor quality. Replacing it with Daiwa mono before your first session is a 5-minute job that makes a real difference to casting and bite detection.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B003GBZ7RI?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£5–£10",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003GBZ7RI&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "fishing-004",
+          "name": "Fishing Seat Box / Tackle Seat",
+          "description": "A padded seat with integrated storage for tackle, bait, and accessories. Keeps you comfortable and organised during long sessions.",
+          "why_we_picked": "Sitting on a damp bank for hours isn't sustainable. A seat box is standard kit for UK coarse fishing — it carries your gear and keeps you comfortable.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B006MTP0OG?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£25–£45",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006MTP0OG&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        }
+      ]
+    },
+    {
+      "tier": "upgrade",
+      "label": "Level Up Kit",
+      "description": "Progress to a dedicated rod and reel setup for more serious sessions.",
+      "budget_tier": "mid-range",
+      "products": [
+        {
+          "id": "fishing-005",
+          "name": "Daiwa Crosscast 13ft Float Rod",
+          "description": "A dedicated float fishing rod with the length and sensitivity to present bait accurately at distance. The standard tool for UK river and canal fishing.",
+          "why_we_picked": "A proper float rod transforms float fishing. The extra length gives far better strike timing and bite indication than a general spinning rod.",
+          "badge": "Staff Pick",
+          "amazon_url": "https://www.amazon.co.uk/dp/B007Z1CJRY?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£40–£70",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007Z1CJRY&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        },
+        {
+          "id": "fishing-006",
+          "name": "Korum Folding Landing Net",
+          "description": "A 42-inch folding net with a telescopic handle. Large enough for most UK coarse species, folds compact for transport.",
+          "why_we_picked": "You'll lose fish without a landing net. A foldable net takes up minimal space and is essential once you start catching anything larger than a roach.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/B00NQRG43O?tag=YOUR_ASSOCIATE_TAG",
+          "price_range": "£20–£35",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NQRG43O&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Rod and reel (combo or separate)",
+    "Monofilament or fluorocarbon line",
+    "Hooks (size 14–18 for general coarse fishing)",
+    "Floats (stick floats and waggler floats)",
+    "Split shot weights",
+    "Swivels and clips",
+    "Landing net",
+    "Disgorger (for safely removing hooks)",
+    "Bait (maggots, worms, sweetcorn, bread flake)",
+    "Seat box or folding chair",
+    "Fishing licence (required in England, Wales, and Scotland)"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a fishing licence in the UK?",
+      "answer": "Yes — anyone aged 13 and over fishing for freshwater fish in England, Wales, or Scotland needs a rod licence from the Environment Agency. They cost £30/year or £6/day and are available online at gov.uk."
+    },
+    {
+      "question": "What fish can I catch as a beginner in the UK?",
+      "answer": "Roach, perch, bream, carp, and tench are all common catches for beginners on UK lakes and rivers. Coarse fishing (for anything other than salmon and trout) is the most accessible type to start."
+    },
+    {
+      "question": "What bait should I use as a beginner?",
+      "answer": "Maggots are the most effective and widely available bait for UK coarse fishing — buy them from a tackle shop on the day. Sweetcorn and bread are effective, cheap alternatives that don't require a tackle shop."
+    },
+    {
+      "question": "Where can I fish in the UK as a beginner?",
+      "answer": "Day ticket fisheries (commercials) are the easiest places to start — you pay on the day, they're well stocked, and bailiffs are on hand to help. The Angling Trust website lists venues near you."
+    }
+  ]
+}
