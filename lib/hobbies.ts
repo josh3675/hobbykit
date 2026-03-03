@@ -63,7 +63,7 @@ export function getHobbyBySlug(slug: string): HobbyDetail | null {
   const hobby = JSON.parse(raw) as HobbyDetail;
 
   // Replace the associate tag placeholder with the env variable
-  const tag = process.env.NEXT_PUBLIC_AMAZON_ASSOCIATE_TAG ?? "YOUR_ASSOCIATE_TAG";
+  const tag = (process.env.NEXT_PUBLIC_AMAZON_ASSOCIATE_TAG ?? "YOUR_ASSOCIATE_TAG").trim();
   const hydrated = JSON.parse(
     JSON.stringify(hobby).replace(/YOUR_ASSOCIATE_TAG/g, tag)
   ) as HobbyDetail;
