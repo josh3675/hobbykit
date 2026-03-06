@@ -101,19 +101,43 @@
   "faqs": [
     {
       "question": "DSLR or mirrorless for a beginner?",
-      "answer": "Both work well for beginners. DSLRs have better battery life and a wider range of affordable second-hand lenses. Mirrorless cameras are generally lighter and newer. Either is fine — don't overthink it."
+      "answer": "Both work well for beginners. DSLRs tend to have better battery life, cheaper second-hand lenses, and are arguably more intuitive to learn on. Mirrorless cameras are lighter, more compact, and represent the direction the industry is moving. If budget is tight, a second-hand DSLR offers the best value. If you're buying new, mirrorless is the better long-term investment."
     },
     {
-      "question": "How many megapixels do I need?",
-      "answer": "Any modern camera has more than enough megapixels for a beginner. A Canon 2000D has 24MP — that's plenty for prints up to A2 size. Focus on learning exposure rather than chasing specs."
+      "question": "What is the exposure triangle and do I need to understand it?",
+      "answer": "The exposure triangle is the relationship between three settings: shutter speed (how long the sensor is exposed to light), aperture (how wide the lens opens), and ISO (how sensitive the sensor is). Understanding how they work together is the foundation of taking control of your camera. You don't need to memorise it — spend an afternoon in Aperture Priority mode (Av) and you'll pick it up naturally. It's simpler than it sounds."
     },
     {
       "question": "Should I shoot in RAW or JPEG?",
-      "answer": "Start with JPEG — it's simpler and the camera does the processing for you. Move to RAW once you start editing photos on a computer, as RAW gives you far more flexibility."
+      "answer": "Start with JPEG — the camera processes the image for you and the files are smaller and sharper straight from the camera. Switch to RAW once you start editing on a computer, as RAW files retain all the captured data, giving you far more latitude to fix exposure, colour, and white balance in post. Shooting RAW+JPEG while you're learning is a good middle ground."
+    },
+    {
+      "question": "My photos are blurry indoors — what am I doing wrong?",
+      "answer": "Almost certainly your shutter speed is too slow. In low light, the camera automatically slows the shutter to gather more light, but slow shutter speeds cause motion blur — from camera shake or your subject moving. Fix it by raising your ISO (try 800–3200 indoors), opening your aperture wider, or using a tripod. If you're shooting on Auto, switch to Aperture Priority and let the camera worry about shutter speed while you control the exposure."
+    },
+    {
+      "question": "What is the rule of thirds?",
+      "answer": "The rule of thirds divides your frame into a 3x3 grid. Placing your subject at one of the four intersection points — rather than dead centre — creates a more visually interesting composition. Most cameras can display this grid in the viewfinder. It's the single most useful compositional principle to learn first, though rules are made to be broken once you understand why they exist."
+    },
+    {
+      "question": "How many megapixels do I need?",
+      "answer": "Far fewer than you think. A Canon 2000D has 24MP — enough for prints larger than A1 size. Megapixels are largely a marketing metric. What matters far more is lens quality, sensor size, and your ability to use the camera. A 12MP full-frame camera will outperform a 50MP smartphone in almost every situation."
+    },
+    {
+      "question": "How do I take sharper photos?",
+      "answer": "Three things make the biggest difference: shutter speed (keep it above 1/focal length — so above 1/50s with a 50mm lens), focus point (use single-point AF and place it on your subject's eye), and holding technique (tuck your elbows in, hold your breath when pressing the shutter). A tripod eliminates camera shake entirely for static subjects."
     },
     {
       "question": "Do I need photo editing software?",
-      "answer": "Not at first. But once you're comfortable with your camera, free tools like RawTherapee or Lightroom (subscription) will transform your photos. Many cameras also have in-built editing features."
+      "answer": "Not immediately — spend the first few months learning your camera rather than chasing fixes in post. When you're ready, Lightroom Classic is the industry standard (subscription-based), but free alternatives like RawTherapee and Darktable are genuinely capable. Many beginners also find Google Photos adequate for basic adjustments. The best photos start in camera, not in editing."
+    },
+    {
+      "question": "How should I back up my photos?",
+      "answer": "Follow the 3-2-1 rule: keep 3 copies of your photos, on 2 different types of media, with 1 stored off-site. In practice: your computer's hard drive, an external drive, and a cloud service like Google Photos or Backblaze. Losing irreplaceable photos to a hard drive failure is heartbreaking and completely avoidable. Set up a backup system before it becomes urgent."
+    },
+    {
+      "question": "What should I photograph as a beginner?",
+      "answer": "Shoot what genuinely interests you — landscapes, people, food, architecture, pets. Motivation matters more than subject choice. That said, portrait photography with a 50mm prime lens is a fantastic way to learn, because you're forced to think about light, distance, and connection with your subject. Street photography teaches you to react quickly. Landscape teaches patience and composition."
     }
   ]
 }

@@ -101,19 +101,43 @@
   "faqs": [
     {
       "question": "Pans or tubes — which is better for beginners?",
-      "answer": "Pans are more convenient and less wasteful for beginners. Tubes give richer colour and are better for larger paintings. Start with a pan set and add tubes as you progress."
+      "answer": "Pans are more convenient and less wasteful — the paint is already dry so there's no waste, and they're easy to carry. Tubes give richer, more intense colour and are better for covering large areas or mixing big washes. Start with a quality pan set like Winsor & Newton Cotman and add tubes once you know which colours you actually use."
     },
     {
       "question": "Do I need expensive paper to start?",
-      "answer": "Yes — this is the one area not to skimp. Cheap paper buckles when wet and makes watercolour incredibly frustrating. 300gsm cold press is the minimum. Arches or Fabriano are worth it."
+      "answer": "Yes — paper is the one area not to skimp. Cheap paper buckles dramatically when wet, fights your brush, and makes watercolour genuinely frustrating. 300gsm cold press cotton paper is the minimum worth using. Arches and Fabriano are the professional standards. Think of it this way: great paper with student paints produces better results than cheap paper with expensive paints."
     },
     {
-      "question": "Can I teach myself watercolour painting?",
-      "answer": "Absolutely. YouTube channels like Liron Yanconsky and The Mind of Watercolor are excellent for free tutorials. Start with simple colour mixing exercises before attempting subjects."
+      "question": "What does 'wet-on-wet' and 'wet-on-dry' mean?",
+      "answer": "Wet-on-wet means you wet the paper first, then apply paint — the colour spreads and blooms softly, perfect for skies, backgrounds, and dreamy effects. Wet-on-dry means applying wet paint to dry paper, giving you crisp, controlled edges ideal for details and outlines. Most paintings use both techniques in the same piece — loose washes in the background, detail work in the foreground."
+    },
+    {
+      "question": "Why do my colours look dull and faded when they dry?",
+      "answer": "Watercolour always dries lighter than it looks when wet — this catches every beginner out. The fix is to paint darker and more saturated than you think you need. It helps to keep a test strip of the same paper beside your painting and do a quick swatch before committing. Over time you develop an instinct for how much a particular colour will lighten."
+    },
+    {
+      "question": "Why does my painting look muddy?",
+      "answer": "Muddy colours come from two main causes: mixing too many colours together, or working into wet paint before it's fully dried. Stick to a limited palette (3–5 colours), let each wash dry completely before adding the next, and use two water jars — one to rinse, one clean. Dirty water is the biggest culprit for muddy mixes."
     },
     {
       "question": "What's the difference between cold press and hot press paper?",
-      "answer": "Cold press has a slight texture (tooth) that most beginners find easier to control. Hot press is smooth, which suits detailed work but is harder to use for washes. Start with cold press."
+      "answer": "Cold press paper has a slight texture (called 'tooth') that most beginners find easier to control — it grips the paint and suits washes, landscapes, and most subjects. Hot press is completely smooth, which is better for fine botanical illustration and highly detailed work but harder to use for loose washes. Start with cold press and try hot press once you're comfortable."
+    },
+    {
+      "question": "What should I paint first as a complete beginner?",
+      "answer": "Start with simple shapes rather than complex subjects — a lemon, an apple, or a basic landscape with a sky and ground. These teach you colour mixing, wash control, and how the paint behaves without the frustration of a complicated composition. Painting simple objects from life (rather than copying photos) also trains your eye faster."
+    },
+    {
+      "question": "How do I keep white areas in my painting?",
+      "answer": "Unlike acrylic or oil, you can't paint white over watercolour — the white in a watercolour painting is the paper itself. To preserve white areas, plan them from the start and paint around them, or use masking fluid (liquid rubber) to protect areas before painting over them. Peel the masking fluid off once the surrounding paint is dry to reveal crisp white paper beneath."
+    },
+    {
+      "question": "Can I teach myself watercolour?",
+      "answer": "Absolutely. YouTube channels like Liron Yanconsky, The Mind of Watercolor, and Emily Wassell are excellent free resources. Start with colour mixing exercises — learn how your specific paints mix before attempting subjects. Many beginners skip this step and then struggle to understand why their colours look wrong."
+    },
+    {
+      "question": "Should I paint from photos or from life?",
+      "answer": "Both are valid, but painting from life — even simple still life objects — trains your eye faster and teaches you to make colour decisions yourself. Working from photos is convenient and perfectly acceptable for beginners, but avoid relying on them exclusively. If using photos, choose ones with strong light and clear shadows rather than flat, overcast shots."
     }
   ]
 }

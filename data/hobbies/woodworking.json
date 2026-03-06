@@ -105,19 +105,43 @@
   "faqs": [
     {
       "question": "Hand tools or power tools for a complete beginner?",
-      "answer": "Start with hand tools — they teach you to understand wood grain, joinery, and technique. A cordless drill is the only power tool you truly need at first. Add power tools as your projects demand them."
+      "answer": "Start with hand tools — they teach you to understand wood grain, joinery, and technique before you let a machine do the work. A cordless drill/driver is the one power tool you need from day one. Add a jigsaw next, then a random orbit sander. Power tools come naturally once you've learned to measure, mark, and think through a cut carefully."
     },
     {
       "question": "What's the best first woodworking project?",
-      "answer": "A simple box or shelf is the classic first project. It involves measuring, cutting, drilling, and joining — all the fundamentals — without complex joinery. There are hundreds of free plans online."
+      "answer": "A simple shelf, storage box, or small step stool. These involve the core skills — measuring, cutting straight lines, drilling, and joining — without complex joinery or curves. Hundreds of free beginner plans exist on sites like Ana White and Woodsmith. The goal of your first project isn't a perfect result, it's learning how wood behaves."
+    },
+    {
+      "question": "Why doesn't a 2x4 actually measure 2 inches by 4 inches?",
+      "answer": "Timber is sold by its rough-cut size before it's planed smooth. A '2x4' starts at 2\" x 4\" rough, but after milling it ends up at approximately 1.5\" x 3.5\". This trips up almost every beginner. Always measure the actual board in your hand, not the nominal size on the label. The same applies to all standard timber sizes."
     },
     {
       "question": "Do I need a workshop to start woodworking?",
-      "answer": "No — a garage, garden, or even a kitchen is fine for hand tool work. A folding workbench with a vice is essential. Power tools that generate fine dust are best used outdoors or in a well-ventilated space."
+      "answer": "No — a garage or outdoor space works fine for most beginner projects. A folding workbench with a built-in vice is essential: working on the floor is both uncomfortable and dangerous. Power tools that create fine dust (sanders, saws) are best used outdoors or with a dust extractor. A dust mask (FFP2 or FFP3) is non-negotiable whenever you're sanding or cutting."
     },
     {
       "question": "What wood should a beginner use?",
-      "answer": "Pine is cheap, widely available, and easy to cut and join — ideal for learning. Avoid hardwoods like oak until you're comfortable with your tools. Timber merchants and B&Q both sell pine in standard sizes."
+      "answer": "Pine is the classic beginner wood — cheap, widely available at B&Q and timber merchants, soft enough to cut easily, and forgiving of mistakes. Plywood is excellent for box projects as it's stable and doesn't warp. Avoid hardwoods like oak, ash, or walnut until you're comfortable with your tools — they blunt blades faster and require more force to work."
+    },
+    {
+      "question": "How do I get straight, accurate cuts?",
+      "answer": "Measure twice, cut once — and mark with a sharp pencil or marking knife, not a thick felt tip. Use a combination square to mark cut lines at 90°. For hand sawing, clamp a guide block along your line. For power tools, use a rip fence or clamped straight-edge guide. Most beginner cuts go wrong at the marking stage, not the cutting stage."
+    },
+    {
+      "question": "Should I use screws, nails, or wood glue?",
+      "answer": "Wood glue (PVA or Titebond) creates joints stronger than the wood itself when applied correctly to clean, flat surfaces — always clamp glued joints for at least an hour. Screws add mechanical strength and are essential for joints under stress. Nails are rarely the right choice for furniture. Most strong woodworking joints combine glue and screws together."
+    },
+    {
+      "question": "How do I prevent wood from splitting when I drill screws in?",
+      "answer": "Always drill a pilot hole slightly smaller than your screw's diameter before driving a screw — especially near the end of a board, where splitting is most likely. Hardwoods need pilot holes almost every time. Softwoods like pine are more forgiving but still split near edges. A countersink bit creates a recess so your screw head sits flush with the surface."
+    },
+    {
+      "question": "How do I get a smooth, professional finish?",
+      "answer": "Sand through progressively finer grits: 80 → 120 → 180 → 240. Never skip grits — each one removes the scratches left by the previous. Always sand in the direction of the wood grain. Wipe the surface with a slightly damp cloth between the final two grits to raise the grain, then sand again. The finish — paint, oil, or varnish — is only as good as the surface preparation underneath."
+    },
+    {
+      "question": "Where can I find free project plans as a beginner?",
+      "answer": "Ana White (ana-white.com) has hundreds of free furniture plans with cut lists and step-by-step instructions. Instructables has community-built projects at every skill level. YouTube channels like Stumpy Nubs, The Wood Whisperer, and Paul Sellers cover everything from hand tool basics to advanced joinery. The r/BeginnerWoodWorking subreddit is also genuinely helpful."
     }
   ]
 }

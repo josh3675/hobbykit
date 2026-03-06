@@ -91,19 +91,43 @@
   "faqs": [
     {
       "question": "What's the best first 3D printer to buy in the UK?",
-      "answer": "The Bambu Lab A1 Mini is our top recommendation for beginners in 2025. It's fast, reliable, auto-calibrates itself, and produces excellent results without tinkering. The Creality Ender 3 is a cheaper alternative but requires more setup."
+      "answer": "The Bambu Lab A1 Mini is our top recommendation for beginners in 2025. It auto-calibrates, prints fast, connects via Wi-Fi, and just works — no tinkering required. The Creality Ender 3 V3 is a popular cheaper alternative but requires more hands-on setup. If you want to start printing rather than building and tweaking, pay the premium for Bambu."
+    },
+    {
+      "question": "What is bed levelling and why does it matter?",
+      "answer": "Bed levelling (or tramming) ensures the print nozzle is the same distance from the build plate across the entire surface. If the nozzle is too far away, the first layer won't stick. Too close, and it scrapes the bed or clogs. It's the single most common cause of failed prints for beginners. Most modern printers like the Bambu A1 Mini auto-level, which is the main reason we recommend them — manual levelling frustrates a lot of new users."
+    },
+    {
+      "question": "Why won't my print stick to the bed?",
+      "answer": "The most common causes are: bed not level, bed surface dirty (clean with isopropyl alcohol), printing temperature too low, or a first layer that's set too high in your slicer settings. Clean the bed before every print, run a bed level calibration, and make sure you're printing PLA at around 200–215°C nozzle / 60°C bed. A thin layer of glue stick on the bed surface can also dramatically improve adhesion."
+    },
+    {
+      "question": "What's the difference between PLA, PETG, and ABS?",
+      "answer": "PLA is the beginner's filament — easy to print, low temperature, doesn't warp, smells faintly of sweetcorn, and is biodegradable. PETG is tougher, more flexible, and more heat-resistant than PLA — good for functional parts. ABS is strong and heat-resistant but warps badly, releases fumes, and needs an enclosed printer. Start with PLA for your first months, move to PETG when you need stronger parts."
+    },
+    {
+      "question": "What is a slicer and which should I use?",
+      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For Bambu printers, use Bambu Studio — it's fast, well-designed, and has great defaults. PrusaSlicer and Orca Slicer are excellent free alternatives that work with most printers."
     },
     {
       "question": "Do I need to know CAD to use a 3D printer?",
-      "answer": "No. Sites like Printables and Thingiverse have thousands of free ready-to-print models. You can print for months before needing to design anything yourself. Tinkercad is a free, beginner-friendly tool if you want to start designing."
+      "answer": "No — you can print for months using free models without designing anything yourself. Printables (printables.com) and Thingiverse have hundreds of thousands of free, ready-to-print models for everything from cable clips to cosplay armour. When you're ready to design, Tinkercad is free, browser-based, and genuinely beginner-friendly. Fusion 360 is more powerful and free for hobbyists."
+    },
+    {
+      "question": "My print has stringing — thin hairs between parts of the print. How do I fix it?",
+      "answer": "Stringing happens when molten filament oozes from the nozzle as it moves between sections. The main fix is increasing retraction (the slicer setting that pulls filament back into the nozzle before a travel move). Also try lowering your print temperature by 5°C at a time, and increase travel speed. Most slicers have anti-stringing profiles — enabling 'combing mode' in Cura or Orca Slicer often fixes it immediately."
     },
     {
       "question": "Is 3D printing expensive to run?",
-      "answer": "PLA filament costs roughly £15–£25 per kg, and most small prints use 20–100g. The main running cost is electricity — most home printers use 100–250W, similar to a light bulb. It's a very affordable hobby once you have the printer."
+      "answer": "It's very affordable once you have the printer. PLA filament costs £15–£25 per kg, and most small-to-medium prints use 20–150g. Electricity is minimal — most home printers draw 100–250W, similar to a lightbulb. Your biggest ongoing costs are filament and occasional consumables like nozzles (replace every few months with regular use). A nozzle costs about £3–£8."
     },
     {
       "question": "How long do 3D prints take?",
-      "answer": "Small prints take 30 minutes to 2 hours. Larger objects can take 8–20 hours. Modern printers like the Bambu are significantly faster than older models — a print that takes 6 hours on an Ender 3 might take 2 hours on a Bambu."
+      "answer": "Small prints (keychains, cable clips) take 20–60 minutes. Medium objects take 2–6 hours. Large pieces can take 10–20+ hours. Bambu Lab printers are significantly faster than older machines — a print that takes 8 hours on a Creality might take 2–3 hours on a Bambu A1 Mini. You can also start a print and leave the house — most modern printers have remote monitoring via app."
+    },
+    {
+      "question": "Is 3D printing safe to do indoors?",
+      "answer": "PLA is the safest filament for indoor use — it emits minimal fumes at standard printing temperatures. ABS and ASA produce stronger fumes and should be printed in well-ventilated spaces or enclosed printers with filtration. As a general rule, keep the room ventilated, avoid sleeping in the same room as a running printer, and don't leave a printer unattended for very long prints if you can help it."
     }
   ]
 }

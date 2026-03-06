@@ -104,19 +104,43 @@
   "faqs": [
     {
       "question": "Do I need a fishing licence in the UK?",
-      "answer": "Yes — anyone aged 13 and over fishing for freshwater fish in England, Wales, or Scotland needs a rod licence from the Environment Agency. They cost £30/year or £6/day and are available online at gov.uk."
+      "answer": "Yes — anyone aged 13 and over fishing for freshwater fish in England or Wales needs a rod licence from the Environment Agency. A full-year licence costs around £30, or £6 for a day licence. You can buy one instantly at gov.uk. Scotland operates a different system managed by local fishery boards. Fishing without a licence carries a fine of up to £2,500."
+    },
+    {
+      "question": "Where is the best place to start fishing as a complete beginner?",
+      "answer": "Commercial fisheries (day ticket lakes) are by far the best starting point. They're heavily stocked — you will catch fish — have car parks, toilets, and sometimes a café, and usually have a bailiff on site who can offer advice. Start at a commercial before tackling rivers or natural lakes, which require more skill to read and fish effectively. The Angling Trust website lists venues near you."
     },
     {
       "question": "What fish can I catch as a beginner in the UK?",
-      "answer": "Roach, perch, bream, carp, and tench are all common catches for beginners on UK lakes and rivers. Coarse fishing (for anything other than salmon and trout) is the most accessible type to start."
+      "answer": "On a commercial fishery you'll most likely catch carp, bream, tench, and roach — all of which are satisfying to catch and fight well. Rivers offer perch, chub, barbel, and roach. Coarse fishing (anything other than salmon and trout) is the most accessible for beginners. Expect your first catches to be small — that's completely normal and part of the process."
     },
     {
       "question": "What bait should I use as a beginner?",
-      "answer": "Maggots are the most effective and widely available bait for UK coarse fishing — buy them from a tackle shop on the day. Sweetcorn and bread are effective, cheap alternatives that don't require a tackle shop."
+      "answer": "Maggots are the most universally effective bait for UK coarse fishing and catch almost everything — buy them fresh from a tackle shop on the morning of your session (keep them cool). Sweetcorn straight from the tin is excellent for carp, tench, and bream. Bread flake (pinched off a fresh white loaf) is highly effective for roach and carp. Start with maggots if in doubt."
     },
     {
-      "question": "Where can I fish in the UK as a beginner?",
-      "answer": "Day ticket fisheries (commercials) are the easiest places to start — you pay on the day, they're well stocked, and bailiffs are on hand to help. The Angling Trust website lists venues near you."
+      "question": "What's the best time of day to go fishing?",
+      "answer": "Dawn and dusk are consistently the most productive times — fish are most actively feeding and the light levels are lower, making them less cautious. On commercial fisheries, mid-morning through to early afternoon can also be excellent. Overcast days often outperform bright sunny days, as fish feel safer in lower light. Avoid fishing in the heat of a bright summer afternoon — fish drop down to cooler, deeper water."
+    },
+    {
+      "question": "How deep should I set my float?",
+      "answer": "A good starting point is to set the float so your bait just touches or rests on the bottom — most coarse fish feed on or close to the riverbed or lakebed. To find the depth, set your float deeper than you think, cast out, and if the float lays flat the bait is on the bottom. Gradually shallow up until the float just cocks upright. On commercial fisheries, a depth of 4–6 feet is common."
+    },
+    {
+      "question": "How do I handle and release fish properly?",
+      "answer": "Always wet your hands before handling a fish — dry hands remove the protective slime coat that defends fish against infection. Support the fish horizontally with both hands; never hold it vertically by the lip unless it's a species suited to it (like bass). Unhook quickly and gently, keep the fish in or close to the water, and return it head-first into the current or deeper water. If you want a photo, have your phone ready before picking the fish up."
+    },
+    {
+      "question": "Why am I not catching anything?",
+      "answer": "The most common reasons: bait not on the bottom (set your float deeper), using too large a hook (size 16–18 is better than the large hooks in starter kits), not feeding enough loose bait to attract fish, or fishing in a spot with no fish. Try 'feeding the swim' by regularly throwing in small amounts of loose maggots or groundbait near your float — this draws fish into the area. Patience is essential; even experienced anglers blank sometimes."
+    },
+    {
+      "question": "What's the difference between coarse fishing and fly fishing?",
+      "answer": "Coarse fishing targets species like carp, roach, bream, and perch in rivers and stillwaters using bait on a hook. It's the most popular and accessible form of fishing in the UK. Fly fishing typically targets trout and salmon using artificial flies tied to represent insects — it uses a very different casting technique and is generally considered harder to learn. Start with coarse fishing and explore fly fishing later if you're drawn to it."
+    },
+    {
+      "question": "What should I do if I get a hook stuck in my finger?",
+      "answer": "It happens to almost every angler eventually. For a barbed hook that hasn't gone deep, apply downward pressure on the hook shank and quickly push it back the way it entered — this works for hooks caught near the surface. Never try to pull a deeply embedded hook out yourself. If the hook is past the barb or embedded near the eye, cover it, visit A&E, and let a doctor remove it. Always carry a small first aid kit in your tackle bag."
     }
   ]
 }
