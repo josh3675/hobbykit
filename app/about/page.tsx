@@ -52,18 +52,29 @@ export default function AboutPage() {
         </ul>
 
         <h2 className="text-[#1a1a1a] font-bold text-2xl mt-10 mb-4">
-          Affiliate links
+          A note on affiliate links
         </h2>
         <p className="text-[#333333] leading-relaxed mb-6">
-          KitUp is part of the Amazon Associates programme. When you click a
-          product link and buy something on Amazon, we earn a small commission
-          — at no extra cost to you. This is how we keep the site running and
-          free.
+          Some of the links on KitUp are affiliate links, which means if you
+          click through and make a purchase, we may earn a small commission from
+          Amazon. The important thing to understand is this: <strong>it doesn&apos;t
+          cost you a penny more.</strong> You pay exactly the same price you would
+          by going directly to Amazon — the commission comes from Amazon&apos;s
+          side of the transaction, not yours.
         </p>
         <p className="text-[#333333] leading-relaxed mb-6">
-          Our recommendations are never influenced by affiliate commissions. We
-          don&apos;t recommend products because they pay us more — we recommend
-          them because they&apos;re the right choice for beginners.
+          These commissions are what keep KitUp free and ad-free. Without them,
+          we couldn&apos;t justify the time spent researching and maintaining
+          the site. We think that&apos;s a fair trade — you get honest, curated
+          recommendations with no banner ads or pop-ups; we earn a modest
+          contribution when those recommendations lead to a purchase.
+        </p>
+        <p className="text-[#333333] leading-relaxed mb-6">
+          We want to be clear: affiliate arrangements have zero influence on
+          what we recommend. Products are chosen entirely on merit — whether
+          they&apos;re the right tool for a beginner, at a fair price. We&apos;d
+          rather point you to the best option and earn nothing than recommend
+          something mediocre because it pays a higher rate.
         </p>
 
         <h2 className="text-[#1a1a1a] font-bold text-2xl mt-10 mb-4">
