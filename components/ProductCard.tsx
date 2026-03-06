@@ -1,19 +1,29 @@
+"use client";
+
+import { useState } from "react";
 import Image from "next/image";
 import type { Product } from "@/lib/hobbies";
 
 export default function ProductCard({ product }: { product: Product }) {
+  const [imgError, setImgError] = useState(false);
+
   return (
     <article className="bg-white rounded-xl shadow-sm border border-[#e5e5e5] p-6 hover:shadow-md transition-shadow flex flex-col">
       {/* Image */}
-      <div className="relative w-full aspect-square max-w-[200px] mx-auto mb-5 bg-[#f9f9f9] rounded-lg overflow-hidden">
-        <Image
-          src={product.image_url}
-          alt={product.name}
-          fill
-          className="object-contain p-2"
-          sizes="200px"
-          unoptimized
-        />
+      <div className="relative w-full aspect-square max-w-[200px] mx-auto mb-5 bg-[#f9f9f9] rounded-lg overflow-hidden flex items-center justify-center">
+        {!imgError && product.image_url ? (
+          <Image
+            src={product.image_url}
+            alt={product.name}
+            fill
+            className="object-contain p-2"
+            sizes="200px"
+            unoptimized
+            onError={() => setImgError(true)}
+          />
+        ) : (
+          <span className="text-5xl select-none">📦</span>
+        )}
       </div>
 
       {/* Badge */}

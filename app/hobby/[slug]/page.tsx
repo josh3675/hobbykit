@@ -8,8 +8,8 @@ import {
   getAllHobbies,
   type Product,
 } from "@/lib/hobbies";
-import KitSection from "@/components/KitSection";
 import FilterBar from "@/components/FilterBar";
+import FilteredKits from "@/components/FilteredKits";
 import AdPlaceholder from "@/components/AdPlaceholder";
 import HobbyCard from "@/components/HobbyCard";
 import JsonLd from "@/components/JsonLd";
@@ -143,15 +143,11 @@ export default function HobbyPage({ params }: Props) {
           As an Amazon Associate, KitUp earns from qualifying purchases. Prices shown are approximate and may vary.
         </p>
 
-        {/* FilterBar */}
+        {/* FilterBar + Kit sections */}
         <Suspense fallback={null}>
           <FilterBar />
+          <FilteredKits kits={hobby.kits} />
         </Suspense>
-
-        {/* Kit sections */}
-        {hobby.kits.map((kit) => (
-          <KitSection key={kit.tier} kit={kit} />
-        ))}
 
         {/* Checklist */}
         <section className="mb-14 bg-[#f0f7f4] rounded-xl p-8 border border-[#e5e5e5]">
