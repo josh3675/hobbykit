@@ -22,10 +22,6 @@ export default function HobbyCard({ hobby }: { hobby: HobbyMeta }) {
           className="object-cover"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
-        {/* Emoji badge */}
-        <span className="absolute top-3 left-3 text-2xl bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-sm">
-          {hobby.emoji}
-        </span>
       </div>
 
       {/* Content */}
