@@ -7,21 +7,21 @@
     "description": "Start woodworking with the right tools. Honest beginner recommendations for hand tools and power tools with Amazon UK links.",
     "keywords": ["beginner woodworking kit UK", "starter woodworking tools", "what tools do I need to start woodworking UK", "woodworking beginner set UK"]
   },
-  "intro": "Woodworking is incredibly satisfying but the sheer number of tools available is daunting. Here's the focused starter set that covers 90% of beginner projects.",
+  "intro": "There's something different about making things from wood. The smell of fresh shavings, the sound of a sharp chisel paring a joint, the moment a drawer slides home perfectly. Woodworking rewards patience and accuracy above all else, and the tools you start with shape the kind of craftsman you become. Start with hand tools. They slow you down just enough to learn what you're doing.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
     {
       "tier": "starter",
       "label": "Starter Kit",
-      "description": "The essential hand tools to build your first projects safely.",
+      "description": "The hand tools that teach you the craft before machines take over.",
       "budget_tier": "budget",
       "products": [
         {
           "id": "woodworking-001",
           "name": "Stanley FatMax Hand Tool Set (8 Piece)",
-          "description": "Includes hammer, chisels, mallet, marking gauge, and square. Everything needed for basic joinery and finishing.",
-          "why_we_picked": "Stanley FatMax tools have excellent build quality for the price and are widely trusted in the UK. A proper hand tool set teaches you the fundamentals before adding power tools.",
+          "description": "A solid starter set covering the essentials: hammer, chisels, mallet, marking gauge, and combination square. These are the tools that teach you to read wood, mark accurately, and cut with intention.",
+          "why_we_picked": "Accuracy in woodworking starts at the marking out stage, not the cutting stage. This set gives you the layout tools that professional hand tool woodworkers consider non-optional. Stanley FatMax is well-built, widely trusted, and won't let you down on your first dozen projects.",
           "badge": "Best for Beginners",
           "amazon_url": "https://www.amazon.co.uk/dp/B07BKFR45T?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£40–£65",
@@ -30,8 +30,8 @@
         {
           "id": "woodworking-002",
           "name": "Bosch PSR 1440 LI Cordless Drill",
-          "description": "A reliable cordless drill/driver with enough torque for wood drilling and screw driving. Two-speed gearbox for control.",
-          "why_we_picked": "A cordless drill is the most-used tool in any woodworker's shop. The Bosch PSR 1440 hits the right balance of power, weight, and price for beginners.",
+          "description": "A reliable cordless drill/driver for drilling, countersinking, and driving screws. The two-speed gearbox lets you switch between power and control.",
+          "why_we_picked": "Even the most devoted hand tool woodworker owns a cordless drill. It's the one power tool that earns its place from day one. The Bosch PSR 1440 is compact, balanced, and has enough torque for everything a beginner will tackle.",
           "badge": "Most Versatile",
           "amazon_url": "https://www.amazon.co.uk/dp/B003PTNF8A?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£50–£80",
@@ -40,8 +40,8 @@
         {
           "id": "woodworking-003",
           "name": "Silverline Workbench (79cm)",
-          "description": "A sturdy folding workbench with a built-in vice. Folds flat for storage, handy if you're working in a garage or small space.",
-          "why_we_picked": "Working on the floor or kitchen table is a recipe for frustration and injury. A workbench with a vice changes everything; it's the foundation of your workshop.",
+          "description": "A folding workbench with a built-in vice. Folds flat for storage between sessions.",
+          "why_we_picked": "The workbench is the heart of the workshop. You cannot do good work without a solid, stable surface to work from, and a vice to hold your timber while you work it. Everything else is secondary to this.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B000HEYWJW?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£50–£80",
@@ -50,8 +50,8 @@
         {
           "id": "woodworking-004",
           "name": "Safety Glasses + Dust Mask Combo",
-          "description": "Basic PPE for any woodworking project. Eye protection and dust filtering are essential when cutting, sanding, or drilling.",
-          "why_we_picked": "Safety first isn't a cliché; wood dust and flying chips are real hazards. This combo kit covers your eyes and lungs for the cost of a coffee.",
+          "description": "Eye protection and dust filtering for cutting, chiselling, and sanding. Wood dust is a genuine respiratory hazard with prolonged exposure.",
+          "why_we_picked": "Sharp tools and flying chips are not forgiving. Neither is years of wood dust in your lungs. Wear your PPE every time, without exception. This combo covers both for under £20.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B07PJHBPMD?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£10–£18",
@@ -62,14 +62,14 @@
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Add these tools when you're ready to tackle bigger, more precise projects.",
+      "description": "Power tools that earn their place once you understand the craft.",
       "budget_tier": "mid-range",
       "products": [
         {
           "id": "woodworking-005",
           "name": "Bosch PST 700 E Jigsaw",
-          "description": "A jigsaw lets you cut curves, shapes, and patterns that a handsaw can't manage. Opens up furniture and decorative projects.",
-          "why_we_picked": "The jigsaw is the most versatile power tool for beginner woodworkers after a drill. The Bosch PST 700 is light, accurate, and simple to use.",
+          "description": "A jigsaw lets you cut curves, shapes, and angles that a handsaw can't manage efficiently. Opens up furniture, decorative work, and template-based projects.",
+          "why_we_picked": "The jigsaw is the most creative power tool a beginner can own. Once you can cut curves, the range of things you can build expands dramatically. The Bosch PST 700 is light, controllable, and accurate enough for joinery work.",
           "badge": "Staff Pick",
           "amazon_url": "https://www.amazon.co.uk/dp/B009NRJV7W?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£45–£70",
@@ -78,8 +78,8 @@
         {
           "id": "woodworking-006",
           "name": "Bosch Random Orbit Sander",
-          "description": "A random orbit sander produces a smooth finish without sanding marks. Far faster than hand sanding for any project larger than a small box.",
-          "why_we_picked": "The finish is what separates amateur and professional woodwork. An orbital sander makes getting a smooth, paint-ready surface much easier.",
+          "description": "A random orbit sander removes machine marks and prepares surfaces for finishing. The random action prevents sanding lines that a straight orbital sander leaves behind.",
+          "why_we_picked": "The finish is where craftsmanship shows. A piece that's built well but finished poorly looks amateurish. A random orbit sander bridges the gap between a built piece and a made piece. Progress through the grits properly and the results will surprise you.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B009O29E4Q?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£35–£55",
@@ -89,59 +89,61 @@
     }
   ],
   "checklist": [
-    "Tape measure (5m minimum)",
-    "Combination square",
-    "Hand saw or circular saw",
-    "Cordless drill/driver with bit set",
-    "Chisels (set of 4)",
+    "Combination square (your most-used layout tool)",
+    "Marking gauge (for consistent lines with the grain)",
+    "Marking knife or sharp pencil",
+    "Chisels (set of 4, keep them sharp)",
     "Mallet",
-    "Marking gauge",
+    "Hand saw or tenon saw",
+    "Cordless drill/driver with bit set",
     "Sandpaper (80, 120, 180, 240 grit)",
+    "Clamps (at least two, four is better)",
     "Safety glasses",
     "Dust mask (FFP2 minimum)",
     "Workbench or workmate with vice",
-    "Wood glue (Titebond or PVA)"
+    "Wood glue (Titebond or PVA)",
+    "Sharpening stone (for chisels and plane irons)"
   ],
   "faqs": [
     {
-      "question": "Hand tools or power tools for a complete beginner?",
-      "answer": "Start with hand tools. They teach you to understand wood grain, joinery, and technique before you let a machine do the work. A cordless drill/driver is the one power tool you need from day one. Add a jigsaw next, then a random orbit sander. Power tools come naturally once you've learned to measure, mark, and think through a cut carefully."
+      "question": "Should I start with hand tools or power tools?",
+      "answer": "Start with hand tools. This isn't romanticism. It's practical. Hand tools force you to work with the grain, understand how wood behaves, and develop accuracy before speed. A beginner with a sharp chisel and a good eye will produce better joinery than one who reaches for a router before they've learned to mark out properly. The cordless drill is the only power tool you truly need at the start. Add power tools once you understand why you need them."
     },
     {
       "question": "What's the best first woodworking project?",
-      "answer": "A simple shelf, storage box, or small step stool. These involve the core skills: measuring, cutting straight lines, drilling, and joining, without complex joinery or curves. Hundreds of free beginner plans exist on sites like Ana White and Woodsmith. The goal of your first project isn't a perfect result, it's learning how wood behaves."
+      "answer": "A small box with a lid. It sounds simple, but a box involves the four fundamental skills: measuring and marking out, sawing to a line, fitting joints, and finishing. Getting four corners square and a lid that fits properly will teach you more than any course. Once you can make a good box, you can make almost anything. There are free plans across YouTube; search for 'hand tool box build' and choose one that matches your tools."
     },
     {
-      "question": "Why doesn't a 2x4 actually measure 2 inches by 4 inches?",
-      "answer": "Timber is sold by its rough-cut size before it's planed smooth. A '2x4' starts at 2\" x 4\" rough, but after milling it ends up at approximately 1.5\" x 3.5\". This trips up almost every beginner. Always measure the actual board in your hand, not the nominal size on the label. The same applies to all standard timber sizes."
-    },
-    {
-      "question": "Do I need a workshop to start woodworking?",
-      "answer": "No, a garage or outdoor space works fine for most beginner projects. A folding workbench with a built-in vice is essential: working on the floor is both uncomfortable and dangerous. Power tools that create fine dust (sanders, saws) are best used outdoors or with a dust extractor. Always wear a dust mask (FFP2 or FFP3) when sanding or cutting."
+      "question": "How important is keeping tools sharp?",
+      "answer": "It's everything. A sharp chisel is safer, more accurate, and far more pleasurable to use than a dull one. Most beginners blame themselves when a cut goes wrong; often it's the edge. Sharp tools pare cleanly and follow your line; blunt tools skid, tear the grain, and require force. Buy a basic sharpening stone when you buy your first chisels and learn to use it. Fifteen minutes at the stone before a session makes the whole thing better."
     },
     {
       "question": "What wood should a beginner use?",
-      "answer": "Pine is the classic beginner wood. It's cheap, widely available at B&Q and timber merchants, soft enough to cut easily, and forgiving of mistakes. Plywood is excellent for box projects as it's stable and doesn't warp. Avoid hardwoods like oak, ash, or walnut until you're comfortable with your tools; they blunt blades faster and require more force to work."
+      "answer": "Pine for practice, oak or ash when you're ready to make something you'll keep. Pine is cheap, forgiving, and available at B&Q and most timber merchants in standard sizes. It teaches you the basics without costing much when you make mistakes. Hardwoods like oak and ash are more rewarding to work but they blunt your tools faster, require more force to cut, and are less forgiving of errors. Earn them by mastering pine first."
+    },
+    {
+      "question": "Why doesn't a 2x4 actually measure 2 inches by 4 inches?",
+      "answer": "Timber is sold by its rough-sawn size before it's been planed smooth at the mill. A '2x4' starts life at 2 inches by 4 inches, but after milling ends up at roughly 1.5 by 3.5 inches. This catches almost every beginner out on their first project. Always measure the actual board in your hand. The same applies to all standard timber sizes. The label describes what it was, not what it is."
     },
     {
       "question": "How do I get straight, accurate cuts?",
-      "answer": "Measure twice, cut once. Mark with a sharp pencil or marking knife, not a thick felt tip. Use a combination square to mark cut lines at 90°. For hand sawing, clamp a guide block along your line. For power tools, use a rip fence or clamped straight-edge guide. Most beginner cuts go wrong at the marking stage, not the cutting stage."
+      "answer": "Accurate cuts begin at the marking out stage, not at the saw. Mark your line with a knife rather than a pencil. A knife line gives you a crisp shoulder to register your saw against and severs the surface fibres so the cut starts cleanly. Use a combination square to transfer the line around the board. When sawing, start with a few light pull strokes to establish the kerf before applying full strokes. Most beginners rush the marking and wonder why the cut wandered."
     },
     {
-      "question": "Should I use screws, nails, or wood glue?",
-      "answer": "Wood glue (PVA or Titebond) creates joints stronger than the wood itself when applied correctly to clean, flat surfaces. Always clamp glued joints for at least an hour. Screws add mechanical strength and are essential for joints under stress. Nails are rarely the right choice for furniture. Most strong woodworking joints combine glue and screws together."
+      "question": "Do I need a dedicated workshop?",
+      "answer": "No. A garage, shed, or even a back garden works perfectly for most beginner projects, especially hand tool work. A solid workbench with a vice is the one thing you can't do without. Working on the floor or a kitchen table is both dangerous and inaccurate. Power tools that generate fine dust (sanders, saws) are best used outdoors or with extraction. Noise is a practical consideration for evening working. Beyond that, the space matters less than you think."
     },
     {
-      "question": "How do I prevent wood from splitting when I drill screws in?",
-      "answer": "Always drill a pilot hole slightly smaller than your screw's diameter before driving a screw, especially near the end of a board where splitting is most likely. Hardwoods need pilot holes almost every time. Softwoods like pine are more forgiving but still split near edges. A countersink bit creates a recess so your screw head sits flush with the surface."
+      "question": "What's the difference between screws, nails, and glue?",
+      "answer": "Wood glue makes the strongest joints when used correctly. A well-glued joint on flat, clean surfaces is often stronger than the wood around it. Always clamp for at least an hour. Screws add mechanical strength and allow for adjustment before the glue sets; they're essential for joints that will take stress or movement. Nails have almost no place in furniture making. For most beginner projects, the answer is glue and screws together."
     },
     {
       "question": "How do I get a smooth, professional finish?",
-      "answer": "Sand through progressively finer grits: 80 then 120 then 180 then 240. Never skip grits; each one removes the scratches left by the previous. Always sand in the direction of the wood grain. Wipe the surface with a slightly damp cloth between the final two grits to raise the grain, then sand again. The finish (paint, oil, or varnish) is only as good as the surface preparation underneath."
+      "answer": "Sand through the grits in order: 80, 120, 180, then 240. Never skip a grit; each stage removes the scratches left by the previous one. Always sand with the grain, never across it. Between your second-to-last and final grit, wipe the surface with a barely damp cloth to raise the grain, let it dry, then sand again with 240. The raised grain will sand off cleanly, leaving a surface that takes stain or oil beautifully. The finish is only as good as the wood beneath it."
     },
     {
-      "question": "Where can I find free project plans as a beginner?",
-      "answer": "Ana White (ana-white.com) has hundreds of free furniture plans with cut lists and step-by-step instructions. Instructables has community-built projects at every skill level. YouTube channels like Stumpy Nubs, The Wood Whisperer, and Paul Sellers cover everything from hand tool basics to advanced joinery. The r/BeginnerWoodWorking subreddit is also really useful."
+      "question": "Where should I learn woodworking online?",
+      "answer": "Paul Sellers on YouTube is the most respected free resource for hand tool woodworking; his approach is practical, affordable, and rooted in traditional craft. The English Woodworker (theenglishwoodworker.com) is excellent for a hand tool perspective with a British sensibility. Fine Woodworking has deep technical content once you're past the basics. For community and project inspiration, the r/BeginnerWoodWorking and r/handtools subreddits are genuinely helpful."
     }
   ]
 }
