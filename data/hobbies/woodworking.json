@@ -18,72 +18,102 @@
       "budget_tier": "budget",
       "products": [
         {
-          "id": "woodworking-001",
-          "name": "Stanley FatMax Hand Tool Set (8 Piece)",
-          "description": "A solid starter set covering the essentials: hammer, chisels, mallet, marking gauge, and combination square. These are the tools that teach you to read wood, mark accurately, and cut with intention.",
-          "why_we_picked": "Accuracy in woodworking starts at the marking out stage, not the cutting stage. This set gives you the layout tools that professional hand tool woodworkers consider non-optional. Stanley FatMax is well-built, widely trusted, and won't let you down on your first dozen projects.",
+          "id": "woodworking-010",
+          "name": "IRWIN Bevel Edge All-Purpose Chisel with Striking Cap Set",
+          "description": "Four chisels in the sizes you'll reach for on every project: 6mm, 12mm, 20mm, and 26mm. Made from hardened tool steel for strength and long-lasting edge retention",
+          "why_we_picked": "They arrive sharp enough to work with and hold an edge well. Good enough to get you started without breaking the bank.",
           "badge": "Best for Beginners",
-          "amazon_url": "https://www.amazon.co.uk/dp/B07BKFR45T?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£40–£65",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BKFR45T&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/40hfm80",
+          "price_range": "£50–£60",
+          "image_url": "https://m.media-amazon.com/images/I/81iejomG-KL._AC_SL1500_.jpg"
+        },
+        {
+          "id": "woodworking-007",
+          "name": "Stanley No. 4 Smoothing Plane",
+          "description": "The classic bench plane for flattening, smoothing, and cleaning up sawn faces. Adjustable mouth, comfortable tote and knob, and a blade that sharpens easily on a basic stone.",
+          "why_we_picked": "A sharp No. 4 plane is what separates a worked piece of wood from a finished one. It removes mill marks, flattens glued-up boards, and leaves a surface that no sander can match. Every hand tool woodworker owns one. The Stanley No. 4 has been the standard recommendation for over a century because it works.",
+          "badge": null,
+          "amazon_url": "https://amzn.to/3P8TysJ",
+          "price_range": "£60–£80",
+          "image_url": "https://m.media-amazon.com/images/I/51zQQR9sWyL._AC_SL1000_.jpg"
+        },
+        {
+          "id": "woodworking-008",
+          "name": "Faithfull Hardpoint Tenon Saw (300mm)",
+          "description": "A 300mm tenon saw for accurate crosscuts and joinery. The hardpoint teeth stay sharp through a lot of use, and the stiffened back keeps the blade on line.",
+          "why_we_picked": "The tenon saw is the workhorse of hand tool joinery. It's what you use to cut your joints accurately, to size your pieces, and to make the cuts a chisel finishes. A 300mm saw with a stiffened back is the right size for most beginner work. Faithfull make a reliable tool at a fair price.",
+          "badge": null,
+          "amazon_url": "https://amzn.to/46GioGw",
+          "price_range": "£15–£25",
+          "image_url": "https://m.media-amazon.com/images/I/51fXHB8y49L._AC_SL1000_.jpg"
         },
         {
           "id": "woodworking-002",
-          "name": "Bosch PSR 1440 LI Cordless Drill",
-          "description": "A reliable cordless drill/driver for drilling, countersinking, and driving screws. The two-speed gearbox lets you switch between power and control.",
-          "why_we_picked": "Even the most devoted hand tool woodworker owns a cordless drill. It's the one power tool that earns its place from day one. The Bosch PSR 1440 is compact, balanced, and has enough torque for everything a beginner will tackle.",
+          "name": "Bosch Cordless Combi Drill",
+          "description": "A compact cordless drill/driver for drilling, countersinking, and driving screws. The two-speed gearbox switches between power and control.",
+          "why_we_picked": "Even the most committed hand tool woodworker owns a cordless drill. It's the one power tool that earns its place from day one. This Bosch is compact, balanced, and has enough torque for everything a beginner will tackle and the batteries are compatible with the orbital sander suggested below",
           "badge": "Most Versatile",
-          "amazon_url": "https://www.amazon.co.uk/dp/B003PTNF8A?tag=YOUR_ASSOCIATE_TAG",
+          "amazon_url": "https://amzn.to/4sohB5o",
           "price_range": "£50–£80",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003PTNF8A&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "image_url": "https://m.media-amazon.com/images/I/616F2e-GgDL._AC_SL1500_.jpg"
         },
         {
           "id": "woodworking-003",
-          "name": "Silverline Workbench (79cm)",
+          "name": "Draper Workbench (80cm)",
           "description": "A folding workbench with a built-in vice. Folds flat for storage between sessions.",
-          "why_we_picked": "The workbench is the heart of the workshop. You cannot do good work without a solid, stable surface to work from, and a vice to hold your timber while you work it. Everything else is secondary to this.",
+          "why_we_picked": "The workbench is the heart of the workshop. You cannot do good work without a solid, stable surface and a vice to hold your timber while you work it. Everything else is secondary to this. This one will get you started and when you're ready you can build one yourself!",
           "badge": null,
-          "amazon_url": "https://www.amazon.co.uk/dp/B000HEYWJW?tag=YOUR_ASSOCIATE_TAG",
+          "amazon_url": "https://amzn.to/4lzVl6x",
           "price_range": "£50–£80",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000HEYWJW&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
-        },
-        {
-          "id": "woodworking-004",
-          "name": "Safety Glasses + Dust Mask Combo",
-          "description": "Eye protection and dust filtering for cutting, chiselling, and sanding. Wood dust is a genuine respiratory hazard with prolonged exposure.",
-          "why_we_picked": "Sharp tools and flying chips are not forgiving. Neither is years of wood dust in your lungs. Wear your PPE every time, without exception. This combo covers both for under £20.",
-          "badge": null,
-          "amazon_url": "https://www.amazon.co.uk/dp/B07PJHBPMD?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£10–£18",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PJHBPMD&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "image_url": "https://m.media-amazon.com/images/I/61FffOYECpL._AC_SL1200_.jpg"
         }
       ]
     },
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Power tools that earn their place once you understand the craft.",
+      "description": "The tools that sharpen your accuracy and take your finished work up a level.",
       "budget_tier": "mid-range",
       "products": [
         {
+          "id": "woodworking-001",
+          "name": "Narex 4-Piece Bevel-Edge Chisel Set",
+          "description": "Four chisels in the sizes you'll reach for on every project: 6mm, 12mm, 20mm, and 26mm. Hardened chrome-manganese steel, comfortable handles, and edges that take a proper sharpening.",
+          "why_we_picked": "Narex chisels are the most recommended beginner chisels in UK hand tool circles, and for good reason. They arrive sharp enough to work with and hold an edge well. Buy a set of dedicated chisels rather than a generic tool kit with chisels thrown in. These are the tools you'll still be using in ten years.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://amzn.to/4czbFls",
+          "price_range": "£50–£60",
+          "image_url": "https://m.media-amazon.com/images/I/81-3KbgQ-CL._AC_SL1500_.jpg"
+        },
+        {
           "id": "woodworking-005",
-          "name": "Bosch PST 700 E Jigsaw",
-          "description": "A jigsaw lets you cut curves, shapes, and angles that a handsaw can't manage efficiently. Opens up furniture, decorative work, and template-based projects.",
-          "why_we_picked": "The jigsaw is the most creative power tool a beginner can own. Once you can cut curves, the range of things you can build expands dramatically. The Bosch PST 700 is light, controllable, and accurate enough for joinery work.",
+          "name": "Combination Square (300mm)",
+          "description": "A 300mm combination square for marking out, checking 90-degree corners, and scribing lines parallel to an edge. Accurate layout is where good joinery begins.",
+          "why_we_picked": "Most woodworking mistakes happen at the marking out stage, not the cutting stage. A good combination square used correctly prevents almost all of them. Buy a decent one; a cheap square that isn't truly square is worse than no square at all. This is a tool you'll use on every single project.",
           "badge": "Staff Pick",
-          "amazon_url": "https://www.amazon.co.uk/dp/B009NRJV7W?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£45–£70",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009NRJV7W&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/4bd67uv",
+          "price_range": "£20–£40",
+          "image_url": "https://m.media-amazon.com/images/I/81c9GltnyNL._SL1500_.jpg"
+        },
+        {
+          "id": "woodworking-009",
+          "name": "Saker Honing Guide with diamond whetstone  (400/1000 grit)",
+          "description": "A double-sided waterstone for sharpening chisels and plane irons. The 400 grit side repairs a damaged edge; the 1000 grit side brings it back to working sharpness.",
+          "why_we_picked": "Sharp tools are what woodworking is actually about. A dull chisel is dangerous, inaccurate, and frustrating. A sharp one is a pleasure to use and follows your line. Buy this stone at the same time as your chisels, not six months later after wondering why everything feels so hard.",
+          "badge": null,
+          "amazon_url": "https://amzn.to/4b9SRqu",
+          "price_range": "£25–£40",
+          "image_url": "https://m.media-amazon.com/images/I/71fCZa6ggIL._AC_SL1500_.jpg"
         },
         {
           "id": "woodworking-006",
           "name": "Bosch Random Orbit Sander",
-          "description": "A random orbit sander removes machine marks and prepares surfaces for finishing. The random action prevents sanding lines that a straight orbital sander leaves behind.",
-          "why_we_picked": "The finish is where craftsmanship shows. A piece that's built well but finished poorly looks amateurish. A random orbit sander bridges the gap between a built piece and a made piece. Progress through the grits properly and the results will surprise you.",
+          "description": "A random orbit sander for preparing surfaces before finishing. The random action avoids the sanding lines that a straight orbital sander leaves behind.",
+          "why_we_picked": "The finish is where craftsmanship shows. A piece that's built well but finished poorly looks amateurish. A random orbit sander gets surfaces ready for oil or paint. Progress through the grits properly (80, 120, 180, 240) and the results will surprise you. This one here is compatible with the batteries from the drill suggested above.",
           "badge": null,
-          "amazon_url": "https://www.amazon.co.uk/dp/B009O29E4Q?tag=YOUR_ASSOCIATE_TAG",
+          "amazon_url": "https://amzn.to/3NaufpF",
           "price_range": "£35–£55",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009O29E4Q&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "image_url": "https://m.media-amazon.com/images/I/61ozbWRfGDL._AC_SL1500_.jpg"
         }
       ]
     }
@@ -115,7 +145,7 @@
     },
     {
       "question": "How important is keeping tools sharp?",
-      "answer": "It's everything. A sharp chisel is safer, more accurate, and far more pleasurable to use than a dull one. Most beginners blame themselves when a cut goes wrong; often it's the edge. Sharp tools pare cleanly and follow your line; blunt tools skid, tear the grain, and require force. Buy a basic sharpening stone when you buy your first chisels and learn to use it. Fifteen minutes at the stone before a session makes the whole thing better."
+      "answer": "It's everything. A sharp chisel is safer, more accurate, and far more pleasurable to use than a dull one. Most beginners blame themselves when a cut goes wrong; often it's the edge. Sharp tools pare cleanly and follow your line; blunt tools skid, tear the grain, and require force. Buy a basic sharpening stone when you buy your first chisels and learn to use it. Fifteen minutes at the stone before a session makes the whole thing better. There are plenty of YouTube videos that can show you how to sharen a chisel and plane"
     },
     {
       "question": "What wood should a beginner use?",
