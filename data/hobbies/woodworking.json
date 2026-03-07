@@ -66,6 +66,16 @@
           "amazon_url": "https://amzn.to/4lzVl6x",
           "price_range": "£50–£80",
           "image_url": "https://m.media-amazon.com/images/I/61FffOYECpL._AC_SL1200_.jpg"
+        },
+        {
+          "id": "woodworking-011",
+          "name": "Wooden Carpenters Mallet",
+          "description": "A traditional round-headed wooden mallet for driving chisels. Heavier than a hammer and kinder to chisel handles, with enough mass to do real work without needing force.",
+          "why_we_picked": "A wooden mallet is the right tool for chiselling. Using a hammer on a chisel handle damages it over time and gives you far less control over the cut. The weight of the mallet does the work; you just guide it. This is a tool that feels right from the first use and will last the rest of your woodworking life.",
+          "badge": null,
+          "amazon_url": "https://amzn.to/3P4e5yz",
+          "price_range": "£15-£20",
+          "image_url": "https://m.media-amazon.com/images/I/71J25OSKUPL._AC_SL1500_.jpg"
         }
       ]
     },
@@ -80,7 +90,7 @@
           "name": "Narex 4-Piece Bevel-Edge Chisel Set",
           "description": "Four chisels in the sizes you'll reach for on every project: 6mm, 12mm, 20mm, and 26mm. Hardened chrome-manganese steel, comfortable handles, and edges that take a proper sharpening.",
           "why_we_picked": "Narex chisels are the most recommended beginner chisels in UK hand tool circles, and for good reason. They arrive sharp enough to work with and hold an edge well. Buy a set of dedicated chisels rather than a generic tool kit with chisels thrown in. These are the tools you'll still be using in ten years.",
-          "badge": "Best for Beginners",
+          "badge": "Staff Pick",
           "amazon_url": "https://amzn.to/4czbFls",
           "price_range": "£50–£60",
           "image_url": "https://m.media-amazon.com/images/I/81-3KbgQ-CL._AC_SL1500_.jpg"
