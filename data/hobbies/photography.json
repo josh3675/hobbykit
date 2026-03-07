@@ -7,7 +7,7 @@
     "description": "Start photography with the right camera and accessories. Honest beginner recommendations for cameras, lenses, and essentials with Amazon UK links.",
     "keywords": ["beginner photography kit UK", "starter camera kit", "what camera should I buy as a beginner UK", "first camera for beginners UK"]
   },
-  "intro": "Photography is one of those hobbies where gear matters — but not as much as you think. Here's what to buy first, and what to ignore until you've got the basics.",
+  "intro": "Photography is one of those hobbies where gear matters, but not as much as you think. Here's what to buy first, and what to ignore until you've got the basics.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
@@ -21,7 +21,7 @@
           "id": "photography-001",
           "name": "Canon EOS 2000D Camera with RF-S 18-55mm Lens Kit",
           "description": "The most popular beginner DSLR in the UK. Comes with an 18-55mm kit lens that covers landscapes, portraits, and everyday shots.",
-          "why_we_picked": "The 2000D is beginner-friendly with an easy-to-navigate menu, great image quality, and a massive online community for learning. The kit lens is genuinely useful.",
+          "why_we_picked": "The 2000D is beginner-friendly with an easy-to-navigate menu, great image quality, and a massive online community for learning. The kit lens is actually very useful.",
           "badge": "Best for Beginners",
           "amazon_url": "https://amzn.to/4leo8x3",
           "price_range": "£500–£600",
@@ -31,7 +31,7 @@
           "id": "photography-002",
           "name": "SanDisk 64GB Extreme Pro SD Card",
           "description": "Fast write speeds prevent your camera buffer filling up mid-shoot. 64GB is plenty for a beginner shooting JPEGs or RAW.",
-          "why_we_picked": "A slow SD card is a hidden frustration — your camera will lag between shots. The SanDisk Extreme Pro is fast, reliable, and lasts for years.",
+          "why_we_picked": "A slow SD card is a frustration you won't see coming; your camera will lag between shots. The SanDisk Extreme Pro is fast, reliable, and lasts for years.",
           "badge": "Best Value",
           "amazon_url": "https://amzn.to/4rVOuq6",
           "price_range": "£25–£35",
@@ -39,9 +39,9 @@
         },
         {
           "id": "photography-003",
-          "name": "K&F Concept Camera Sling Bag Crossbody Bag",
-          "description": "A padded camera backpack with room for your body, kit lens, and accessories. Water-resistant exterior with tripod straps.",
-          "why_we_picked": "Protecting your camera is non-negotiable. This bag has a sensible layout, fits a DSLR with lens attached, combines style and functionality: slides easily and quickly to the front for access without needed to take you bag off your shoulder.",
+          "name": "K&F Concept Camera Sling Bag",
+          "description": "A padded camera sling bag with room for your body, kit lens, and accessories. Water-resistant exterior with tripod straps.",
+          "why_we_picked": "Protecting your camera is a must. This bag has a sensible layout, fits a DSLR with lens attached, and slides easily to the front for quick access without needing to take your bag off your shoulder.",
           "badge": null,
           "amazon_url": "https://amzn.to/4svzYFl",
           "price_range": "£30–£40",
@@ -49,12 +49,12 @@
         },
         {
           "id": "photography-004",
-          "name": "Manfrotto Element MII Camera Tripod Camera Tripod",
-          "description": "A lightweight aluminium tripod for landscape, portrait, and low-light photography. Extends to 160cm with a quick-release plate. Skimping here is not reccomended, sturdyness and stability are key.",
-          "why_we_picked": "A tripod unlocks night photography, long exposures, and self-portraits. The Manfrotto Element MII Camera Tripod is stable enough for a DSLR and light enough to carry.",
+          "name": "Manfrotto Element MII Aluminium Tripod",
+          "description": "A lightweight aluminium tripod for landscape, portrait, and low-light photography. Extends to 160cm with a quick-release plate. Don't skimp here; sturdiness and stability matter.",
+          "why_we_picked": "A tripod unlocks night photography, long exposures, and self-portraits. The Manfrotto Element MII is stable enough for a DSLR and light enough to carry.",
           "badge": null,
           "amazon_url": "https://amzn.to/4baEpP3",
-          "price_range": "£70-£90",
+          "price_range": "£70–£90",
           "image_url": "https://m.media-amazon.com/images/I/519iuBPmoAL._AC_SL1000_.jpg"
         }
       ]
@@ -68,8 +68,8 @@
         {
           "id": "photography-005",
           "name": "Canon EF 50mm f/1.8 STM Lens",
-          "description": "The famous 'nifty fifty' — an affordable prime lens that produces beautiful background blur (bokeh) and sharp portraits. A completely different look to the kit lens.",
-          "why_we_picked": "The single biggest upgrade you can make to a Canon beginner setup. The 50mm f/1.8 gets more light to the sensor, and great looking portraits",
+          "description": "The famous 'nifty fifty': an affordable prime lens that produces beautiful background blur (bokeh) and sharp portraits. A completely different look to the kit lens.",
+          "why_we_picked": "The single biggest upgrade you can make to a Canon beginner setup. The 50mm f/1.8 gets more light to the sensor and produces great-looking portraits.",
           "badge": "Staff Pick",
           "amazon_url": "https://amzn.to/4ldoDYp",
           "price_range": "£100–£130",
@@ -105,31 +105,31 @@
     },
     {
       "question": "What is the exposure triangle and do I need to understand it?",
-      "answer": "The exposure triangle is the relationship between three settings: shutter speed (how long the sensor is exposed to light), aperture (how wide the lens opens), and ISO (how sensitive the sensor is). Understanding how they work together is the foundation of taking control of your camera. You don't need to memorise it — spend an afternoon in Aperture Priority mode (Av) and you'll pick it up naturally. It's simpler than it sounds."
+      "answer": "The exposure triangle is the relationship between three settings: shutter speed (how long the sensor is exposed to light), aperture (how wide the lens opens), and ISO (how sensitive the sensor is). Understanding how they work together is the foundation of taking control of your camera. You don't need to memorise it. Spend an afternoon in Aperture Priority mode (Av) and you'll pick it up naturally. It's simpler than it sounds."
     },
     {
       "question": "Should I shoot in RAW or JPEG?",
-      "answer": "Start with JPEG — the camera processes the image for you and the files are smaller and sharper straight from the camera. Switch to RAW once you start editing on a computer, as RAW files retain all the captured data, giving you far more latitude to fix exposure, colour, and white balance in post. Shooting RAW+JPEG while you're learning is a good middle ground."
+      "answer": "Start with JPEG. The camera processes the image for you and the files are smaller and sharper straight from the camera. Switch to RAW once you start editing on a computer, as RAW files retain all the captured data, giving you far more latitude to fix exposure, colour, and white balance in post. Shooting RAW+JPEG while you're learning is a good middle ground."
     },
     {
       "question": "My photos are blurry indoors — what am I doing wrong?",
-      "answer": "Almost certainly your shutter speed is too slow. In low light, the camera automatically slows the shutter to gather more light, but slow shutter speeds cause motion blur — from camera shake or your subject moving. Fix it by raising your ISO (try 800–3200 indoors), opening your aperture wider, or using a tripod. If you're shooting on Auto, switch to Aperture Priority and let the camera worry about shutter speed while you control the exposure."
+      "answer": "Almost certainly your shutter speed is too slow. In low light, the camera automatically slows the shutter to gather more light, but slow shutter speeds cause motion blur, either from camera shake or your subject moving. Fix it by raising your ISO (try 800–3200 indoors), opening your aperture wider, or using a tripod. If you're shooting on Auto, switch to Aperture Priority and let the camera handle shutter speed while you control the exposure."
     },
     {
       "question": "What is the rule of thirds?",
-      "answer": "The rule of thirds divides your frame into a 3x3 grid. Placing your subject at one of the four intersection points — rather than dead centre — creates a more visually interesting composition. Most cameras can display this grid in the viewfinder. It's the single most useful compositional principle to learn first, though rules are made to be broken once you understand why they exist."
+      "answer": "The rule of thirds divides your frame into a 3x3 grid. Placing your subject at one of the four intersection points, rather than dead centre, creates a more visually interesting composition. Most cameras can display this grid in the viewfinder. It's the single most useful compositional principle to learn first, though rules are made to be broken once you understand why they exist."
     },
     {
       "question": "How many megapixels do I need?",
-      "answer": "Far fewer than you think. A Canon 2000D has 24MP — enough for prints larger than A1 size. Megapixels are largely a marketing metric. What matters far more is lens quality, sensor size, and your ability to use the camera. A 12MP full-frame camera will outperform a 50MP smartphone in almost every situation."
+      "answer": "Far fewer than you think. A Canon 2000D has 24MP, enough for prints larger than A1 size. Megapixels are largely a marketing metric. What matters far more is lens quality, sensor size, and your ability to use the camera. A 12MP full-frame camera will outperform a 50MP smartphone in almost every situation."
     },
     {
       "question": "How do I take sharper photos?",
-      "answer": "Three things make the biggest difference: shutter speed (keep it above 1/focal length — so above 1/50s with a 50mm lens), focus point (use single-point AF and place it on your subject's eye), and holding technique (tuck your elbows in, hold your breath when pressing the shutter). A tripod eliminates camera shake entirely for static subjects."
+      "answer": "Three things make the biggest difference: shutter speed (keep it above 1/focal length, so above 1/50s with a 50mm lens), focus point (use single-point AF and place it on your subject's eye), and holding technique (tuck your elbows in, hold your breath when pressing the shutter). A tripod eliminates camera shake entirely for static subjects."
     },
     {
       "question": "Do I need photo editing software?",
-      "answer": "Not immediately — spend the first few months learning your camera rather than chasing fixes in post. When you're ready, Lightroom Classic is the industry standard (subscription-based), but free alternatives like RawTherapee and Darktable are genuinely capable. Many beginners also find Google Photos adequate for basic adjustments. The best photos start in camera, not in editing."
+      "answer": "Not immediately. Spend the first few months learning your camera rather than chasing fixes in post. When you're ready, Lightroom Classic is the industry standard (subscription-based), but free alternatives like RawTherapee and Darktable do a great job. Many beginners also find Google Photos adequate for basic adjustments. The best photos start in camera, not in editing."
     },
     {
       "question": "How should I back up my photos?",
@@ -137,7 +137,7 @@
     },
     {
       "question": "What should I photograph as a beginner?",
-      "answer": "Shoot what genuinely interests you — landscapes, people, food, architecture, pets. Motivation matters more than subject choice. That said, portrait photography with a 50mm prime lens is a fantastic way to learn, because you're forced to think about light, distance, and connection with your subject. Street photography teaches you to react quickly. Landscape teaches patience and composition."
+      "answer": "Shoot what actually interests you: landscapes, people, food, architecture, pets. Motivation matters more than subject choice. That said, portrait photography with a 50mm prime lens is a great way to learn, because you're forced to think about light, distance, and connection with your subject. Street photography teaches you to react quickly. Landscape teaches patience and composition."
     }
   ]
 }

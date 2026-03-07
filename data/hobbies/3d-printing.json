@@ -7,7 +7,7 @@
     "description": "Start 3D printing at home with the right printer and supplies. Honest beginner recommendations with Amazon UK affiliate links.",
     "keywords": ["beginner 3D printer UK", "best 3D printer for beginners UK", "3D printing starter kit UK", "what do I need to start 3D printing"]
   },
-  "intro": "3D printing has never been more accessible — but choosing your first printer is confusing. Here's the straightforward beginner setup that gets you printing without the headaches.",
+  "intro": "3D printing has never been more accessible, but choosing your first printer is confusing. Here's a simple beginner setup that gets you printing without the headaches.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
@@ -20,8 +20,8 @@
         {
           "id": "3dprinting-001",
           "name": "Bambu Lab A1 Mini 3D Printer",
-          "description": "The most beginner-friendly FDM printer on the market. Auto-calibration, fast printing, and a companion app that makes setup genuinely easy.",
-          "why_we_picked": "Most beginner 3D printers require hours of tinkering before the first successful print. The Bambu A1 Mini just works — it's the printer we'd buy for a friend starting out.",
+          "description": "The most beginner-friendly FDM printer on the market. Auto-calibration, fast printing, and a companion app that makes setup really easy.",
+          "why_we_picked": "Most beginner 3D printers require hours of tinkering before the first successful print. The Bambu A1 Mini just works. It's the printer we'd buy for a friend starting out.",
           "badge": "Best for Beginners",
           "amazon_url": "https://www.amazon.co.uk/dp/B0CL2VKGM2?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£280–£330",
@@ -30,7 +30,7 @@
         {
           "id": "3dprinting-002",
           "name": "Bambu Lab PLA Filament 1kg (White)",
-          "description": "PLA is the easiest filament for beginners — it prints at low temperatures, doesn't warp, and doesn't require a heated enclosure. 1kg is plenty to start experimenting.",
+          "description": "PLA is the easiest filament for beginners. It prints at low temperatures, doesn't warp, and doesn't require a heated enclosure. 1kg is plenty to start experimenting.",
           "why_we_picked": "Always start with PLA. It's forgiving, widely compatible, and biodegradable. Bambu's own filament is optimised for their printers and produces consistent results.",
           "badge": "Best Value",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8H3BQHQ?tag=YOUR_ASSOCIATE_TAG",
@@ -41,7 +41,7 @@
           "id": "3dprinting-003",
           "name": "3D Printing Tool Kit (Spatula, Pliers, Tweezers)",
           "description": "A set of tools for removing prints from the build plate, removing supports, and finishing prints. Includes a spatula, needle-nose pliers, and tweezers.",
-          "why_we_picked": "Your fingers aren't the right tool for removing supports. This kit protects your prints — and your fingers — when post-processing.",
+          "why_we_picked": "Your fingers aren't the right tool for removing supports. This kit protects your prints (and your fingers) when post-processing.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B07DRDCDYJ?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£12–£20",
@@ -58,8 +58,8 @@
         {
           "id": "3dprinting-004",
           "name": "Bambu Lab PETG-CF Filament",
-          "description": "Carbon-fibre reinforced PETG — stronger and stiffer than standard PLA. Great for functional parts that need to handle stress or heat.",
-          "why_we_picked": "Once you've mastered PLA, PETG-CF opens up a whole new category of prints — brackets, enclosures, mechanical parts. The CF reinforcement makes a huge difference to strength.",
+          "description": "Carbon-fibre reinforced PETG, stronger and stiffer than standard PLA. Great for functional parts that need to handle stress or heat.",
+          "why_we_picked": "Once you've mastered PLA, PETG-CF opens up a whole new category of prints: brackets, enclosures, mechanical parts. The CF reinforcement makes a huge difference to strength.",
           "badge": "Staff Pick",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8VHQ94P?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£25–£35",
@@ -69,7 +69,7 @@
           "id": "3dprinting-005",
           "name": "Prusa Slicer (Free Software)",
           "description": "PrusaSlicer is free, powerful, and compatible with most home 3D printers. Controls layer height, supports, infill, and all print settings.",
-          "why_we_picked": "A slicer converts your 3D model into printer instructions. PrusaSlicer is the best free option — it's what most experienced hobbyists use.",
+          "why_we_picked": "A slicer converts your 3D model into printer instructions. PrusaSlicer is the best free option and it's what most experienced hobbyists use.",
           "badge": "Free",
           "amazon_url": "https://www.amazon.co.uk/dp/B00000000?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "Free",
@@ -80,10 +80,10 @@
   ],
   "checklist": [
     "FDM 3D printer with auto-calibration",
-    "PLA filament (start with white or grey — easy to spot defects)",
+    "PLA filament (start with white or grey, easy to spot defects)",
     "Spatula for removing prints",
     "Needle-nose pliers for supports",
-    "Slicer software (Bambu Studio or PrusaSlicer — both free)",
+    "Slicer software (Bambu Studio or PrusaSlicer, both free)",
     "Isopropyl alcohol for bed cleaning",
     "MicroSD card (often included with printer)",
     "Spare nozzle (0.4mm standard)"
@@ -91,11 +91,11 @@
   "faqs": [
     {
       "question": "What's the best first 3D printer to buy in the UK?",
-      "answer": "The Bambu Lab A1 Mini is our top recommendation for beginners in 2025. It auto-calibrates, prints fast, connects via Wi-Fi, and just works — no tinkering required. The Creality Ender 3 V3 is a popular cheaper alternative but requires more hands-on setup. If you want to start printing rather than building and tweaking, pay the premium for Bambu."
+      "answer": "The Bambu Lab A1 Mini is our top pick for beginners in 2025. It auto-calibrates, prints fast, connects via Wi-Fi, and just works. No tinkering required. The Creality Ender 3 V3 is a popular cheaper alternative but requires more hands-on setup. If you want to start printing rather than building and tweaking, pay the premium for Bambu."
     },
     {
       "question": "What is bed levelling and why does it matter?",
-      "answer": "Bed levelling (or tramming) ensures the print nozzle is the same distance from the build plate across the entire surface. If the nozzle is too far away, the first layer won't stick. Too close, and it scrapes the bed or clogs. It's the single most common cause of failed prints for beginners. Most modern printers like the Bambu A1 Mini auto-level, which is the main reason we recommend them — manual levelling frustrates a lot of new users."
+      "answer": "Bed levelling ensures the print nozzle is the same distance from the build plate across the entire surface. If the nozzle is too far away, the first layer won't stick. Too close, and it scrapes the bed or clogs. It's the single most common cause of failed prints for beginners. Most modern printers like the Bambu A1 Mini auto-level, which is the main reason we recommend them. Manual levelling frustrates a lot of new users."
     },
     {
       "question": "Why won't my print stick to the bed?",
@@ -103,31 +103,31 @@
     },
     {
       "question": "What's the difference between PLA, PETG, and ABS?",
-      "answer": "PLA is the beginner's filament — easy to print, low temperature, doesn't warp, smells faintly of sweetcorn, and is biodegradable. PETG is tougher, more flexible, and more heat-resistant than PLA — good for functional parts. ABS is strong and heat-resistant but warps badly, releases fumes, and needs an enclosed printer. Start with PLA for your first months, move to PETG when you need stronger parts."
+      "answer": "PLA is the beginner's filament: easy to print, low temperature, doesn't warp, smells faintly of sweetcorn, and is biodegradable. PETG is tougher, more flexible, and more heat-resistant than PLA, making it good for functional parts. ABS is strong and heat-resistant but warps badly, releases fumes, and needs an enclosed printer. Start with PLA for your first months, move to PETG when you need stronger parts."
     },
     {
       "question": "What is a slicer and which should I use?",
-      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For Bambu printers, use Bambu Studio — it's fast, well-designed, and has great defaults. PrusaSlicer and Orca Slicer are excellent free alternatives that work with most printers."
+      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For Bambu printers, use Bambu Studio. It's fast, well-designed, and has great defaults. PrusaSlicer and Orca Slicer are excellent free alternatives that work with most printers."
     },
     {
       "question": "Do I need to know CAD to use a 3D printer?",
-      "answer": "No — you can print for months using free models without designing anything yourself. Printables (printables.com) and Thingiverse have hundreds of thousands of free, ready-to-print models for everything from cable clips to cosplay armour. When you're ready to design, Tinkercad is free, browser-based, and genuinely beginner-friendly. Fusion 360 is more powerful and free for hobbyists."
+      "answer": "No. You can print for months using free models without designing anything yourself. Printables (printables.com) and Thingiverse have hundreds of thousands of free, ready-to-print models for everything from cable clips to cosplay armour. When you're ready to design, Tinkercad is free, browser-based, and really beginner-friendly. Fusion 360 is more powerful and free for hobbyists."
     },
     {
       "question": "My print has stringing — thin hairs between parts of the print. How do I fix it?",
-      "answer": "Stringing happens when molten filament oozes from the nozzle as it moves between sections. The main fix is increasing retraction (the slicer setting that pulls filament back into the nozzle before a travel move). Also try lowering your print temperature by 5°C at a time, and increase travel speed. Most slicers have anti-stringing profiles — enabling 'combing mode' in Cura or Orca Slicer often fixes it immediately."
+      "answer": "Stringing happens when molten filament oozes from the nozzle as it moves between sections. The main fix is increasing retraction (the slicer setting that pulls filament back into the nozzle before a travel move). Also try lowering your print temperature by 5°C at a time, and increase travel speed. Most slicers have anti-stringing profiles; enabling 'combing mode' in Cura or Orca Slicer often fixes it straight away."
     },
     {
       "question": "Is 3D printing expensive to run?",
-      "answer": "It's very affordable once you have the printer. PLA filament costs £15–£25 per kg, and most small-to-medium prints use 20–150g. Electricity is minimal — most home printers draw 100–250W, similar to a lightbulb. Your biggest ongoing costs are filament and occasional consumables like nozzles (replace every few months with regular use). A nozzle costs about £3–£8."
+      "answer": "It's very affordable once you have the printer. PLA filament costs £15–£25 per kg, and most small-to-medium prints use 20–150g. Electricity is minimal; most home printers draw 100–250W, similar to a lightbulb. Your biggest ongoing costs are filament and occasional consumables like nozzles (replace every few months with regular use). A nozzle costs about £3–£8."
     },
     {
       "question": "How long do 3D prints take?",
-      "answer": "Small prints (keychains, cable clips) take 20–60 minutes. Medium objects take 2–6 hours. Large pieces can take 10–20+ hours. Bambu Lab printers are significantly faster than older machines — a print that takes 8 hours on a Creality might take 2–3 hours on a Bambu A1 Mini. You can also start a print and leave the house — most modern printers have remote monitoring via app."
+      "answer": "Small prints (keychains, cable clips) take 20–60 minutes. Medium objects take 2–6 hours. Large pieces can take 10–20+ hours. Bambu Lab printers are significantly faster than older machines. A print that takes 8 hours on a Creality might take 2–3 hours on a Bambu A1 Mini. You can also start a print and leave the house. Most modern printers have remote monitoring via app."
     },
     {
       "question": "Is 3D printing safe to do indoors?",
-      "answer": "PLA is the safest filament for indoor use — it emits minimal fumes at standard printing temperatures. ABS and ASA produce stronger fumes and should be printed in well-ventilated spaces or enclosed printers with filtration. As a general rule, keep the room ventilated, avoid sleeping in the same room as a running printer, and don't leave a printer unattended for very long prints if you can help it."
+      "answer": "PLA is the safest filament for indoor use and emits minimal fumes at standard printing temperatures. ABS and ASA produce stronger fumes and should be printed in well-ventilated spaces or enclosed printers with filtration. As a general rule, keep the room ventilated, avoid sleeping in the same room as a running printer, and don't leave a printer unattended for very long prints if you can help it."
     }
   ]
 }

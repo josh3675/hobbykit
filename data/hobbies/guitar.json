@@ -7,7 +7,7 @@
     "description": "Everything a complete beginner needs to start playing guitar. Handpicked starter kits with honest recommendations and Amazon UK links.",
     "keywords": ["beginner guitar kit UK", "starter guitar kit", "what do I need to start playing guitar", "acoustic guitar starter kit UK"]
   },
-  "intro": "Starting guitar is exciting but knowing what to buy first can be overwhelming. We've cut through the noise to give you exactly what you need — nothing more.",
+  "intro": "Starting guitar is exciting but knowing what to buy first can be overwhelming. We've cut through the noise to give you exactly what you need, nothing more.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
@@ -21,7 +21,7 @@
           "id": "guitar-001",
           "name": "Yamaha F310 Acoustic Guitar",
           "description": "The most recommended beginner acoustic guitar in the UK. Great tone, stays in tune, and built to last through the learning curve.",
-          "why_we_picked": "Consistently rated the best beginner guitar under £150. Music teachers across the UK recommend it — you won't outgrow it quickly.",
+          "why_we_picked": "Consistently rated the best beginner guitar under £150. Music teachers across the UK recommend it and you won't outgrow it quickly.",
           "badge": "Best for Beginners",
           "amazon_url": "https://amzn.to/4benk6Z",
           "price_range": "£100–£150",
@@ -30,7 +30,7 @@
         {
           "id": "guitar-002",
           "name": "Ernie Ball Earthwood Light Acoustic Strings",
-          "description": "Light gauge strings are easier on fingertips for beginners. Always have a spare set — strings break at the worst times.",
+          "description": "Light gauge strings are easier on fingertips for beginners. Always keep a spare set; strings break at the worst times.",
           "why_we_picked": "The go-to string for beginner acoustic players. Light gauge means less finger pain while you build up calluses.",
           "badge": "Best Value",
           "amazon_url": "https://amzn.to/3OOQcLv",
@@ -50,7 +50,7 @@
         {
           "id": "guitar-004",
           "name": "Snark SN-5X Clip-On Tuner",
-          "description": "Clips onto the headstock and tunes by vibration — works even in noisy rooms. Dead simple to use.",
+          "description": "Clips onto the headstock and tunes by vibration, so it works even in noisy rooms. Dead simple to use.",
           "why_we_picked": "Playing out of tune is the fastest way to lose motivation. This tuner is accurate, quick, and costs almost nothing.",
           "badge": null,
           "amazon_url": "https://amzn.to/3NnErLs",
@@ -68,7 +68,7 @@
         {
           "id": "guitar-005",
           "name": "Yamaha FG800 Acoustic Guitar",
-          "description": "A noticeable step up in sound quality from beginner guitars. Solid spruce top gives a richer, fuller tone. A range of finishes to suite your look. ",
+          "description": "A noticeable step up in sound quality from beginner guitars. Solid spruce top gives a richer, fuller tone. A range of finishes to suit your look.",
           "why_we_picked": "Once you've committed to guitar, this is the upgrade that makes practice feel like a reward. The solid top makes a huge difference to tone.",
           "badge": "Staff Pick",
           "amazon_url": "https://amzn.to/40fjgy8",
@@ -79,7 +79,7 @@
           "id": "guitar-006",
           "name": "Capo (Shubb C1 Standard)",
           "description": "A capo lets you play songs in different keys without learning new chord shapes. Opens up a huge range of songs.",
-          "why_we_picked": "One of the most useful guitar accessories once you know a few chords. The Shubb is the gold standard — it won't go out of tune when you attach it.",
+          "why_we_picked": "One of the most useful guitar accessories once you know a few chords. The Shubb is the gold standard; it won't go out of tune when you attach it.",
           "badge": null,
           "amazon_url": "https://amzn.to/4br9r6p",
           "price_range": "£18–£25",
@@ -89,7 +89,7 @@
           "id": "guitar-007",
           "name": "Guitar Strap (Nefelibata with pick pocket)",
           "description": "A quality strap that's comfortable for long practice sessions and won't slip off the strap button.",
-          "why_we_picked": "A good strap lets you practice standing up — which is how you'll perform.",
+          "why_we_picked": "A good strap lets you practice standing up, which is how you'll perform.",
           "badge": null,
           "amazon_url": "https://amzn.to/40iW16j",
           "price_range": "£20–£25",
@@ -101,7 +101,7 @@
   "checklist": [
     "Acoustic or classical guitar",
     "Set of spare strings (light gauge for beginners)",
-    "Guitar picks — variety pack",
+    "Guitar picks (variety pack)",
     "Clip-on tuner",
     "Guitar strap",
     "Capo (once you know a few chords)",
@@ -110,43 +110,43 @@
   "faqs": [
     {
       "question": "Should I start on acoustic or electric guitar?",
-      "answer": "Acoustic is the most common recommendation — no amp needed, it builds finger strength faster, and it's more portable. That said, electric guitars have thinner strings that are easier on your fingers, so if you're serious about rock or metal, starting electric is completely valid. The best guitar is whichever one you'll actually pick up and play."
+      "answer": "Acoustic is the most common recommendation: no amp needed, it builds finger strength faster, and it's more portable. That said, electric guitars have thinner strings that are easier on your fingers, so if you're serious about rock or metal, starting electric is completely valid. The best guitar is whichever one you'll actually pick up and play."
     },
     {
       "question": "How much should I spend on a first guitar?",
-      "answer": "£100–£200 is the sweet spot. Anything cheaper tends to have poor action (string height), tuning issues, and bad intonation — all of which make learning feel harder than it should be. Spending more than £200 before you've committed is unnecessary. The Yamaha F310 sits perfectly in this range."
+      "answer": "£100–£200 is the sweet spot. Anything cheaper tends to have poor action (string height), tuning issues, and bad intonation, all of which make learning feel harder than it should be. Spending more than £200 before you've committed is unnecessary. The Yamaha F310 sits perfectly in this range."
     },
     {
       "question": "Why do my fingers hurt so much?",
-      "answer": "Completely normal — your fingertips need to build calluses before playing becomes comfortable. Most beginners find the pain subsides after 2–3 weeks of regular practice. Keep sessions short at first (15–20 minutes), and avoid the temptation to use a capo to dodge the pain. Your skin will harden — and contrary to what you might think, calluses largely disappear again if you stop playing for a while."
+      "answer": "Completely normal. Your fingertips need to build calluses before playing becomes comfortable. Most beginners find the pain subsides after 2–3 weeks of regular practice. Keep sessions short at first (15–20 minutes), and avoid the temptation to use a capo to dodge the pain. Your skin will harden, and contrary to what you might think, calluses largely disappear again if you stop playing for a while."
     },
     {
       "question": "What is a 'death grip' and how do I avoid it?",
-      "answer": "A death grip is when you wrap your thumb over the top of the neck to squeeze harder — it feels natural but restricts your finger movement and bends your wrist at a damaging angle. The correct technique keeps your thumb behind the neck, pointing roughly upward, with your fingers pressing strings using just the tips. Ask a teacher or check YouTube to see it demonstrated — it's one of the most important habits to get right early."
+      "answer": "A death grip is when you wrap your thumb over the top of the neck to squeeze harder. It feels natural but restricts your finger movement and bends your wrist at a damaging angle. The correct technique keeps your thumb behind the neck, pointing roughly upward, with your fingers pressing strings using just the tips. Ask a teacher or check YouTube to see it demonstrated. It's one of the most important habits to get right early."
     },
     {
       "question": "How often should I practise?",
-      "answer": "15–20 minutes every day beats 2 hours once a week. Consistency is everything with guitar — your fingers, muscle memory, and ear all need regular repetition to improve. If you can only manage 10 minutes on a busy day, that still counts. The number one reason beginners quit is irregular practice, not lack of talent."
+      "answer": "15–20 minutes every day beats 2 hours once a week. Consistency is everything with guitar; your fingers, muscle memory, and ear all need regular repetition to improve. If you can only manage 10 minutes on a busy day, that still counts. The number one reason beginners quit is irregular practice, not lack of talent."
     },
     {
       "question": "Do I need guitar lessons or can I learn online?",
-      "answer": "You can absolutely learn online — Justin Guitar (justinguitar.com) is widely regarded as the best free resource for beginners and is used by millions. Lessons are valuable for catching bad habits early (like the death grip) but aren't essential. A hybrid approach — online learning with occasional in-person checks — works well for many beginners."
+      "answer": "You can absolutely learn online. Justin Guitar (justinguitar.com) is widely regarded as the best free resource for beginners and is used by millions. Lessons are valuable for catching bad habits early (like the death grip) but aren't essential. A hybrid approach of online learning with occasional in-person checks works well for many beginners."
     },
     {
       "question": "When should I start learning barre chords?",
-      "answer": "Once you can play open chords (G, C, D, Em, Am) cleanly and change between them smoothly — usually after 4–8 weeks. Don't rush barre chords; they require finger strength that takes time to build. Practise pressing the full barre for 10–15 minutes a day rather than forcing it for hours at once. F major is typically the first barre chord beginners tackle."
+      "answer": "Once you can play open chords (G, C, D, Em, Am) cleanly and change between them smoothly, usually after 4–8 weeks. Don't rush barre chords; they require finger strength that takes time to build. Practise pressing the full barre for 10–15 minutes a day rather than forcing it for hours at once. F major is typically the first barre chord beginners tackle."
     },
     {
       "question": "How do I maintain my guitar?",
-      "answer": "Wipe the strings down with a dry cloth after every session — this removes sweat and oil and extends string life significantly. Every 6 months or so, clean the fretboard with a dedicated fretboard oil (like Dunlop 65). Keep your guitar away from extreme heat, cold, and humidity — central heating in winter can dry out the wood and cause cracking. A humidifier in the case is worth having in dry conditions."
+      "answer": "Wipe the strings down with a dry cloth after every session; this removes sweat and oil and extends string life significantly. Every 6 months or so, clean the fretboard with a dedicated fretboard oil (like Dunlop 65). Keep your guitar away from extreme heat, cold, and humidity. Central heating in winter can dry out the wood and cause cracking. A humidifier in the case is worth having in dry conditions."
     },
     {
       "question": "What are good first songs to learn?",
-      "answer": "Wonderwall (Oasis), Knockin' on Heaven's Door (Bob Dylan), and House of the Rising Sun (The Animals) are classic beginner songs that use basic open chords. Wish You Were Here (Pink Floyd) has a recognisable intro that's great for fingerpicking practice. Choose something you actually enjoy — motivation matters far more than difficulty rating."
+      "answer": "Wonderwall (Oasis), Knockin' on Heaven's Door (Bob Dylan), and House of the Rising Sun (The Animals) are classic beginner songs that use basic open chords. Wish You Were Here (Pink Floyd) has a recognisable intro that's great for fingerpicking practice. Choose something you actually enjoy, because motivation matters far more than difficulty rating."
     },
     {
       "question": "Do I need to learn to read music?",
-      "answer": "No — most guitarists never learn to read standard notation. Guitar uses tablature (tabs), which shows you exactly which fret to press on which string. Tabs are available for almost every song online (Ultimate Guitar is the go-to site). Learning basic music theory — like how chords are built and what keys are — is genuinely useful but not required to start."
+      "answer": "No. Most guitarists never learn to read standard notation. Guitar uses tablature (tabs), which shows you exactly which fret to press on which string. Tabs are available for almost every song online (Ultimate Guitar is the go-to site). Learning basic music theory, like how chords are built and what keys are, is really useful but not required to start."
     }
   ]
 }

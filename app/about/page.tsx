@@ -65,8 +65,8 @@ export default function AboutPage() {
         <p className="text-[#333333] leading-relaxed mb-6">
           These commissions are what keep KitUp free and ad-free. Without them,
           we couldn&apos;t justify the time spent researching and maintaining
-          the site. We think that&apos;s a fair trade — you get honest, curated
-          recommendations with no banner ads or pop-ups; we earn a modest
+          the site. We think that&apos;s a fair trade: you get honest, curated
+          recommendations with no banner ads or pop-ups, and we earn a modest
           contribution when those recommendations lead to a purchase.
         </p>
         <p className="text-[#333333] leading-relaxed mb-6">
