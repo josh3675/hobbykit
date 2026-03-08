@@ -36,16 +36,6 @@
           "amazon_url": "https://amzn.to/4svOyg2",
           "price_range": "£18–£25",
           "image_url": "https://m.media-amazon.com/images/I/71o-W7YfQrL._SL1500_.jpg"
-        },
-        {
-          "id": "3dprinting-003",
-          "name": "3D Printing Tool Kit (Spatula, Pliers, Tweezers)",
-          "description": "A set of post-processing tools: a flexible spatula for lifting prints off the build plate, needle-nose pliers for pulling supports, and tweezers for fine work. The kind of thing you reach for every session.",
-          "why_we_picked": "Post-processing is part of 3D printing. Supports need removing, prints need lifting, and edges occasionally need cleaning up. Using your fingers for all of this leads to broken prints and sore fingertips. A basic tool kit like this covers everything you'll need in the first months of printing.",
-          "badge": null,
-          "amazon_url": "https://www.amazon.co.uk/dp/B07DRDCDYJ?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£12–£20",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DRDCDYJ&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
         }
       ]
     },
@@ -59,7 +49,7 @@
           "id": "3dprinting-004",
           "name": "Bambu Lab PETG-CF Filament",
           "description": "Carbon-fibre reinforced PETG: stiffer and stronger than standard PLA, with better heat resistance. For parts that need to handle load, stress, or temperatures that would soften PLA.",
-          "why_we_picked": "Once you've run through a few kg of PLA and got comfortable with your printer, PETG-CF is the upgrade that changes what you can make. Functional parts: brackets, enclosures, tool holders. The CF reinforcement makes a real difference to rigidity and the parts feel like parts rather than plastic objects. Bambu Studio makes the settings adjustment easy.",
+          "why_we_picked": "Once you've run through a few kg of PLA and got comfortable with your printer, PETG-CF is the upgrade that changes what you can make. Functional parts: brackets, enclosures, tool holders. The CF reinforcement makes a real difference to rigidity and the parts feel like parts rather than plastic objects. Cura has PETG profiles built in, so the settings adjustment is straightforward.",
           "badge": "Staff Pick",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8VHQ94P?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£25–£35",
@@ -67,13 +57,13 @@
         },
         {
           "id": "3dprinting-005",
-          "name": "PrusaSlicer (Free Software)",
-          "description": "Free, open-source slicer software compatible with most FDM printers. Converts .STL and .3MF model files into the printer instructions it follows, with full control over layer height, speed, supports, and infill.",
-          "why_we_picked": "A slicer turns a 3D model into something a printer can read. PrusaSlicer is the best free option available: powerful, well-documented, and used by a huge proportion of the hobby printing community. For Bambu printers, Bambu Studio is the dedicated option and also works very well. Both are free. Download both and see which you prefer.",
+          "name": "Ultimaker Cura (Free Slicer Software)",
+          "description": "Free slicer software from Ultimaker, compatible with virtually every FDM printer including ELEGOO. Converts .STL and .3MF files into the G-code your printer reads, with presets for hundreds of machines and full control over layer height, speed, supports, and infill.",
+          "why_we_picked": "Cura is the most widely used slicer in home 3D printing. It has a built-in profile for the ELEGOO Neptune 4 Pro that gives you solid defaults from day one. The interface is clean, the documentation is excellent, and there's a large community to draw on when you need to tweak settings. Free to download, no strings attached.",
           "badge": "Free",
-          "amazon_url": "https://www.amazon.co.uk/dp/B00000000?tag=YOUR_ASSOCIATE_TAG",
+          "amazon_url": "https://ultimaker.com/software/ultimaker-cura/",
           "price_range": "Free",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00000000&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "image_url": "https://ultimaker.com/wp-content/uploads/2023/05/UltiMaker-Main-Logo-200px-high-transparent-light-1.png"
         }
       ]
     }
@@ -83,7 +73,7 @@
     "PLA filament (start with white or grey, easy to spot defects)",
     "Spatula for removing prints",
     "Needle-nose pliers for supports",
-    "Slicer software (Bambu Studio or PrusaSlicer, both free)",
+    "Slicer software (Ultimaker Cura, free)",
     "Isopropyl alcohol for bed cleaning",
     "MicroSD card (often included with printer)",
     "Spare nozzle (0.4mm standard)"
@@ -107,7 +97,7 @@
     },
     {
       "question": "What is a slicer and which should I use?",
-      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For the Neptune 4 Pro, PrusaSlicer and Orca Slicer both work well and are free. Orca Slicer in particular has strong Klipper support and great defaults for ELEGOO printers."
+      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For the Neptune 4 Pro, Ultimaker Cura is the go-to choice: it has a built-in ELEGOO profile, a clean interface, and is very well documented. It's free to download from ultimaker.com."
     },
     {
       "question": "Do I need to know CAD to use a 3D printer?",
