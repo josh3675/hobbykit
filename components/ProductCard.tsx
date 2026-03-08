@@ -59,7 +59,7 @@ export default function ProductCard({ product }: { product: Product }) {
           rel="noopener noreferrer"
           className="block w-full text-center bg-[#2d6a4f] text-white rounded-lg px-4 py-3 font-semibold hover:bg-[#1b4332] transition-colors"
         >
-          View on Amazon →
+          {product.button_label ?? "View on Amazon →"}
         </a>
       </div>
     </article>

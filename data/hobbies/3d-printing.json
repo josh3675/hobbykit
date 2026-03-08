@@ -47,13 +47,13 @@
       "products": [
         {
           "id": "3dprinting-004",
-          "name": "Bambu Lab PETG-CF Filament",
-          "description": "Carbon-fibre reinforced PETG: stiffer and stronger than standard PLA, with better heat resistance. For parts that need to handle load, stress, or temperatures that would soften PLA.",
-          "why_we_picked": "Once you've run through a few kg of PLA and got comfortable with your printer, PETG-CF is the upgrade that changes what you can make. Functional parts: brackets, enclosures, tool holders. The CF reinforcement makes a real difference to rigidity and the parts feel like parts rather than plastic objects. Cura has PETG profiles built in, so the settings adjustment is straightforward.",
+          "name": "SUNLU Filament Dryer Box S1",
+          "description": "A dedicated drying box that keeps filament at the right temperature and humidity while you print. Fits most standard 1kg spools and runs quietly in the background. Compatible with PLA, PETG, ABS, and TPU.",
+          "why_we_picked": "Moisture is one of the most common causes of poor print quality that beginners don't think to check. Stringing, bubbling, weak layer adhesion: all of these can be caused by damp filament rather than anything wrong with your settings. The SUNLU S1 is the most popular budget dryer for good reason. Set the temperature, feed the filament straight from the box to the printer, and the problem goes away.",
           "badge": "Staff Pick",
-          "amazon_url": "https://www.amazon.co.uk/dp/B0C8VHQ94P?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£25–£35",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C8VHQ94P&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/4bwo88l",
+          "price_range": "£30",
+          "image_url": "https://m.media-amazon.com/images/I/71mjCRpIamL._AC_SL1500_.jpg"
         },
         {
           "id": "3dprinting-005",
@@ -62,6 +62,7 @@
           "why_we_picked": "Cura is the most widely used slicer in home 3D printing. It has a built-in profile for the ELEGOO Neptune 4 Pro that gives you solid defaults from day one. The interface is clean, the documentation is excellent, and there's a large community to draw on when you need to tweak settings. Free to download, no strings attached.",
           "badge": "Free",
           "amazon_url": "https://ultimaker.com/software/ultimaker-cura/",
+          "button_label": "Download from Ultimaker →",
           "price_range": "Free",
           "image_url": "https://ultimaker.com/wp-content/uploads/2023/05/UltiMaker-Main-Logo-200px-high-transparent-light-1.png"
         }

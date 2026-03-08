@@ -19,6 +19,7 @@ export interface Product {
   why_we_picked: string;
   badge: string | null;
   amazon_url: string;
+  button_label?: string;
   price_range: string;
   image_url: string;
 }
