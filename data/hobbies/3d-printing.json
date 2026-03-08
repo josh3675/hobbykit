@@ -19,19 +19,19 @@
       "products": [
         {
           "id": "3dprinting-001",
-          "name": "Bambu Lab A1 Mini 3D Printer",
-          "description": "A compact FDM printer with automatic bed levelling, filament runout detection, and a companion app for remote monitoring. Prints quickly and consistently from the first session.",
-          "why_we_picked": "Most beginner 3D printers need a significant amount of setup, calibration, and patience before the first successful print. The Bambu A1 Mini doesn't. It arrives, you set it up in twenty minutes, and it prints. The auto-calibration handles the thing that frustrates most new users, and the print speed means you get more done in an evening. If you want to print rather than tinker, this is the machine.",
+          "name": "ELEGOO Neptune 4 Pro 3D Printer",
+          "description": "A fast FDM printer with automatic bed levelling, direct drive extruder, and Klipper firmware. Print speeds up to 500mm/s with a 225x225x265mm build volume. Ready to print within minutes of unboxing.",
+          "why_we_picked": "The Neptune 4 Pro hits the sweet spot for beginners: it's fast, the auto-levelling works reliably, and Klipper firmware gives you a polished interface without needing to tinker. ELEGOO have a strong reputation for support and an active community, so when questions come up (and they will) the answers are easy to find. Good value for what you get.",
           "badge": "Best for Beginners",
-          "amazon_url": "https://www.amazon.co.uk/dp/B0CL2VKGM2?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£280–£330",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CL2VKGM2&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/4rRTBHU",
+          "price_range": "£200–£250",
+          "image_url": "https://m.media-amazon.com/images/I/71iIx84WFnL._AC_SL1500_.jpg"
         },
         {
           "id": "3dprinting-002",
           "name": "Bambu Lab PLA Filament 1kg (White)",
           "description": "1kg of Bambu's own PLA in white. PLA prints at low temperature, doesn't warp on the build plate, and is biodegradable. White makes it easy to spot layer lines and surface defects while you're still learning.",
-          "why_we_picked": "PLA is where everyone starts, and for good reason. It's the most forgiving filament: it sticks well, doesn't release significant fumes, and is available everywhere. Bambu's own filament is profiled for their printers, which means the default settings work straight away. Start white; you'll see what's happening on the print more clearly.",
+          "why_we_picked": "PLA is where everyone starts, and for good reason. It's the most forgiving filament: it sticks well, doesn't release significant fumes, and is available everywhere. Generic PLA from reputable brands like ELEGOO, Polymaker, or Sunlu works well and costs less than branded alternatives. Start white; you'll see what's happening on the print more clearly.",
           "badge": "Best Value",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8H3BQHQ?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£18–£25",
@@ -91,11 +91,11 @@
   "faqs": [
     {
       "question": "What's the best first 3D printer to buy in the UK?",
-      "answer": "The Bambu Lab A1 Mini is our top pick for beginners in 2025. It auto-calibrates, prints fast, connects via Wi-Fi, and just works. No tinkering required. The Creality Ender 3 V3 is a popular cheaper alternative but requires more hands-on setup. If you want to start printing rather than building and tweaking, pay the premium for Bambu."
+      "answer": "The ELEGOO Neptune 4 Pro is our top pick for beginners in 2025. It auto-levels, prints fast, runs Klipper firmware, and is available on Amazon UK with good delivery. The Creality Ender 3 V3 is a popular alternative at a similar price. Both are solid choices; the Neptune 4 Pro edges it for print speed and the quality of the out-of-box experience."
     },
     {
       "question": "What is bed levelling and why does it matter?",
-      "answer": "Bed levelling ensures the print nozzle is the same distance from the build plate across the entire surface. If the nozzle is too far away, the first layer won't stick. Too close, and it scrapes the bed or clogs. It's the single most common cause of failed prints for beginners. Most modern printers like the Bambu A1 Mini auto-level, which is the main reason we recommend them. Manual levelling frustrates a lot of new users."
+      "answer": "Bed levelling ensures the print nozzle is the same distance from the build plate across the entire surface. If the nozzle is too far away, the first layer won't stick. Too close, and it scrapes the bed or clogs. It's the single most common cause of failed prints for beginners. Most modern printers like the ELEGOO Neptune 4 Pro auto-level, which is the main reason we recommend them. Manual levelling frustrates a lot of new users."
     },
     {
       "question": "Why won't my print stick to the bed?",
@@ -107,7 +107,7 @@
     },
     {
       "question": "What is a slicer and which should I use?",
-      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For Bambu printers, use Bambu Studio. It's fast, well-designed, and has great defaults. PrusaSlicer and Orca Slicer are excellent free alternatives that work with most printers."
+      "answer": "A slicer is software that converts a 3D model file (.STL or .3MF) into the instructions your printer follows (G-code). It controls layer height, speed, supports, infill, and everything else. For the Neptune 4 Pro, PrusaSlicer and Orca Slicer both work well and are free. Orca Slicer in particular has strong Klipper support and great defaults for ELEGOO printers."
     },
     {
       "question": "Do I need to know CAD to use a 3D printer?",
@@ -123,7 +123,7 @@
     },
     {
       "question": "How long do 3D prints take?",
-      "answer": "Small prints (keychains, cable clips) take 20–60 minutes. Medium objects take 2–6 hours. Large pieces can take 10–20+ hours. Bambu Lab printers are significantly faster than older machines. A print that takes 8 hours on a Creality might take 2–3 hours on a Bambu A1 Mini. You can also start a print and leave the house. Most modern printers have remote monitoring via app."
+      "answer": "Small prints (keychains, cable clips) take 20–60 minutes. Medium objects take 2–6 hours. Large pieces can take 10–20+ hours. Modern printers like the Neptune 4 Pro are significantly faster than older machines. A print that takes 8 hours on a first-generation Ender might take 2–3 hours on a current-generation printer. You can also start a print and leave the house. Most modern printers have remote monitoring via app."
     },
     {
       "question": "Is 3D printing safe to do indoors?",
