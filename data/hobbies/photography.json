@@ -1,27 +1,27 @@
 {
   "slug": "photography",
   "name": "Photography",
-  "tagline": "Capture the world through your lens",
+  "tagline": "Start seeing before you start shooting",
   "seo": {
     "title": "Best Beginner Photography Kit UK 2025 | KitUp",
     "description": "Start photography with the right camera and accessories. Honest beginner recommendations for cameras, lenses, and essentials with Amazon UK links.",
     "keywords": ["beginner photography kit UK", "starter camera kit", "what camera should I buy as a beginner UK", "first camera for beginners UK"]
   },
-  "intro": "Photography is one of those hobbies where gear matters, but not as much as you think. Here's what to buy first, and what to ignore until you've got the basics.",
+  "intro": "Photography changes how you see. After a few months with a camera, you notice light on a wall and find yourself framing it. You walk past a scene and catch yourself thinking about depth of field and shutter speed. That shift in perception is the real reward, and it starts before you take a single great photograph. The camera is just the tool that begins the process.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
     {
       "tier": "starter",
       "label": "Starter Kit",
-      "description": "A capable beginner setup that won't break the bank.",
+      "description": "A reliable setup that gets out of the way and lets you learn.",
       "budget_tier": "budget",
       "products": [
         {
           "id": "photography-001",
           "name": "Canon EOS 2000D Camera with RF-S 18-55mm Lens Kit",
-          "description": "The most popular beginner DSLR in the UK. Comes with an 18-55mm kit lens that covers landscapes, portraits, and everyday shots.",
-          "why_we_picked": "The 2000D is beginner-friendly with an easy-to-navigate menu, great image quality, and a massive online community for learning. The kit lens is actually very useful.",
+          "description": "A 24MP DSLR with an optical viewfinder, straightforward controls, and reliable autofocus. The 18-55mm kit lens covers wide landscapes through to short portraits and is sharper than its reputation suggests.",
+          "why_we_picked": "The 2000D earns its place at the top of most beginner recommendations because it gets out of the way. The controls are logical, the image quality is excellent, and there is a vast community of guides, tutorials, and forum posts built around it. Keep the kit lens for longer than you think you need to; it teaches you more about framing and light than any upgrade will.",
           "badge": "Best for Beginners",
           "amazon_url": "https://amzn.to/4leo8x3",
           "price_range": "£500–£600",
@@ -30,8 +30,8 @@
         {
           "id": "photography-002",
           "name": "SanDisk 64GB Extreme Pro SD Card",
-          "description": "Fast write speeds prevent your camera buffer filling up mid-shoot. 64GB is plenty for a beginner shooting JPEGs or RAW.",
-          "why_we_picked": "A slow SD card is a frustration you won't see coming; your camera will lag between shots. The SanDisk Extreme Pro is fast, reliable, and lasts for years.",
+          "description": "A 64GB UHS-I card with fast enough write speeds to keep up with burst shooting and RAW files. Plenty of space for a day's shooting without watching the card fill up.",
+          "why_we_picked": "A slow card creates a buffer lag that makes the camera feel unresponsive between shots. It's the kind of frustration you don't expect until you've experienced it mid-shoot. The SanDisk Extreme Pro is fast, reliable, and lasts for years. Buy it once and stop thinking about it.",
           "badge": "Best Value",
           "amazon_url": "https://amzn.to/4rVOuq6",
           "price_range": "£25–£35",
@@ -40,8 +40,8 @@
         {
           "id": "photography-003",
           "name": "K&F Concept Camera Sling Bag",
-          "description": "A padded camera sling bag with room for your body, kit lens, and accessories. Water-resistant exterior with tripod straps.",
-          "why_we_picked": "Protecting your camera is a must. This bag has a sensible layout, fits a DSLR with lens attached, and slides easily to the front for quick access without needing to take your bag off your shoulder.",
+          "description": "A padded sling bag with a dedicated camera compartment, side pockets for batteries and cards, and an exterior strap for a tripod. Water-resistant shell. Rotates to the front for quick access without taking it off.",
+          "why_we_picked": "A DSLR with a lens attached is too valuable to carry unprotected. The K&F sling is the right size: compact enough for a day out, large enough for a body with kit lens attached and a few accessories. The front-rotation design means you can get the camera out without setting the bag down, which matters more than it sounds.",
           "badge": null,
           "amazon_url": "https://amzn.to/4svzYFl",
           "price_range": "£30–£40",
@@ -50,8 +50,8 @@
         {
           "id": "photography-004",
           "name": "Manfrotto Element MII Aluminium Tripod",
-          "description": "A lightweight aluminium tripod for landscape, portrait, and low-light photography. Extends to 160cm with a quick-release plate. Don't skimp here; sturdiness and stability matter.",
-          "why_we_picked": "A tripod unlocks night photography, long exposures, and self-portraits. The Manfrotto Element MII is stable enough for a DSLR and light enough to carry.",
+          "description": "A lightweight aluminium tripod that extends to 160cm with a ball head and quick-release plate. Stable enough for a DSLR with a kit lens. Folds compact for a bag. Don't skimp here; sturdiness and stability matter.",
+          "why_we_picked": "A tripod changes what you can photograph. Long exposures of city streets at night, sharp landscapes in low morning light, self-portraits. The Manfrotto Element MII is stable without being heavy to carry, and the quick-release plate means you're not fumbling with a screw thread when the light is right.",
           "badge": null,
           "amazon_url": "https://amzn.to/4baEpP3",
           "price_range": "£70–£90",
@@ -62,14 +62,14 @@
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Take your photography further with better glass and smarter accessories.",
+      "description": "The upgrade that makes portraits look completely different.",
       "budget_tier": "mid-range",
       "products": [
         {
           "id": "photography-005",
           "name": "Canon EF 50mm f/1.8 STM Lens",
-          "description": "The famous 'nifty fifty': an affordable prime lens that produces beautiful background blur (bokeh) and sharp portraits. A completely different look to the kit lens.",
-          "why_we_picked": "The single biggest upgrade you can make to a Canon beginner setup. The 50mm f/1.8 gets more light to the sensor and produces great-looking portraits.",
+          "description": "A prime lens with a maximum aperture of f/1.8. At f/1.8 the background separates from the subject with a blurred quality that zoom lenses can't match at this price. Sharp from the centre, wide open.",
+          "why_we_picked": "Fitting this lens and pointing it at a person in decent light is the moment many beginners understand what photography can actually look like. The background falls away, the subject is sharp, and the image looks like a photograph rather than a snapshot. It's the single upgrade that changes the most about how your photos look.",
           "badge": "Staff Pick",
           "amazon_url": "https://amzn.to/4ldoDYp",
           "price_range": "£100–£130",
@@ -78,8 +78,8 @@
         {
           "id": "photography-006",
           "name": "LP-E10 Spare Battery (Patona Premium)",
-          "description": "A spare battery so you never miss a shot because your camera died. The Canon LP-E10 is compatible with the 2000D, 1200D, and 1300D.",
-          "why_we_picked": "Running out of battery is the most preventable frustration in photography. Keep a spare in your bag, always.",
+          "description": "A third-party battery compatible with the Canon EOS 2000D, 1200D, and 1300D. Same capacity as the original Canon battery at a fraction of the price. Includes a USB charger.",
+          "why_we_picked": "Camera batteries die at the worst moment. The fix is a spare, kept charged and in your bag. The Patona LP-E10 holds its charge well and won't cause any issues with the camera. It's a small purchase that removes a real source of frustration.",
           "badge": null,
           "amazon_url": "https://amzn.to/40gTIAM",
           "price_range": "£15–£22",

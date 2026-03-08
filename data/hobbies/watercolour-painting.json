@@ -1,27 +1,27 @@
 {
   "slug": "watercolour-painting",
   "name": "Watercolour Painting",
-  "tagline": "Express yourself with colour and water",
+  "tagline": "The most honest medium you'll ever pick up",
   "seo": {
     "title": "Best Beginner Watercolour Painting Kit UK 2025 | KitUp",
     "description": "Start watercolour painting with the right supplies. Honest beginner recommendations for paints, brushes, and paper with Amazon UK links.",
     "keywords": ["beginner watercolour kit UK", "watercolour painting starter set", "what do I need to start watercolour painting", "watercolour supplies UK beginner"]
   },
-  "intro": "Watercolour painting is one of the most rewarding hobbies you can pick up, but buying the wrong supplies early on is frustrating. Here's exactly what to start with.",
+  "intro": "Watercolour is the most honest of the painting mediums. You can't overpower it. The water moves where it wants, pigment blooms in ways you didn't plan, and the best results often come from setting your brush down and letting things settle. That tension between control and surrender is what makes watercolour so absorbing. Learn to work with it rather than against it, and it rewards you with effects no other medium can produce.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
     {
       "tier": "starter",
       "label": "Starter Kit",
-      "description": "Everything you need to start painting today, without spending a fortune.",
+      "description": "The supplies that actually make a difference. One of these matters more than all the others.",
       "budget_tier": "budget",
       "products": [
         {
           "id": "watercolour-001",
           "name": "Winsor & Newton Cotman Watercolour Set (12 Half Pans)",
-          "description": "The most trusted beginner watercolour set in the UK. Cotman paints are student-grade but really good quality, far above cheap art sets.",
-          "why_we_picked": "Winsor & Newton Cotman is the benchmark for beginner watercolours. Consistent pigment, reliable mixing, and widely available replacements.",
+          "description": "A 12-pan set from Winsor & Newton's Cotman range. Student-grade but serious: consistent pigments, clean mixing, and behaviour that teaches you how watercolour actually works. The half-pan format is compact and practical, at home or outdoors.",
+          "why_we_picked": "Cotman is the benchmark for beginner watercolours. The pigments are consistent from pan to pan, the mixing is predictable, and you can buy individual replacement pans as you run out of the colours you use most. Don't start with a cheap art set; inconsistent pigments make everything harder and teach you nothing useful.",
           "badge": "Best for Beginners",
           "amazon_url": "https://amzn.to/4b8Rl7R",
           "price_range": "£12–£18",
@@ -30,8 +30,8 @@
         {
           "id": "watercolour-002",
           "name": "Arches Watercolour Paper Block (300gsm, A4)",
-          "description": "Heavy 300gsm paper that won't buckle when wet. Proper watercolour paper makes a bigger difference than expensive paints.",
-          "why_we_picked": "Cheap paper ruins watercolour work: it buckles, bleeds, and fights you. Arches is the professional standard and available in A4 for beginners.",
+          "description": "300gsm cold-press cotton paper in a glued block. The block keeps sheets flat and attached to a stiff backing while you work, which stops the paper buckling when wet. Cold-press texture grips the paint and suits most subjects.",
+          "why_we_picked": "Paper is the single most important purchase in watercolour. Cheap paper buckles badly, fights your brush, and makes the medium feel harder than it is. Arches is what professional watercolourists use: it handles multiple wet washes, lets you lift colour back out, and produces the kind of results that make you want to keep painting. Paint on Arches once and you'll understand immediately.",
           "badge": "Most Important Buy",
           "amazon_url": "https://amzn.to/4btLZFC",
           "price_range": "£18–£28",
@@ -40,8 +40,8 @@
         {
           "id": "watercolour-003",
           "name": "Daler-Rowney Aquafine Watercolour Brush Set",
-          "description": "A set of four brush shapes: round, flat, fan and detail. Synthetic bristles that hold water well.",
-          "why_we_picked": "You only need four brush shapes to get started. This set covers all the basics without overwhelming you with choices.",
+          "description": "A four-brush set covering the shapes you'll use most: a round for general work, a flat for laying washes, a fan for texture, and a detail brush for fine work. Synthetic fibres that hold a good point and carry enough water to cross a page.",
+          "why_we_picked": "Four brushes is all you need to start. These Aquafine brushes hold enough water to carry a wash and snap back to a point for detail work. Good synthetic brushes perform well at a fraction of the price of natural hair, and at this stage the limiting factor is skill, not equipment.",
           "badge": "Best Value",
           "amazon_url": "https://amzn.to/4ctLvR3",
           "price_range": "£10–£16",
@@ -50,8 +50,8 @@
         {
           "id": "watercolour-004",
           "name": "Porcelain Palette with Deep Wells",
-          "description": "A white porcelain palette lets you see true paint colours and is easy to clean. Deep wells stop colours mixing accidentally.",
-          "why_we_picked": "Plastic palettes stain and make it hard to judge colours. A cheap porcelain palette lasts forever and improves your work immediately.",
+          "description": "A white porcelain mixing palette with deep, separated wells. The white surface shows true colour so you can judge mixes accurately. Ceramic doesn't stain the way plastic does and cleans up with a rinse.",
+          "why_we_picked": "Mixing watercolour accurately depends on seeing the true colour of your mix, not a version of it tinted by whatever you mixed before. A white porcelain palette does this properly. White plastic palettes stain and make colour judgement harder. This is a small purchase that affects every painting you make.",
           "badge": null,
           "amazon_url": "https://amzn.to/46GD7dd",
           "price_range": "£8–£15",
@@ -62,14 +62,14 @@
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Upgrade your supplies once you've caught the watercolour bug.",
+      "description": "When you're hooked and ready to see what the medium is really capable of.",
       "budget_tier": "mid-range",
       "products": [
         {
           "id": "watercolour-005",
           "name": "Winsor & Newton Professional Watercolour Set (12 Tubes)",
-          "description": "Artist-grade pigments with exceptional depth and lightfastness. You'll notice the difference straight away.",
-          "why_we_picked": "When you're ready to level up, professional paints are something else entirely. The colour intensity and mixing qualities are on another level.",
+          "description": "Twelve tubes of Winsor & Newton's artist-grade watercolours. Higher pigment concentration and lightfastness than student-grade paint. The colours are richer, the mixes are cleaner, and they behave with a depth that is hard to describe until you've tried them.",
+          "why_we_picked": "Artist-grade paint is a different experience to student-grade. When you've learned to handle the medium and you're done wrestling with your materials, this is the upgrade that changes things. The step up from Cotman is real and you'll feel it on the first mix.",
           "badge": "Staff Pick",
           "amazon_url": "https://amzn.to/3OLqU0P",
           "price_range": "£70–£100",
@@ -78,8 +78,8 @@
         {
           "id": "watercolour-006",
           "name": "Masking Fluid (Winsor & Newton)",
-          "description": "Apply masking fluid to preserve white areas before laying washes. Peel off to reveal crisp white paper beneath.",
-          "why_we_picked": "Masking fluid unlocks a whole new level of watercolour technique. It's one of those tools that feels like a cheat code when you first use it.",
+          "description": "Liquid rubber that you paint onto areas you want to preserve as white paper. Once dry, you paint freely over it. Peel it back when everything is dry to reveal crisp white paper underneath.",
+          "why_we_picked": "In watercolour, the white in your painting is the paper itself. You can't paint white over it. Masking fluid solves this: protect the light areas before laying down washes, then reveal them at the end. The moment you peel back masking fluid for the first time and see what's underneath is one of the small joys of the medium.",
           "badge": null,
           "amazon_url": "https://amzn.to/4d4jQWW",
           "price_range": "£6–£10",

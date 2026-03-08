@@ -1,13 +1,13 @@
 {
   "slug": "fishing",
   "name": "Fishing",
-  "tagline": "Cast a line and enjoy the peace",
+  "tagline": "The float goes under. Everything else stops.",
   "seo": {
     "title": "Best Beginner Fishing Kit UK 2025 | KitUp",
     "description": "Start fishing in the UK with the right rod, reel, and tackle. Honest beginner recommendations with Amazon UK links.",
     "keywords": ["beginner fishing kit UK", "starter fishing rod and reel UK", "what do I need to start fishing UK", "coarse fishing starter kit UK"]
   },
-  "intro": "Fishing is one of the most peaceful hobbies you can take up, but the tackle shop can be overwhelming. Here's the no-nonsense kit list for getting a line in UK waters.",
+  "intro": "There's something about sitting beside water that slows everything down. The world narrows to the float, the surface, and whatever is moving beneath it. Fishing is patience turned into a hobby, and the tackle shop can look overwhelming when you're starting out. The truth is you need less than you think to have a good day on the bank.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
@@ -20,8 +20,8 @@
         {
           "id": "fishing-001",
           "name": "Daiwa Ninja 3000 Spinning Combo (Rod + Reel)",
-          "description": "A matched rod and reel combo from one of fishing's most trusted brands. The 3m rod handles float fishing and lure fishing across most UK venues.",
-          "why_we_picked": "Daiwa Ninja combos are the go-to recommendation from tackle shops across the UK. Reliable, well-balanced, and suitable for rivers, canals, and still waters.",
+          "description": "A matched 3m rod and 3000-size reel from one of fishing's most trusted brands. The rod handles float fishing and light lure work on rivers, canals, and still waters. Comes pre-spooled and ready to fish.",
+          "why_we_picked": "Daiwa make fishing gear at every price point and the Ninja combo sits at the right end for someone starting out. The rod has enough length to reach a decent swim without being unwieldy, and the reel is smooth enough that you feel the line rather than fighting the gear. Tackle shop staff across the UK point beginners at this setup, and for good reason.",
           "badge": "Best for Beginners",
           "amazon_url": "https://www.amazon.co.uk/dp/B00VTL2XEK?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£35–£55",
@@ -30,8 +30,8 @@
         {
           "id": "fishing-002",
           "name": "Shakespeare Complete Tackle Box Kit",
-          "description": "A comprehensive starter tackle set including hooks, floats, weights, swivels, and a tackle box. Everything you need to rig up and start fishing.",
-          "why_we_picked": "Buying tackle individually is time-consuming and expensive. This kit from Shakespeare covers all the essentials in one box at a fraction of the cost.",
+          "description": "A complete starter tackle set with hooks, floats, split shot weights, swivels, and a tackle box to keep them sorted. Everything you need to rig up on the bank and start fishing.",
+          "why_we_picked": "Buying tackle piece by piece is time-consuming and expensive for a beginner who doesn't yet know what they need. This Shakespeare kit covers the basics in a single purchase. It's not the finest tackle in the world, but it's all there in one box and on a first session that's what matters.",
           "badge": "Best Value",
           "amazon_url": "https://www.amazon.co.uk/dp/B00009RCLP?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£20–£35",
@@ -40,8 +40,8 @@
         {
           "id": "fishing-003",
           "name": "Daiwa Monofilament Line 8lb (300m)",
-          "description": "Clear monofilament line and the most versatile choice for general coarse fishing. 8lb breaking strain is suitable for most UK species.",
-          "why_we_picked": "The line on combo spools is often poor quality. Replacing it with Daiwa mono before your first session is a 5-minute job that makes a real difference to casting and bite detection.",
+          "description": "Clear monofilament in 8lb breaking strain. 300m is enough to fill a spool with plenty to spare. Suitable for most UK coarse species on rivers, canals, and commercial fisheries.",
+          "why_we_picked": "The line that comes pre-spooled on most combo reels is rarely worth keeping. It's often stiff, prone to memory coils, and doesn't cast well. Replacing it with Daiwa mono before your first session takes five minutes and makes a real difference to casting distance and bite detection.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B003GBZ7RI?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£5–£10",
@@ -50,8 +50,8 @@
         {
           "id": "fishing-004",
           "name": "Fishing Seat Box / Tackle Seat",
-          "description": "A padded seat with integrated storage for tackle, bait, and accessories. Keeps you comfortable and organised during long sessions.",
-          "why_we_picked": "Sitting on a damp bank for hours isn't sustainable. A seat box is standard kit for UK coarse fishing; it carries your gear and keeps you comfortable.",
+          "description": "A padded seat with storage underneath for tackle, bait, and accessories. Carries your gear to the bank, keeps everything organised while you fish, and keeps you comfortable enough to stay patient when the fish aren't biting.",
+          "why_we_picked": "Coarse fishing sessions last hours. Sitting on a damp bank or a fold-up chair with nowhere to put anything quickly becomes miserable. A seat box is standard kit for UK coarse anglers for this reason. It solves comfort and organisation in one piece of gear.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B006MTP0OG?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£25–£45",
@@ -62,14 +62,14 @@
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Progress to a dedicated rod and reel setup for more serious sessions.",
+      "description": "The dedicated setup for when you want to fish properly, not just fish.",
       "budget_tier": "mid-range",
       "products": [
         {
           "id": "fishing-005",
           "name": "Daiwa Crosscast 13ft Float Rod",
-          "description": "A dedicated float fishing rod with the length and sensitivity to present bait accurately at distance. The standard tool for UK river and canal fishing.",
-          "why_we_picked": "A proper float rod transforms float fishing. The extra length gives far better strike timing and bite indication than a general spinning rod.",
+          "description": "A 13ft dedicated float rod with a sensitive tip for reading bites at distance. The length keeps line off the water and gives far better control over a float than a shorter, stiffer combo rod.",
+          "why_we_picked": "Fishing a float properly requires a rod long enough to manage the line between you and the float. The Crosscast 13ft is the tool for this. The difference in sensitivity and control compared to a combo rod is significant once you've felt it. This is the rod that makes float fishing feel like float fishing.",
           "badge": "Staff Pick",
           "amazon_url": "https://www.amazon.co.uk/dp/B007Z1CJRY?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£40–£70",
@@ -78,8 +78,8 @@
         {
           "id": "fishing-006",
           "name": "Korum Folding Landing Net",
-          "description": "A 42-inch folding net with a telescopic handle. Large enough for most UK coarse species, folds compact for transport.",
-          "why_we_picked": "You'll lose fish without a landing net. A foldable net takes up minimal space and is worth having once you start catching anything larger than a roach.",
+          "description": "A 42-inch folding net with a telescopic handle. Fine enough mesh to support fish safely, large enough for the carp, bream, and tench that turn up on most UK commercial fisheries. Folds compact for packing.",
+          "why_we_picked": "Losing a good fish because you had no net is an experience that only happens once. After that you always have one. The Korum folds small enough to clip to a bag, sets up in seconds, and handles anything you're likely to catch on a commercial fishery. Buy this before you need it, not after.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B00NQRG43O?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£20–£35",

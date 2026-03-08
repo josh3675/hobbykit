@@ -1,27 +1,27 @@
 {
   "slug": "3d-printing",
   "name": "3D Printing",
-  "tagline": "Turn digital designs into real objects",
+  "tagline": "Print the thing in your head",
   "seo": {
     "title": "Best Beginner 3D Printer Starter Kit UK 2025 | KitUp",
     "description": "Start 3D printing at home with the right printer and supplies. Honest beginner recommendations with Amazon UK affiliate links.",
     "keywords": ["beginner 3D printer UK", "best 3D printer for beginners UK", "3D printing starter kit UK", "what do I need to start 3D printing"]
   },
-  "intro": "3D printing has never been more accessible, but choosing your first printer is confusing. Here's a simple beginner setup that gets you printing without the headaches.",
+  "intro": "There's a particular satisfaction in holding something you've made that didn't exist two hours ago. 3D printing delivers that feeling reliably. A replacement part for something discontinued. A bracket designed for exactly the space you have. A gift made specifically for one person. The first print that comes off the bed looking right is the moment most people understand what this hobby actually is.",
   "difficulty_levels": ["complete-beginner", "some-experience"],
   "budget_tiers": ["budget", "mid-range", "premium"],
   "kits": [
     {
       "tier": "starter",
       "label": "Starter Kit",
-      "description": "Everything you need to start printing on day one.",
+      "description": "Everything you need to be printing on day one, without the tinkering.",
       "budget_tier": "budget",
       "products": [
         {
           "id": "3dprinting-001",
           "name": "Bambu Lab A1 Mini 3D Printer",
-          "description": "The most beginner-friendly FDM printer on the market. Auto-calibration, fast printing, and a companion app that makes setup really easy.",
-          "why_we_picked": "Most beginner 3D printers require hours of tinkering before the first successful print. The Bambu A1 Mini just works. It's the printer we'd buy for a friend starting out.",
+          "description": "A compact FDM printer with automatic bed levelling, filament runout detection, and a companion app for remote monitoring. Prints quickly and consistently from the first session.",
+          "why_we_picked": "Most beginner 3D printers need a significant amount of setup, calibration, and patience before the first successful print. The Bambu A1 Mini doesn't. It arrives, you set it up in twenty minutes, and it prints. The auto-calibration handles the thing that frustrates most new users, and the print speed means you get more done in an evening. If you want to print rather than tinker, this is the machine.",
           "badge": "Best for Beginners",
           "amazon_url": "https://www.amazon.co.uk/dp/B0CL2VKGM2?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£280–£330",
@@ -30,8 +30,8 @@
         {
           "id": "3dprinting-002",
           "name": "Bambu Lab PLA Filament 1kg (White)",
-          "description": "PLA is the easiest filament for beginners. It prints at low temperatures, doesn't warp, and doesn't require a heated enclosure. 1kg is plenty to start experimenting.",
-          "why_we_picked": "Always start with PLA. It's forgiving, widely compatible, and biodegradable. Bambu's own filament is optimised for their printers and produces consistent results.",
+          "description": "1kg of Bambu's own PLA in white. PLA prints at low temperature, doesn't warp on the build plate, and is biodegradable. White makes it easy to spot layer lines and surface defects while you're still learning.",
+          "why_we_picked": "PLA is where everyone starts, and for good reason. It's the most forgiving filament: it sticks well, doesn't release significant fumes, and is available everywhere. Bambu's own filament is profiled for their printers, which means the default settings work straight away. Start white; you'll see what's happening on the print more clearly.",
           "badge": "Best Value",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8H3BQHQ?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£18–£25",
@@ -40,8 +40,8 @@
         {
           "id": "3dprinting-003",
           "name": "3D Printing Tool Kit (Spatula, Pliers, Tweezers)",
-          "description": "A set of tools for removing prints from the build plate, removing supports, and finishing prints. Includes a spatula, needle-nose pliers, and tweezers.",
-          "why_we_picked": "Your fingers aren't the right tool for removing supports. This kit protects your prints (and your fingers) when post-processing.",
+          "description": "A set of post-processing tools: a flexible spatula for lifting prints off the build plate, needle-nose pliers for pulling supports, and tweezers for fine work. The kind of thing you reach for every session.",
+          "why_we_picked": "Post-processing is part of 3D printing. Supports need removing, prints need lifting, and edges occasionally need cleaning up. Using your fingers for all of this leads to broken prints and sore fingertips. A basic tool kit like this covers everything you'll need in the first months of printing.",
           "badge": null,
           "amazon_url": "https://www.amazon.co.uk/dp/B07DRDCDYJ?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£12–£20",
@@ -52,14 +52,14 @@
     {
       "tier": "upgrade",
       "label": "Level Up Kit",
-      "description": "Expand your printing capabilities with different materials and finishing tools.",
+      "description": "The materials and tools that expand what you can make.",
       "budget_tier": "mid-range",
       "products": [
         {
           "id": "3dprinting-004",
           "name": "Bambu Lab PETG-CF Filament",
-          "description": "Carbon-fibre reinforced PETG, stronger and stiffer than standard PLA. Great for functional parts that need to handle stress or heat.",
-          "why_we_picked": "Once you've mastered PLA, PETG-CF opens up a whole new category of prints: brackets, enclosures, mechanical parts. The CF reinforcement makes a huge difference to strength.",
+          "description": "Carbon-fibre reinforced PETG: stiffer and stronger than standard PLA, with better heat resistance. For parts that need to handle load, stress, or temperatures that would soften PLA.",
+          "why_we_picked": "Once you've run through a few kg of PLA and got comfortable with your printer, PETG-CF is the upgrade that changes what you can make. Functional parts: brackets, enclosures, tool holders. The CF reinforcement makes a real difference to rigidity and the parts feel like parts rather than plastic objects. Bambu Studio makes the settings adjustment easy.",
           "badge": "Staff Pick",
           "amazon_url": "https://www.amazon.co.uk/dp/B0C8VHQ94P?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "£25–£35",
@@ -67,9 +67,9 @@
         },
         {
           "id": "3dprinting-005",
-          "name": "Prusa Slicer (Free Software)",
-          "description": "PrusaSlicer is free, powerful, and compatible with most home 3D printers. Controls layer height, supports, infill, and all print settings.",
-          "why_we_picked": "A slicer converts your 3D model into printer instructions. PrusaSlicer is the best free option and it's what most experienced hobbyists use.",
+          "name": "PrusaSlicer (Free Software)",
+          "description": "Free, open-source slicer software compatible with most FDM printers. Converts .STL and .3MF model files into the printer instructions it follows, with full control over layer height, speed, supports, and infill.",
+          "why_we_picked": "A slicer turns a 3D model into something a printer can read. PrusaSlicer is the best free option available: powerful, well-documented, and used by a huge proportion of the hobby printing community. For Bambu printers, Bambu Studio is the dedicated option and also works very well. Both are free. Download both and see which you prefer.",
           "badge": "Free",
           "amazon_url": "https://www.amazon.co.uk/dp/B00000000?tag=YOUR_ASSOCIATE_TAG",
           "price_range": "Free",
