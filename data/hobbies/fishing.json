@@ -19,13 +19,13 @@
       "products": [
         {
           "id": "fishing-001",
-          "name": "Daiwa Ninja 3000 Spinning Combo (Rod + Reel)",
-          "description": "A matched 3m rod and 3000-size reel from one of fishing's most trusted brands. The rod handles float fishing and light lure work on rivers, canals, and still waters. Comes pre-spooled and ready to fish.",
-          "why_we_picked": "Daiwa make fishing gear at every price point and the Ninja combo sits at the right end for someone starting out. The rod has enough length to reach a decent swim without being unwieldy, and the reel is smooth enough that you feel the line rather than fighting the gear. Tackle shop staff across the UK point beginners at this setup, and for good reason.",
+          "name": "Shakespeare Agility Spinning Rod and Reel Combo",
+          "description": "A matched rod and reel from Shakespeare, one of the most recognised beginner fishing brands in the UK. Suited to float fishing and light spinning on rivers, canals, and still waters. Comes ready to fish straight out of the box.",
+          "why_we_picked": "Shakespeare have been putting beginners on the bank for decades and the Agility combo is a sensible first setup. The rod has enough backbone to handle most coarse species and the reel is smooth enough not to get in the way. It's the kind of kit that lets you focus on the fishing rather than the gear, which is exactly what you want when you're starting out.",
           "badge": "Best for Beginners",
-          "amazon_url": "https://www.amazon.co.uk/dp/B00VTL2XEK?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£35–£55",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VTL2XEK&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/4cJqZMt",
+          "price_range": "£57",
+          "image_url": "https://m.media-amazon.com/images/I/612taSUClRL._AC_SL1500_.jpg"
         },
         {
           "id": "fishing-002",
