@@ -2,6 +2,33 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllHobbies } from "@/lib/hobbies";
 import HobbyCard from "@/components/HobbyCard";
+import JsonLd from "@/components/JsonLd";
+
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://kitup.webapps.life";
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "KitUp",
+  url: BASE_URL,
+  description: "Handpicked beginner gear for the hobbies you've always wanted to try.",
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "KitUp",
+  url: BASE_URL,
+  description: "Handpicked beginner gear for the hobbies you've always wanted to try.",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: `${BASE_URL}/hobby/{search_term_string}`,
+    },
+    "query-input": "required name=search_term_string",
+  },
+};
 
 export const metadata: Metadata = {
   title: "KitUp — Find Your Perfect Starter Kit",
@@ -48,6 +75,8 @@ export default function HomePage() {
 
   return (
     <>
+      <JsonLd data={organizationSchema} />
+      <JsonLd data={websiteSchema} />
       {/* Hero */}
       <section className="bg-[#f0f7f4] py-24 px-6 text-center">
         <div className="max-w-[800px] mx-auto">
