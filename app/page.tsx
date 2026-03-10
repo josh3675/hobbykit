@@ -92,6 +92,13 @@ export default function HomePage() {
 
       {/* Email signup */}
       <EmailSignup />
+
+      {/* Affiliate disclosure */}
+      <div className="py-8 px-6 text-center">
+        <p className="text-[#888888] text-xs max-w-[700px] mx-auto leading-relaxed">
+          KitUp is a participant in the Amazon Associates Programme. We earn a small commission on qualifying purchases at no extra cost to you. This helps keep the site running.
+        </p>
+      </div>
     </>
   );
 }
