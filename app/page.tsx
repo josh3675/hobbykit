@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getAllHobbies } from "@/lib/hobbies";
 import HobbyCard from "@/components/HobbyCard";
-import EmailSignup from "@/components/EmailSignup";
 
 const HOW_IT_WORKS = [
   {
@@ -89,9 +88,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
-      {/* Email signup */}
-      <EmailSignup />
 
       {/* Affiliate disclosure */}
       <div className="py-8 px-6 text-center">
