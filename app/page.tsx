@@ -1,6 +1,26 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllHobbies } from "@/lib/hobbies";
 import HobbyCard from "@/components/HobbyCard";
+
+export const metadata: Metadata = {
+  title: "KitUp — Find Your Perfect Starter Kit",
+  description:
+    "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
+  openGraph: {
+    title: "KitUp — Find Your Perfect Starter Kit",
+    description:
+      "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
+    url: "/",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "KitUp — Find Your Perfect Starter Kit",
+    description:
+      "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
+  },
+};
 
 const HOW_IT_WORKS = [
   {

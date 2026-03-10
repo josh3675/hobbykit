@@ -6,6 +6,19 @@ export const metadata: Metadata = {
   title: "Hobby Guides & Tips | KitUp Blog",
   description:
     "Beginner guides, gear breakdowns, and hobby tips from the KitUp team.",
+  openGraph: {
+    title: "Hobby Guides & Tips | KitUp Blog",
+    description:
+      "Beginner guides, gear breakdowns, and hobby tips from the KitUp team.",
+    url: "/blog",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Hobby Guides & Tips | KitUp Blog",
+    description:
+      "Beginner guides, gear breakdowns, and hobby tips from the KitUp team.",
+  },
 };
 
 function formatDate(dateStr: string) {

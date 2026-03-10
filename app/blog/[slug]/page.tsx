@@ -22,6 +22,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${post.title} | KitUp Blog`,
     description: post.excerpt,
+    openGraph: {
+      title: `${post.title} | KitUp Blog`,
+      description: post.excerpt,
+      url: `/blog/${params.slug}`,
+      type: "article",
+      publishedTime: post.date,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${post.title} | KitUp Blog`,
+      description: post.excerpt,
+    },
   };
 }
 

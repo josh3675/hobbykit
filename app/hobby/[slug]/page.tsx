@@ -28,10 +28,26 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const hobby = getHobbyBySlug(params.slug);
   if (!hobby) return {};
+  const firstImage = hobby.kits[0]?.products[0]?.image_url;
   return {
     title: hobby.seo.title,
     description: hobby.seo.description,
     keywords: hobby.seo.keywords,
+    openGraph: {
+      title: hobby.seo.title,
+      description: hobby.seo.description,
+      url: `/hobby/${params.slug}`,
+      type: "website",
+      ...(firstImage && {
+        images: [{ url: firstImage, alt: `${hobby.name} starter kit` }],
+      }),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: hobby.seo.title,
+      description: hobby.seo.description,
+      ...(firstImage && { images: [firstImage] }),
+    },
   };
 }
 
