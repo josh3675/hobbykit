@@ -67,13 +67,13 @@
       "products": [
         {
           "id": "fishing-005",
-          "name": "Daiwa Crosscast 13ft Float Rod",
-          "description": "A 13ft dedicated float rod with a sensitive tip for reading bites at distance. The length keeps line off the water and gives far better control over a float than a shorter, stiffer combo rod.",
-          "why_we_picked": "Fishing a float properly requires a rod long enough to manage the line between you and the float. The Crosscast 13ft is the tool for this. The difference in sensitivity and control compared to a combo rod is significant once you've felt it. This is the rod that makes float fishing feel like float fishing.",
+          "name": "Ugly Stik Bigwater Fishing Rod 15ft",
+          "description": "A 15ft rod built on Shakespeare's legendary Ugly Stik blank: nearly indestructible, with a sensitive tip and enough backbone to handle bigger fish at distance. Clear Tip construction gives excellent bite visibility.",
+          "why_we_picked": "The extra length over a starter combo rod makes a real difference to float control and casting distance. Ugly Stik rods have a reputation for being genuinely tough: anglers pass them down rather than replace them. The 15ft gives you reach on wider rivers and larger still waters, and the sensitive tip means you see bites you'd miss on a stiffer rod.",
           "badge": "Staff Pick",
-          "amazon_url": "https://www.amazon.co.uk/dp/B007Z1CJRY?tag=YOUR_ASSOCIATE_TAG",
-          "price_range": "£40–£70",
-          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007Z1CJRY&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=YOUR_ASSOCIATE_TAG"
+          "amazon_url": "https://amzn.to/40n3gKr",
+          "price_range": "£42",
+          "image_url": "https://m.media-amazon.com/images/I/416uaj9a1qL._AC_SL1500_.jpg"
         },
         {
           "id": "fishing-006",
