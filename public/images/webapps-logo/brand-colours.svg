@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" fill="none">
+  <rect width="500" height="200" rx="12" fill="#F8F8FF"/>
+  <text x="24" y="32" font-family="Syne, sans-serif" font-weight="700" font-size="13" fill="#1A1A2E" letter-spacing="2">WEBAPPS.LIFE — BRAND COLOURS</text>
+
+  <!-- Obsidian -->
+  <rect x="24" y="50" width="80" height="80" rx="10" fill="#1A1A2E"/>
+  <text x="24" y="148" font-family="DM Mono, monospace" font-size="10" fill="#1A1A2E">Obsidian</text>
+  <text x="24" y="162" font-family="DM Mono, monospace" font-size="10" fill="#6B7280">#1A1A2E</text>
+
+  <!-- Indigo -->
+  <rect x="120" y="50" width="80" height="80" rx="10" fill="#6366F1"/>
+  <text x="120" y="148" font-family="DM Mono, monospace" font-size="10" fill="#1A1A2E">Indigo</text>
+  <text x="120" y="162" font-family="DM Mono, monospace" font-size="10" fill="#6B7280">#6366F1</text>
+
+  <!-- Tangerine -->
+  <rect x="216" y="50" width="80" height="80" rx="10" fill="#F97316"/>
+  <text x="216" y="148" font-family="DM Mono, monospace" font-size="10" fill="#1A1A2E">Tangerine</text>
+  <text x="216" y="162" font-family="DM Mono, monospace" font-size="10" fill="#6B7280">#F97316</text>
+
+  <!-- Emerald -->
+  <rect x="312" y="50" width="80" height="80" rx="10" fill="#10B981"/>
+  <text x="312" y="148" font-family="DM Mono, monospace" font-size="10" fill="#1A1A2E">Emerald</text>
+  <text x="312" y="162" font-family="DM Mono, monospace" font-size="10" fill="#6B7280">#10B981</text>
+
+  <!-- Off White -->
+  <rect x="408" y="50" width="80" height="80" rx="10" fill="#F8F8FF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="408" y="148" font-family="DM Mono, monospace" font-size="10" fill="#1A1A2E">Off-White</text>
+  <text x="408" y="162" font-family="DM Mono, monospace" font-size="10" fill="#6B7280">#F8F8FF</text>
+
+  <!-- Typeface labels -->
+  <text x="24" y="190" font-family="Syne, sans-serif" font-weight="700" font-size="11" fill="#1A1A2E">Syne — Display / Headings</text>
+  <text x="220" y="190" font-family="DM Mono, monospace" font-size="11" fill="#6366F1">DM Mono — Labels / Code</text>
+</svg>

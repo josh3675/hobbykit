@@ -1,4 +1,5 @@
 import Link from "next/link";
+import WebappsBar from "./WebappsBar";
 
 export default function Footer() {
   return (
@@ -92,6 +93,7 @@ export default function Footer() {
           <p>© {new Date().getFullYear()} KitUp. All rights reserved.</p>
         </div>
       </div>
+      <WebappsBar />
     </footer>
   );
 }
