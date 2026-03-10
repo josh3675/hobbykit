@@ -5,6 +5,19 @@ export const metadata: Metadata = {
   title: "About KitUp | Honest Beginner Hobby Recommendations",
   description:
     "KitUp helps beginners find the right gear for their chosen hobby. Honest recommendations, Amazon UK links, and no fluff.",
+  openGraph: {
+    title: "About KitUp | Honest Beginner Hobby Recommendations",
+    description:
+      "KitUp helps beginners find the right gear for their chosen hobby. Honest recommendations, Amazon UK links, and no fluff.",
+    url: "/about",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About KitUp | Honest Beginner Hobby Recommendations",
+    description:
+      "KitUp helps beginners find the right gear for their chosen hobby. Honest recommendations, Amazon UK links, and no fluff.",
+  },
 };
 
 export default function AboutPage() {

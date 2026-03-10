@@ -3,6 +3,17 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy | KitUp",
   description: "How KitUp collects, uses, and protects your information.",
+  openGraph: {
+    title: "Privacy Policy | KitUp",
+    description: "How KitUp collects, uses, and protects your information.",
+    url: "/privacy",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy | KitUp",
+    description: "How KitUp collects, uses, and protects your information.",
+  },
 };
 
 export default function PrivacyPage() {
