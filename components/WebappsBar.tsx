@@ -7,7 +7,7 @@ export default function WebappsBar() {
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 420 80"
           fill="none"
-          className="h-[18px] w-auto opacity-60"
+          className="h-[22px] w-auto opacity-60"
           aria-label="webapps.life"
         >
           {/* Left phone */}
