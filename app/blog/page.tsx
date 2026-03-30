@@ -45,7 +45,7 @@ export default function BlogIndexPage() {
 
       {posts.length === 0 ? (
         <p className="text-center text-[#888888] py-20">
-          No posts yet — check back soon.
+          No posts yet. Check back soon.
         </p>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

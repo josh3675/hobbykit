@@ -41,11 +41,11 @@ export default function PrivacyPage() {
           </p>
           <ul className="list-disc list-inside space-y-1 text-[#333333]">
             <li>
-              <strong>Email address</strong> — if you subscribe to our newsletter.
+              <strong>Email address</strong>: if you subscribe to our newsletter.
               This is stored by our email service provider, Resend.
             </li>
             <li>
-              <strong>Usage data</strong> — standard web server logs (IP address,
+              <strong>Usage data</strong>: standard web server logs (IP address,
               browser type, pages visited). We may use analytics tools for this.
             </li>
           </ul>
@@ -73,7 +73,7 @@ export default function PrivacyPage() {
             KitUp participates in the Amazon Associates Programme. When you click
             a product link, you are redirected to Amazon&apos;s website. Amazon
             may set cookies on your device according to their own privacy policy.
-            We earn a commission if you make a purchase — this does not affect the
+            We earn a commission if you make a purchase. This does not affect the
             price you pay.
           </p>
         </section>

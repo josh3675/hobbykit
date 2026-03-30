@@ -154,7 +154,7 @@ export default function HobbyPage({ params }: Props) {
 
         {/* Affiliate disclosure */}
         <div className="mb-8 rounded-lg bg-[#f9f9f9] border border-[#e5e5e5] px-5 py-3 text-[#666666] text-xs leading-relaxed">
-          <strong className="text-[#444444]">Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Product links below are paid links — clicking them and buying helps keep KitUp free at no extra cost to you.
+          <strong className="text-[#444444]">Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Product links below are paid links. Clicking through and buying helps keep KitUp free at no extra cost to you.
         </div>
 
         {/* FilterBar + Kit sections */}
@@ -166,7 +166,7 @@ export default function HobbyPage({ params }: Props) {
         {/* Checklist */}
         <section className="mb-14 bg-[#f0f7f4] rounded-xl p-8 border border-[#e5e5e5]">
           <h2 className="text-[#1a1a1a] font-bold text-2xl mb-5">
-            What You&apos;ll Need — Full Checklist
+            What You&apos;ll Need: Full Checklist
           </h2>
           <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {hobby.checklist.map((item, i) => (

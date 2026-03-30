@@ -1,0 +1,135 @@
+{
+  "slug": "knitting",
+  "name": "Knitting & Crochet",
+  "tagline": "Make something beautiful, one stitch at a time",
+  "seo": {
+    "title": "Best Beginner Knitting & Crochet Kit UK 2025 | KitUp",
+    "description": "Start knitting or crocheting with the right yarn, hooks, and needles. Honest beginner kit recommendations with Amazon UK links.",
+    "keywords": ["beginner knitting kit UK", "beginner crochet kit UK", "learn to knit UK", "learn to crochet UK", "crochet starter set UK", "knitting starter set UK"]
+  },
+  "intro": "There is something almost meditative about knitting and crochet. The repetitive rhythm of stitches, the way a project builds slowly in your hands, the quiet satisfaction of wearing something you made yourself. Both crafts share the same basic idea (looping yarn into fabric) but they use different tools. Crochet uses a single hook and is generally considered the easier starting point; knitting uses two needles and opens up different textures and possibilities. Many people learn one and eventually pick up both. Either way, you need remarkably little kit to get started, and the first project (a dishcloth, a simple square, a chunky cowl) is never as far away as it looks.",
+  "difficulty_levels": ["complete-beginner", "some-experience"],
+  "budget_tiers": ["budget", "mid-range", "premium"],
+  "kits": [
+    {
+      "tier": "starter",
+      "label": "Starter Kit",
+      "description": "Everything you need to learn crochet and start your first project.",
+      "budget_tier": "budget",
+      "products": [
+        {
+          "id": "knitting-001",
+          "name": "Clover Amour Crochet Hook Set (8 Sizes)",
+          "description": "A set of eight ergonomic crochet hooks from Clover, covering the most common sizes from 3.5mm to 6mm. The soft rubber grip handles reduce hand fatigue during longer sessions and make holding the hook much more comfortable than traditional metal hooks.",
+          "why_we_picked": "Clover Amour hooks are the first thing most experienced crocheters recommend to beginners. The ergonomic handle solves the single biggest issue with cheap starter hooks (hand cramp) and the set covers every size you'll need for the first year of projects. Starting with comfortable tools makes a real difference to whether you stick with it.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£20–£28",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "knitting-002",
+          "name": "Stylecraft Special DK Acrylic Yarn",
+          "description": "The best-selling craft yarn in the UK. Special DK is a smooth, consistent double knit weight acrylic that comes in over 100 colours, is machine washable, and behaves predictably on the hook or needles. Available in 100g balls.",
+          "why_we_picked": "Every UK crafter knows Stylecraft Special DK. It's smooth enough to work with easily, consistent in thickness (which matters a lot when you're learning tension), doesn't split on the hook, and is cheap enough that you don't feel bad about the inevitable beginner mistakes. It's the yarn that's taught more people to crochet and knit in the UK than any other.",
+          "badge": "Best Value",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£2–£3 per ball",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "knitting-003",
+          "name": "Locking Stitch Markers Set (50 Pieces)",
+          "description": "Locking plastic stitch markers in multiple colours. Clips onto your work to mark the beginning of a round, a pattern repeat, or a specific stitch you need to return to. Comes in a small storage case.",
+          "why_we_picked": "Stitch markers are cheap, small, and more important than they look. In crochet they mark the start of each round so you don't lose count; in knitting they separate pattern sections and prevent mistakes from traveling across a row. A handful of these in your project bag save a surprising amount of unpicking.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£4–£7",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "knitting-004",
+          "name": "The Complete Beginner's Guide to Crochet",
+          "description": "A step-by-step beginner crochet book covering all the foundational stitches (chain, single crochet, double crochet, treble) with clear photographs, pattern reading guidance, and a set of beginner projects to work through.",
+          "why_we_picked": "YouTube tutorials are useful but a good book stays open on the table next to you while your hands are busy. A well-structured beginner guide walks you through the logic of crochet (how stitches build on each other, how to read a pattern, how to fix common mistakes) in a way that a random collection of videos rarely does. Buy one, work through it, and you'll be ready to tackle any pattern online.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£8–£14",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    },
+    {
+      "tier": "upgrade",
+      "label": "Level Up Kit",
+      "description": "Better tools for when you're ready to tackle proper patterns and knitting projects.",
+      "budget_tier": "mid-range",
+      "products": [
+        {
+          "id": "knitting-005",
+          "name": "KnitPro Symfonie Interchangeable Circular Needle Set",
+          "description": "A complete set of interchangeable circular knitting needles in a zippered case, covering sizes 3.5mm to 12mm. The wooden tips are smooth and warm in the hand, and the interchangeable system means one set covers every needle length and size you'll ever need.",
+          "why_we_picked": "Once you move past flat knitting on straight needles, circular needles open up hats, sweaters, socks, and seamless construction. The KnitPro Symfonie set is the go-to recommendation in UK knitting communities: the wooden tips are gentle on yarn and don't clack like metal, the join between tip and cable is smooth (no snagging), and buying interchangeable means you're never without the right size.",
+          "badge": "Staff Pick",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£55–£80",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "knitting-006",
+          "name": "Yarn Swift and Ball Winder Set",
+          "description": "An umbrella-style yarn swift that holds a hank of yarn open while the hand-crank ball winder winds it into a centre-pull cake. Works with any hank of yarn and clamps to most tables.",
+          "why_we_picked": "Most quality yarn comes in hanks rather than ready-to-use balls, and trying to wind a hank by hand (or off a chair back) is slow and leads to tangles. A swift and winder takes two minutes and turns any hank into a tidy centre-pull cake. It's a small thing that removes a lot of friction from working with nicer yarn.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£20–£35",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Crochet hooks (sizes 4mm and 5mm to start)",
+    "Knitting needles (straight or circular, 4mm–6mm for beginners)",
+    "Double knit (DK) or Aran weight yarn in a light colour",
+    "Locking stitch markers",
+    "Blunt tapestry needle (for weaving in ends)",
+    "Small scissors",
+    "Row counter (or use a phone app)",
+    "Project bag to keep everything together"
+  ],
+  "faqs": [
+    {
+      "question": "Which is easier to learn: knitting or crochet?",
+      "answer": "Most people find crochet easier to pick up initially. You only have one live stitch on the hook at any time, so dropped stitches are less catastrophic and easier to fix. Knitting involves managing two needles and multiple live stitches, which can feel unwieldy at first. That said, both are learnable with patience. If you want the quickest path to a finished object, start with crochet. If you're drawn to the look of knitted fabric (particularly for garments and socks), go straight to knitting."
+    },
+    {
+      "question": "What size hook or needles should a beginner start with?",
+      "answer": "For crochet, a 5mm hook is the standard beginner recommendation: large enough to work easily, small enough to make fabric that isn't too loose. For knitting, 4mm or 5mm needles with DK or Aran weight yarn is the usual starting point. Check your yarn label: it will specify a recommended needle or hook size, which is always the best guide for that particular yarn."
+    },
+    {
+      "question": "What should my first project be?",
+      "answer": "A flat square or rectangle is the classic first project for both knitting and crochet, and for good reason: it lets you practice the basic stitch repeatedly without having to follow a complex pattern. A dishcloth or simple scarf in a chunky yarn is ideal. Avoid anything with shaping, colourwork, or multiple yarns until you're comfortable with the basic stitch and consistent tension. A simple granny square in crochet is another excellent starting point."
+    },
+    {
+      "question": "What yarn weight should a beginner use?",
+      "answer": "Aran or chunky weight yarn is the most forgiving for complete beginners because the stitches are large and easy to see, which helps you understand what's happening. DK weight (double knit) is the next step down and covers the widest range of patterns. Avoid 4-ply or lace weight yarn until you're comfortable: the stitches are tiny and mistakes are much harder to spot and fix."
+    },
+    {
+      "question": "How do I fix a mistake?",
+      "answer": "In crochet, mistakes are easy to fix: simply remove the hook and pull the yarn to unravel back to the error, then re-insert the hook and continue. This is called 'frogging' (rip it, rip it). In knitting, mistakes require more care. For a dropped stitch on the current row, use a crochet hook to pick it back up. For mistakes several rows back, you'll need to 'tink' (knit backwards, stitch by stitch) or unravel to a 'lifeline': a thread run through all stitches on a safe row before the mistake. Don't panic: every knitter and crocheter frogs their work regularly."
+    },
+    {
+      "question": "Where can I find free patterns?",
+      "answer": "Ravelry (ravelry.com) is the largest repository of knitting and crochet patterns in the world, with thousands of free patterns and a helpful community forum. For crochet, Bella Coco, Daisy Farm Crafts, and HanJan Crochet all have extensive free pattern libraries online. The Drops Design website (garnstudio.com) has an enormous range of free knitting and crochet patterns in every style. Pinterest is useful for discovering patterns, which usually link back to full instructions on blogs or Ravelry."
+    },
+    {
+      "question": "How do I keep my tension consistent?",
+      "answer": "Tension (or gauge) is how tightly or loosely you work your stitches, and consistency comes with practice. A few things help: always work with a hook or needle that matches your yarn weight, hold the yarn the same way every time (experiment with wrapping it around your fingers until you find a method that controls the flow), and try to work at the same time of day, as most people's tension changes when they're tired or stressed. Always knit or crochet a swatch before starting a garment and check it matches the pattern's stated gauge."
+    },
+    {
+      "question": "Is knitting or crochet better for making clothes?",
+      "answer": "Both work well for garments, but knitting has traditionally dominated for structured items like sweaters, cardigans, and socks because knitted fabric is more elastic and drapes differently. Crochet is often better for structured bags, shawls, and items where the lace-like texture is an asset. Modern crochet garment design has grown enormously and there are now excellent crochet sweater patterns, so the distinction is less sharp than it used to be. Try both and see which fabric you prefer wearing."
+    }
+  ]
+}

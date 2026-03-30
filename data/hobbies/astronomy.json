@@ -1,0 +1,135 @@
+{
+  "slug": "astronomy",
+  "name": "Astronomy",
+  "tagline": "The universe is waiting. All you need is a clear night.",
+  "seo": {
+    "title": "Best Beginner Astronomy Kit UK 2025 | KitUp",
+    "description": "Start stargazing in the UK with the right telescope, binoculars, and accessories. Beginner astronomy kit recommendations with Amazon UK links.",
+    "keywords": ["beginner telescope UK", "beginner astronomy kit UK", "best telescope for beginners UK", "stargazing kit UK", "astronomy starter set UK"]
+  },
+  "intro": "On a clear night away from street lights, the sky is staggering. The Milky Way as a faint band across the dark, the steady glow of Jupiter, the craters of the Moon sharp enough to feel close. Astronomy is one of the few hobbies where you can step outside your back door and see something genuinely extraordinary. The UK has more dark sky sites than most people realise, from Exmoor to Galloway, and even from a suburban garden the planets, Moon, and dozens of deep sky objects are within reach. You need less equipment than you think to get started, and the learning curve is part of the pleasure.",
+  "difficulty_levels": ["complete-beginner", "some-experience"],
+  "budget_tiers": ["budget", "mid-range", "premium"],
+  "kits": [
+    {
+      "tier": "starter",
+      "label": "Starter Kit",
+      "description": "The essentials to begin exploring the night sky from your garden or a local dark sky site.",
+      "budget_tier": "budget",
+      "products": [
+        {
+          "id": "astronomy-001",
+          "name": "Celestron StarSense Explorer LT 114AZ Telescope",
+          "description": "A 114mm Newtonian reflector on an alt-azimuth mount, with Celestron's StarSense Explorer technology: a dock on the telescope holds your smartphone, which uses the sky above to calculate exactly where the telescope is pointing. The companion app then gives you a real-time arrow to navigate to any object in the database.",
+          "why_we_picked": "The StarSense Explorer solves the single biggest frustration for beginner astronomers: finding things. Traditional star-hopping takes months to learn and is disheartening on your first night when you can't locate Jupiter. The smartphone dock works brilliantly: point the telescope, open the app, and it tells you precisely what to do. The 114mm mirror gathers enough light to show lunar craters, Saturn's rings, Jupiter's moons, and bright nebulae. It's the telescope that actually gets used.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£150–£180",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "astronomy-002",
+          "name": "Celestron SkyMaster 15x70 Binoculars",
+          "description": "Large-aperture astronomy binoculars with 70mm objective lenses and 15x magnification. Includes a tripod adapter thread. The extra aperture over standard binoculars gathers significantly more light, revealing star clusters, nebulae, and the moons of Jupiter clearly.",
+          "why_we_picked": "Experienced astronomers routinely recommend binoculars before a telescope, and the SkyMaster 15x70 is the most recommended pair at this price point. They're versatile, excellent for daytime use too, and they show you a wide enough field of view to learn the sky in a way a telescope (with its narrow view) doesn't. On a dark night they reveal thousands of stars invisible to the naked eye and are a companion to a telescope for the rest of your life.",
+          "badge": "Best Value",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£45–£65",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "astronomy-003",
+          "name": "Philip's Planisphere 51.5° Latitude (UK)",
+          "description": "A classic rotating star chart calibrated for UK latitudes. Rotate the wheel to any date and time and it shows exactly which constellations and stars are above the horizon. Printed on durable card with a clear plastic overlay.",
+          "why_we_picked": "A planisphere is the most useful £7 you'll spend in astronomy. It requires no battery, no signal, and no screen. Just hold it up and see what's overhead. Learning to use one teaches you the sky in a way that apps don't, because you're building a mental map of how the constellations move through the year. Philip's is the standard UK edition, calibrated for 51.5°, the latitude of London, which works perfectly for most of England and Wales.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£6–£9",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "astronomy-004",
+          "name": "Energizer Vision HD+ Head Torch with Red Light",
+          "description": "A lightweight head torch with a dedicated red light mode alongside the main white beam. Water-resistant, comfortable headband, runs on AAA batteries.",
+          "why_we_picked": "White light destroys your night vision in seconds. After looking at a phone screen your eyes take 20 minutes to readjust to the dark, during which you'll miss everything faint. A red torch preserves your night vision while still letting you read a star chart, adjust the telescope, or find the eyepiece case. Every astronomer carries one. Never use your phone screen at the eyepiece.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£15–£25",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    },
+    {
+      "tier": "upgrade",
+      "label": "Level Up Kit",
+      "description": "A serious step up in aperture and optical quality for observers ready to go deeper.",
+      "budget_tier": "mid-range",
+      "products": [
+        {
+          "id": "astronomy-005",
+          "name": "Sky-Watcher Heritage 130P FlexTube Dobsonian Telescope",
+          "description": "A 130mm parabolic mirror Dobsonian on a tabletop alt-azimuth rocker box. The FlexTube design collapses for storage and transport. Includes two eyepieces (25mm and 10mm) and a 2x Barlow lens.",
+          "why_we_picked": "The Heritage 130P is probably the most recommended beginner telescope on every UK astronomy forum, and for good reason. The 130mm parabolic mirror is a step up in light-gathering over smaller scopes, the Dobsonian mount is the simplest and most stable design available, and the included eyepieces are good enough to start with. It shows the Orion Nebula as a cloud, resolves globular clusters, splits double stars, and shows Jupiter's cloud bands clearly. It collapses small enough to store in a wardrobe and carry to a dark field.",
+          "badge": "Staff Pick",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£180–£220",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "astronomy-006",
+          "name": "Celestron 1.25\" Eyepiece and Filter Accessory Kit",
+          "description": "A set of additional 1.25\" eyepieces (covering a range of focal lengths), a 2x Barlow lens, and coloured filters for planetary observation. Comes in a foam-lined case.",
+          "why_we_picked": "The eyepiece is where your eye meets the image, and the ones bundled with most starter telescopes are functional but basic. A set of quality 1.25\" eyepieces gives you more magnification options, better eye relief, and sharper views. The coloured filters (yellow, green, blue) are surprisingly effective for bringing out detail on Jupiter and Saturn: blue filter on Jupiter's belts, yellow on the Moon. This kit extends what your telescope can show you without buying a new telescope.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£40–£65",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Telescope or astronomy binoculars",
+    "Red-light head torch (essential for preserving night vision)",
+    "Star chart or planisphere",
+    "Astronomy app (Stellarium, SkySafari, or similar)",
+    "Warm layers and a flask (observing sessions get cold quickly)",
+    "Reclining garden chair for comfortable naked-eye viewing",
+    "Notepad and pencil for sketching what you see",
+    "Moon filter (to reduce glare when the Moon is bright)"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a telescope to start astronomy?",
+      "answer": "No. The naked eye reveals thousands of stars, the Milky Way from a dark site, and the movement of planets across the sky. A good pair of binoculars is often recommended as the true first step: they show the craters of the Moon, Jupiter's four largest moons, star clusters like the Pleiades and Hyades in stunning detail, and dozens of nebulae and galaxies. Many experienced astronomers prefer binoculars for sweeping wide areas of sky. Start with binoculars and learn the sky before committing to a telescope."
+    },
+    {
+      "question": "What can I realistically see from a UK suburban garden?",
+      "answer": "More than you'd expect. The Moon is spectacular through any telescope or binoculars: craters, mountains, and seas are all visible. Jupiter is bright enough to show cloud bands and all four Galilean moons through a small telescope. Saturn's rings are visible at around 30x magnification. The Orion Nebula (visible winter through spring), the Andromeda Galaxy, and dozens of open and globular star clusters are within reach. Light pollution reduces how much deep-sky detail you can see, but planets and the Moon are largely unaffected."
+    },
+    {
+      "question": "When is the best time to stargaze in the UK?",
+      "answer": "Autumn and winter offer the best conditions: nights are long, the Milky Way core has set but the sky gets properly dark early, and some of the most photogenic constellations (Orion, Perseus, Auriga) are well-placed. Summer nights never get fully dark in the UK due to astronomical twilight persisting until midnight. Any clear moonless night away from the Moon's glare is good for deep-sky objects; the Moon itself is worth observing whenever it's up. Check the Clear Outside app for UK cloud forecasts and astronomical seeing conditions."
+    },
+    {
+      "question": "What's the best telescope for a beginner in the UK?",
+      "answer": "For a first telescope, aperture (the size of the mirror or lens) matters more than magnification. A 130mm Dobsonian like the Sky-Watcher Heritage 130P is consistently the top recommendation in the UK astronomy community: large enough to show serious detail, simple enough to use on a cold night, and affordable enough not to be a painful mistake. Avoid cheap department store telescopes that advertise high magnification on the box; high magnification with poor optics and a shaky mount shows you nothing useful."
+    },
+    {
+      "question": "Do I need to go somewhere dark to see anything?",
+      "answer": "Darker skies always show more, but you don't need to travel to enjoy astronomy. Planets, the Moon, double stars, and the brightest clusters are all visible from towns and cities. For the Milky Way, nebulae, and faint galaxies, you need genuinely dark skies. The UK has several Dark Sky Discovery Sites and certified Dark Sky Parks (Exmoor, Galloway, Snowdonia, Brecon Beacons). Even driving 20 minutes out of a city makes a significant difference. The Light Pollution Map at lightpollutionmap.info shows the darkness level of any UK location."
+    },
+    {
+      "question": "What apps should I use for stargazing?",
+      "answer": "Stellarium (free, Android and iOS) is the most widely used astronomy app, with a realistic real-time sky view, satellite tracking, and a deep object database. SkySafari is more powerful and better for telescope control. The Clear Outside app is invaluable for UK observers: it shows hourly cloud cover, astronomical seeing, transparency, and Moon phase for your location. The BBC Weather app is less useful than Clear Outside for stargazing because it doesn't show seeing conditions."
+    },
+    {
+      "question": "How do I find dark sky sites near me in the UK?",
+      "answer": "The Dark Sky Discovery website (darkskydiscovery.org.uk) lists over 200 sites across the UK rated by darkness, with postcodes and notes on access. There are also formal Dark Sky Reserves and Parks: Galloway Forest Park, Exmoor, Brecon Beacons, Snowdonia, the Cairngorms, and others. The Kielder Observatory in Northumberland runs public observing nights and is one of the best organised amateur astronomy venues in the UK. Always check access and parking before travelling."
+    },
+    {
+      "question": "Why does my telescope image look upside down?",
+      "answer": "All astronomical telescopes flip or rotate the image. It depends on the design. A Newtonian reflector (like most beginner scopes) shows an image that is upside down compared to normal vision. This doesn't matter for astronomy because there is no 'right way up' in space, and astronomers simply learn to navigate with a flipped view. If you want an upright image for terrestrial (daytime) viewing, you need a 'star diagonal' or an erecting prism. These are separate accessories. Most astronomy books and charts are printed to match the view through a standard telescope."
+    }
+  ]
+}

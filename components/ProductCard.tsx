@@ -59,7 +59,7 @@ export default function ProductCard({ product }: { product: Product }) {
           {product.button_label ?? "View on Amazon →"}
         </a>
         <p className="text-center text-[#aaaaaa] text-[11px] mt-2">
-          Paid link — as an Amazon Associate we earn from qualifying purchases
+          Paid link. As an Amazon Associate we earn from qualifying purchases
         </p>
       </div>
     </article>

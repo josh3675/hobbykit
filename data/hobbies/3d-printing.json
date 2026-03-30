@@ -105,7 +105,7 @@
       "answer": "No. You can print for months using free models without designing anything yourself. Printables (printables.com) and Thingiverse have hundreds of thousands of free, ready-to-print models for everything from cable clips to cosplay armour. When you're ready to design, Tinkercad is free, browser-based, and really beginner-friendly. Fusion 360 is more powerful and free for hobbyists."
     },
     {
-      "question": "My print has stringing — thin hairs between parts of the print. How do I fix it?",
+      "question": "My print has stringing (thin hairs between parts of the print). How do I fix it?",
       "answer": "Stringing happens when molten filament oozes from the nozzle as it moves between sections. The main fix is increasing retraction (the slicer setting that pulls filament back into the nozzle before a travel move). Also try lowering your print temperature by 5°C at a time, and increase travel speed. Most slicers have anti-stringing profiles; enabling 'combing mode' in Cura or Orca Slicer often fixes it straight away."
     },
     {

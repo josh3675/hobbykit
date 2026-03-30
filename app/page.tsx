@@ -31,11 +31,11 @@ const websiteSchema = {
 };
 
 export const metadata: Metadata = {
-  title: "KitUp — Find Your Perfect Starter Kit",
+  title: "KitUp - Find Your Perfect Starter Kit",
   description:
     "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
   openGraph: {
-    title: "KitUp — Find Your Perfect Starter Kit",
+    title: "KitUp - Find Your Perfect Starter Kit",
     description:
       "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
     url: "/",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "KitUp — Find Your Perfect Starter Kit",
+    title: "KitUp - Find Your Perfect Starter Kit",
     description:
       "Handpicked beginner gear for the hobbies you've always wanted to try. Every recommendation links to Amazon UK.",
   },
@@ -60,7 +60,7 @@ const HOW_IT_WORKS = [
     step: "2",
     title: "Pick your budget",
     description:
-      "Filter by budget — whether you want to dip a toe in or go all-in, we have a kit for you.",
+      "Filter by budget: whether you want to dip a toe in or go all-in, we have a kit for you.",
   },
   {
     step: "3",

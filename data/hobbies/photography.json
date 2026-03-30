@@ -112,7 +112,7 @@
       "answer": "Start with JPEG. The camera processes the image for you and the files are smaller and sharper straight from the camera. Switch to RAW once you start editing on a computer, as RAW files retain all the captured data, giving you far more latitude to fix exposure, colour, and white balance in post. Shooting RAW+JPEG while you're learning is a good middle ground."
     },
     {
-      "question": "My photos are blurry indoors — what am I doing wrong?",
+      "question": "My photos are blurry indoors: what am I doing wrong?",
       "answer": "Almost certainly your shutter speed is too slow. In low light, the camera automatically slows the shutter to gather more light, but slow shutter speeds cause motion blur, either from camera shake or your subject moving. Fix it by raising your ISO (try 800–3200 indoors), opening your aperture wider, or using a tripod. If you're shooting on Auto, switch to Aperture Priority and let the camera handle shutter speed while you control the exposure."
     },
     {

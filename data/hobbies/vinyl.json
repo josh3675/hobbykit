@@ -1,0 +1,135 @@
+{
+  "slug": "vinyl",
+  "name": "Vinyl Record Collecting",
+  "tagline": "Warm sound, physical music, real ritual",
+  "seo": {
+    "title": "Best Beginner Vinyl Record Setup UK 2025 | KitUp",
+    "description": "Start your vinyl record collection with the right turntable, cleaning kit, and accessories. Beginner recommendations with Amazon UK links.",
+    "keywords": ["beginner turntable UK", "vinyl record collecting kit UK", "best turntable for beginners UK", "vinyl setup UK", "record player starter kit UK"]
+  },
+  "intro": "There's a reason vinyl has refused to go away. Not nostalgia exactly, something more physical than that. Taking a record from its sleeve, placing it on the platter, lowering the needle: the ritual of it slows you down. The sound fills the room differently. You listen to the whole side rather than skipping tracks. Collecting records connects you to music in a way that streaming simply doesn't, and the hunt (charity shops, record fairs, the bins at independent record stores) is its own pleasure. The UK has a brilliant network of independent record shops and a thriving second-hand market. Getting started costs less than you'd think, and the setup, once it's dialled in, lasts decades.",
+  "difficulty_levels": ["complete-beginner", "some-experience"],
+  "budget_tiers": ["budget", "mid-range", "premium"],
+  "kits": [
+    {
+      "tier": "starter",
+      "label": "Starter Kit",
+      "description": "A proper listening setup and the accessories to look after your records from day one.",
+      "budget_tier": "budget",
+      "products": [
+        {
+          "id": "vinyl-001",
+          "name": "Audio-Technica AT-LP60X Fully Automatic Belt-Drive Turntable",
+          "description": "A fully automatic belt-drive turntable with a built-in phono preamp, allowing it to connect directly to powered speakers or an amplifier without a separate preamp. Includes an Audio-Technica VM95E dual magnet cartridge. Available in black or white. USB version also available for digitising records.",
+          "why_we_picked": "The AT-LP60X is the most recommended entry-level turntable in the world for good reason: it's well-built for the price, the included cartridge is genuinely capable (not the junk stylus fitted to most cheap record players), and the built-in preamp means you don't need additional equipment to get started. Fully automatic means the arm returns and the motor stops at the end of a side, which prevents wear if you leave a record playing. It sounds significantly better than anything sold in lifestyle stores at a similar price.",
+          "badge": "Best for Beginners",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£130–£160",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "vinyl-002",
+          "name": "Edifier R1280T Powered Bookshelf Speakers",
+          "description": "Compact powered (active) bookshelf speakers with a built-in amplifier, two RCA inputs, a 4-inch woofer, and a 13mm dome tweeter per side. Wood grain vinyl finish. No separate amplifier required.",
+          "why_we_picked": "Powered speakers are the simplest solution for a first vinyl setup: they contain their own amplifier, so you connect the turntable directly and have sound without a separate amp and speaker setup to worry about. The Edifier R1280T is consistently praised as the best option at this price point: warm, detailed sound, well-built, and attractive. They'll genuinely surprise you at the price and serve well until you're ready to step up to separates.",
+          "badge": "Best Value",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£90–£110",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "vinyl-003",
+          "name": "Anti-Static Carbon Fibre Record Brush",
+          "description": "A carbon fibre record cleaning brush with thousands of fine fibres that reach into the groove and remove dust while discharging static. Comes with a wooden handle and storage sleeve.",
+          "why_we_picked": "Dust is the enemy of vinyl. Particles sitting in the groove cause clicks, pops, and surface noise, and playing a dirty record drags that grit past the stylus, wearing both the record and the needle faster. A carbon fibre brush used before every play is the single most important maintenance habit in vinyl collecting. Takes ten seconds, costs almost nothing, and keeps your records and stylus in condition for years.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£8–£15",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "vinyl-004",
+          "name": "Polyethylene Inner Sleeves (50 Pack)",
+          "description": "Anti-static polyethylene inner sleeves, 50 per pack, fitting standard 12-inch LP records. Replace the paper inner sleeves that records often come with, which can scratch the vinyl and generate static.",
+          "why_we_picked": "Paper inner sleeves scratch records every time you slide the disc in or out: the fibres act like sandpaper on vinyl. Polyethylene sleeves are smooth, anti-static, and protect the record surface properly. Replacing the inner sleeves on every record you buy (particularly second-hand records where the originals may be tatty) is the most cost-effective record care habit. At roughly 10p a sleeve, it's barely worth thinking about.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£6–£12",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    },
+    {
+      "tier": "upgrade",
+      "label": "Level Up Kit",
+      "description": "A serious step up in turntable quality and record care for committed listeners.",
+      "budget_tier": "mid-range",
+      "products": [
+        {
+          "id": "vinyl-005",
+          "name": "Audio-Technica AT-LP120XUSB Direct Drive Turntable",
+          "description": "A manual direct-drive turntable with an aluminium die-cast platter, adjustable anti-skating, pitch control, a built-in phono preamp, and USB output for digitising records. Includes the AT-VM95E dual magnet cartridge. The step-up from the LP60X for serious listening.",
+          "why_we_picked": "Direct drive motors offer more consistent platter speed and better torque than belt drive, which is important for a consistent listening experience and essential if you ever want to DJ. The LP120X is heavier, more rigid, and more adjustable than entry-level decks, and the VM95E cartridge it comes with is a genuinely high-performing stylus at any price. The USB output is useful for archiving records you can't replace. This is a turntable you'll still be happy with in fifteen years.",
+          "badge": "Staff Pick",
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£230–£270",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        },
+        {
+          "id": "vinyl-006",
+          "name": "Record Cleaning Solution and Velvet Brush Kit",
+          "description": "A 250ml bottle of anti-static vinyl cleaning solution and a velvet-pad cleaning brush. Spray onto the record, brush in the direction of the groove, wipe clean with a microfibre cloth. Removes fingerprints, grime, and deep-seated dust that a dry brush can't reach.",
+          "why_we_picked": "For second-hand records especially (and most serious collectors buy heavily from charity shops and record fairs) a wet clean makes a dramatic difference to both sound quality and surface noise. A record that sounds crackly and lifeless can be transformed by a proper wet clean. The spray and velvet brush approach is the accessible version of what cleaning machines do at a fraction of the cost, and it's effective on the vast majority of dirty records.",
+          "badge": null,
+          "amazon_url": "https://www.amazon.co.uk/dp/ASIN_HERE",
+          "price_range": "£12–£20",
+          "image_url": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=ASIN_HERE&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=hobbykit-21"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Turntable (with built-in phono preamp for simplicity)",
+    "Powered speakers or separate amplifier and passive speakers",
+    "RCA cables (often included with the turntable)",
+    "Carbon fibre anti-static record brush",
+    "Polyethylene inner sleeves (replace paper sleeves on all records)",
+    "Outer polythene sleeves (optional but good for protecting cover art)",
+    "Record cleaning solution and velvet brush (especially for second-hand records)",
+    "Record storage: upright in a crate, cube shelf unit, or dedicated record shelf"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a separate amplifier or can I plug the turntable straight in?",
+      "answer": "It depends on the turntable. Turntables output a very low 'phono' level signal that needs amplification before it reaches speakers. If your turntable has a built-in phono preamp (like the AT-LP60X), it can connect directly to powered speakers or to any amplifier's line-in or AUX input. If your turntable has no built-in preamp (more common on higher-end decks), you need either a separate phono preamp or an amplifier with a dedicated phono input. Check the turntable spec before buying: 'built-in phono preamp' or 'switchable phono/line output' means it'll work with powered speakers directly."
+    },
+    {
+      "question": "Why does vinyl sound different to streaming?",
+      "answer": "The difference is real, though its source is debated. Vinyl is an analogue format: the groove is a physical representation of the sound wave, and the stylus traces it directly. Digital audio (streaming, CD) converts sound into numbers and reconstructs it. Vinyl has higher noise floor (surface noise, pops, crackle) but many listeners describe its presentation as warmer and more three-dimensional. Some of what people love about vinyl is also psychological: the ritual, the artwork, the full album format, and the act of sitting down to listen actively rather than having music playing in the background all contribute to the experience feeling different."
+    },
+    {
+      "question": "Where should I buy second-hand records in the UK?",
+      "answer": "Charity shops (particularly Oxfam Music and independent hospice shops) are the most cost-effective source: records often sell for 50p to £2 and you can find genuine gems. Independent record shops usually have well-organised second-hand sections graded by condition, which costs more but saves time. Record fairs are held regularly across the UK. Search for your nearest via the Record Fair website. Discogs (discogs.com) is the global marketplace for buying specific records from private sellers and dealers, with condition grading and pricing data."
+    },
+    {
+      "question": "How do I know if a second-hand record is in good condition?",
+      "answer": "Hold the record at an angle under a bright light and look across the surface. Playing wear appears as fine circular scratches in the groove area; light surface marks are usually less serious than they look. Deep gouges or clearly visible scratches that catch your fingernail will likely be audible as clicks or skips. Check the cover for water damage (causes a musty smell that transfers to the vinyl). Mould on the surface can usually be cleaned off. A record that looks clean under a light will almost always play cleanly after a dry or wet brush. If in doubt, the worst outcome is 50p wasted."
+    },
+    {
+      "question": "How often should I replace the stylus?",
+      "answer": "A standard stylus (needle) should be replaced every 500–1,000 hours of play time. For a typical listener playing an hour a day, that's one to three years. A worn stylus doesn't just sound bad: it physically damages your records by riding incorrectly in the groove and grinding rather than tracing. If your system sounds harsh, sibilant, or produces more surface noise than it used to, a new stylus is the first thing to try. Most Audio-Technica turntables use the VM95 cartridge family, and replacement styli are available at different quality levels without replacing the whole cartridge."
+    },
+    {
+      "question": "What are the best first records to buy?",
+      "answer": "Start with music you already love, in genres that are well-represented on vinyl: classic rock, jazz, soul, reggae, and electronic music all have massive vinyl catalogues and are easy to find second-hand. Avoid heavily compressed modern pop mastered for streaming (it often sounds poor on vinyl). Albums that audiophiles consistently recommend for showing what vinyl can do: Miles Davis's Kind of Blue, Dark Side of the Moon by Pink Floyd, any original pressing of a classic soul or jazz album. For new music, most serious releases still come out on vinyl. Your local independent record shop is the best place to ask for recommendations."
+    },
+    {
+      "question": "Should I buy a cheap record player from a lifestyle brand?",
+      "answer": "No, and this is the most important advice on this page. Cheap turntables sold in department stores and lifestyle brands (Crosley, Victrola, and similar) use ceramic cartridges that apply excessive tracking force to the record. They don't track the groove accurately, sound poor, and genuinely damage your records over time. The Audio-Technica AT-LP60X costs more but uses a proper magnetic cartridge, applies the correct tracking force, and will not damage your vinyl. If budget is the concern, the LP60X is the minimum worth buying. Don't spend money on records and then destroy them with a bad turntable."
+    },
+    {
+      "question": "How should I store my records?",
+      "answer": "Always store records vertically: never stacked flat, which warps them over time under their own weight. Any cube shelf unit (like the KALLAX from IKEA) works perfectly; each cube holds around 50–60 LPs. Dedicated record storage crates are available from most record shops and work well for smaller collections. Keep records away from direct sunlight and heat sources, both of which cause warping. Store in a cool, dry room. Damp causes mould growth on vinyl and sleeve deterioration. Never leave records in a car in summer."
+    }
+  ]
+}

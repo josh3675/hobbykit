@@ -42,7 +42,7 @@ export default function TermsPage() {
           <p className="mb-3">
             Product links on this site are <strong>paid affiliate links</strong>. When you
             click a product link and make a qualifying purchase on Amazon, KitUp earns a
-            small commission. This commission comes entirely from Amazon — it does not
+            small commission. This commission comes entirely from Amazon. It does not
             increase the price you pay.
           </p>
           <p>
@@ -59,7 +59,7 @@ export default function TermsPage() {
             We take care to ensure our product recommendations are accurate and up to date,
             but we cannot guarantee that information such as product availability or
             specifications is current at the time you read it. Product prices are not
-            displayed on KitUp — always check the current price on Amazon before purchasing.
+            displayed on KitUp. Always check the current price on Amazon before purchasing.
           </p>
         </section>
 
@@ -84,7 +84,7 @@ export default function TermsPage() {
         <section>
           <h2 className="text-[#1a1a1a] font-bold text-xl mb-3">6. Intellectual property</h2>
           <p>
-            All original content on KitUp — including text, design, and layout — is the
+            All original content on KitUp, including text, design, and layout, is the
             property of KitUp and may not be reproduced without permission. Product images
             are sourced from Amazon and remain the property of their respective owners.
           </p>

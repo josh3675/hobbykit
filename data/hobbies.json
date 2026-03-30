@@ -23,7 +23,7 @@
     "slug": "photography",
     "name": "Photography",
     "tagline": "Capture the world through your lens",
-    "description": "From your first camera to your first great shot — the essential kit for beginner photographers.",
+    "description": "From your first camera to your first great shot: the essential kit for beginner photographers.",
     "image": "/images/hobbies/photography.jpg",
     "emoji": "📷",
     "difficulty": "beginner-friendly",
@@ -53,9 +53,59 @@
     "slug": "fishing",
     "name": "Fishing",
     "tagline": "Cast a line and enjoy the peace",
-    "description": "The essential fishing kit for UK beginners — rods, reels, tackle, and everything in between.",
+    "description": "The essential fishing kit for UK beginners: rods, reels, tackle, and everything in between.",
     "image": "/images/hobbies/fishing.jpg",
     "emoji": "🎣",
+    "difficulty": "beginner-friendly",
+    "featured": false
+  },
+  {
+    "slug": "knitting",
+    "name": "Knitting & Crochet",
+    "tagline": "Make something beautiful, one stitch at a time",
+    "description": "Start knitting or crocheting with the right yarn, hooks, and needles for complete beginners.",
+    "image": "/images/hobbies/knitting.jpg",
+    "emoji": "🧶",
+    "difficulty": "beginner-friendly",
+    "featured": true
+  },
+  {
+    "slug": "astronomy",
+    "name": "Astronomy",
+    "tagline": "The universe is waiting. All you need is a clear night.",
+    "description": "Explore the night sky with the right telescope, binoculars, and stargazing accessories.",
+    "image": "/images/hobbies/astronomy.jpg",
+    "emoji": "🔭",
+    "difficulty": "beginner-friendly",
+    "featured": true
+  },
+  {
+    "slug": "candle-making",
+    "name": "Candle Making",
+    "tagline": "Pour, set, light, repeat",
+    "description": "Everything you need to start making your own soy wax candles at home.",
+    "image": "/images/hobbies/candle-making.jpg",
+    "emoji": "🕯️",
+    "difficulty": "beginner-friendly",
+    "featured": false
+  },
+  {
+    "slug": "padel-tennis",
+    "name": "Padel Tennis",
+    "tagline": "The fastest growing racket sport in the UK",
+    "description": "Get on court with the right racket, balls, and gear for padel beginners.",
+    "image": "/images/hobbies/padel-tennis.jpg",
+    "emoji": "🎾",
+    "difficulty": "beginner-friendly",
+    "featured": false
+  },
+  {
+    "slug": "vinyl",
+    "name": "Vinyl Record Collecting",
+    "tagline": "Warm sound, physical music, real ritual",
+    "description": "Start your record collection and hi-fi setup with the essential beginner turntable and accessories.",
+    "image": "/images/hobbies/vinyl.jpg",
+    "emoji": "🎵",
     "difficulty": "beginner-friendly",
     "featured": false
   }

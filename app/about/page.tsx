@@ -28,14 +28,14 @@ export default function AboutPage() {
       <div className="prose prose-slate max-w-none prose-headings:text-[#1a1a1a] prose-headings:font-bold prose-a:text-[#2d6a4f]">
         <p className="text-[#333333] text-lg leading-relaxed mb-6">
           KitUp exists because starting a new hobby is overwhelming. You want to
-          try something — guitar, painting, photography — and suddenly you&apos;re
+          try something (guitar, painting, photography) and suddenly you&apos;re
           drowning in forum threads, Reddit arguments, and Amazon listings with
           10,000 reviews.
         </p>
 
         <p className="text-[#333333] leading-relaxed mb-6">
           We cut through that noise. For every hobby we cover, we identify the
-          smallest set of gear that gets you actually doing the thing — not
+          smallest set of gear that gets you actually doing the thing, not
           researching it for six months.
         </p>
 
@@ -49,7 +49,7 @@ export default function AboutPage() {
         <ul className="text-[#333333] space-y-2 mb-6 list-none pl-0">
           {[
             "Genuine beginner-friendliness over gear that impresses experts",
-            "Good value — not the cheapest, not the most expensive",
+            "Good value: not the cheapest, not the most expensive",
             "Widely available on Amazon UK with reliable delivery",
             "Products we'd actually buy or have bought ourselves",
           ].map((item) => (
@@ -72,7 +72,7 @@ export default function AboutPage() {
           click through and make a purchase, we may earn a small commission from
           Amazon. The important thing to understand is this: <strong>it doesn&apos;t
           cost you a penny more.</strong> You pay exactly the same price you would
-          by going directly to Amazon — the commission comes from Amazon&apos;s
+          by going directly to Amazon. The commission comes from Amazon&apos;s
           side of the transaction, not yours.
         </p>
         <p className="text-[#333333] leading-relaxed mb-6">
@@ -84,7 +84,7 @@ export default function AboutPage() {
         </p>
         <p className="text-[#333333] leading-relaxed mb-6">
           We want to be clear: affiliate arrangements have zero influence on
-          what we recommend. Products are chosen entirely on merit — whether
+          what we recommend. Products are chosen entirely on merit, and whether
           they&apos;re the right tool for a beginner, at a fair price. We&apos;d
           rather point you to the best option and earn nothing than recommend
           something mediocre because it pays a higher rate.
@@ -96,7 +96,7 @@ export default function AboutPage() {
         <p className="text-[#333333] leading-relaxed">
           Have a hobby you&apos;d like to see covered? Spotted an outdated
           product link? We&apos;d love to hear from you. Drop us a line via the
-          newsletter — if you&apos;re subscribed, just reply to any of our emails.
+          newsletter. If you&apos;re subscribed, just reply to any of our emails.
         </p>
       </div>
 
