@@ -93,7 +93,7 @@ export default function Footer() {
         {/* Affiliate disclosure + copyright */}
         <div className="border-t border-[#333333] mt-10 pt-6 flex flex-col md:flex-row justify-between gap-3 text-[#888888] text-xs">
           <p>
-            As an Amazon Associate I earn from qualifying purchases. Prices shown are approximate and may vary.
+            As an Amazon Associate I earn from qualifying purchases.
           </p>
           <p>© {new Date().getFullYear()} KitUp. All rights reserved.</p>
         </div>

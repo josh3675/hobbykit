@@ -57,13 +57,9 @@ export default function TermsPage() {
           <h2 className="text-[#1a1a1a] font-bold text-xl mb-3">3. Content accuracy</h2>
           <p className="mb-3">
             We take care to ensure our product recommendations are accurate and up to date,
-            but we cannot guarantee that information such as product availability, prices,
-            or specifications is current at the time you read it.
-          </p>
-          <p>
-            <strong>Prices shown on KitUp are approximate ranges only</strong> and are
-            provided for general guidance. They are not sourced in real time from Amazon.
-            Always check the current price on Amazon before purchasing.
+            but we cannot guarantee that information such as product availability or
+            specifications is current at the time you read it. Product prices are not
+            displayed on KitUp — always check the current price on Amazon before purchasing.
           </p>
         </section>
 

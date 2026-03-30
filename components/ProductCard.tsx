@@ -50,9 +50,6 @@ export default function ProductCard({ product }: { product: Product }) {
 
       {/* Footer */}
       <div className="mt-auto">
-        <p className="text-[#2d6a4f] font-semibold text-base mb-3">
-          {product.price_range}
-        </p>
         <a
           href={product.amazon_url}
           target="_blank"

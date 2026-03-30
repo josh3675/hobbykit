@@ -20,7 +20,7 @@ export interface Product {
   badge: string | null;
   amazon_url: string;
   button_label?: string;
-  price_range: string;
+  price_range?: string;
   image_url: string;
 }
 

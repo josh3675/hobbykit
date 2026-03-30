@@ -60,8 +60,6 @@ function buildProductSchema(product: Product, hobbyName: string) {
     image: product.image_url,
     offers: {
       "@type": "Offer",
-      priceCurrency: "GBP",
-      price: product.price_range,
       availability: "https://schema.org/InStock",
       url: product.amazon_url,
       seller: { "@type": "Organization", name: "Amazon UK" },
@@ -156,7 +154,7 @@ export default function HobbyPage({ params }: Props) {
 
         {/* Affiliate disclosure */}
         <div className="mb-8 rounded-lg bg-[#f9f9f9] border border-[#e5e5e5] px-5 py-3 text-[#666666] text-xs leading-relaxed">
-          <strong className="text-[#444444]">Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Product links below are paid links — clicking them and buying helps keep KitUp free at no extra cost to you. Prices shown are approximate and may vary.
+          <strong className="text-[#444444]">Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Product links below are paid links — clicking them and buying helps keep KitUp free at no extra cost to you.
         </div>
 
         {/* FilterBar + Kit sections */}
