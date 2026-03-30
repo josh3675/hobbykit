@@ -56,11 +56,14 @@ export default function ProductCard({ product }: { product: Product }) {
         <a
           href={product.amazon_url}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer sponsored"
           className="block w-full text-center bg-[#2d6a4f] text-white rounded-lg px-4 py-3 font-semibold hover:bg-[#1b4332] transition-colors"
         >
           {product.button_label ?? "View on Amazon →"}
         </a>
+        <p className="text-center text-[#aaaaaa] text-[11px] mt-2">
+          Paid link — as an Amazon Associate we earn from qualifying purchases
+        </p>
       </div>
     </article>
   );

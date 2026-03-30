@@ -154,6 +154,11 @@ export default function HobbyPage({ params }: Props) {
           </p>
         </header>
 
+        {/* Affiliate disclosure */}
+        <div className="mb-8 rounded-lg bg-[#f9f9f9] border border-[#e5e5e5] px-5 py-3 text-[#666666] text-xs leading-relaxed">
+          <strong className="text-[#444444]">Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Product links below are paid links — clicking them and buying helps keep KitUp free at no extra cost to you. Prices shown are approximate and may vary.
+        </div>
+
         {/* FilterBar + Kit sections */}
         <Suspense fallback={null}>
           <FilterBar />
